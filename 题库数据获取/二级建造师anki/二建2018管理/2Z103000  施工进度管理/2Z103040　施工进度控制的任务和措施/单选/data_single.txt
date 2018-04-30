@@ -1,0 +1,44 @@
+1. 关于横道图特点的说法，正确的是{{c1::（）}}。[2011年真题]	①—②—③—④<br>②—①—③—④<br>②—①—④—③<br>①—③—②—④	
+                                	
+                                     
+                                
+2. 双代号网络图中，工作是用{{c1::（）}}表示的。[2013年真题]	工作关系<br>工程量<br>资源提供条件<br>工程质量	
+                                	
+                                     
+                                
+3. 工程网络计划执行过程中，如果某项工作实际进度拖延的时间超过其自由时差，则该工作{{c1::（）}}。[2010年真题]	编制工程资源需求计划<br>应用互联网进行进度控制<br>制订进度控制工作流程<br>选择先进的施工技术	
+                                	
+                                     
+                                
+4. 下列网络计划（见图2Z103030-1）中，工作E的最迟开始时间是{{c1::（）}}。[2012年真题]<br/><span style="display:block;text-align:center;"><img height="185" id="图片 1" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/79c3ef75-f6cd-4591-8324-51c5fd3ab191.png" width="514"/></span><span style="display:block;text-align:center;">图2Z103030-1</span>	组织措施<br>管理措施<br>经济措施<br>技术措施	
+                                	
+                                     
+                                
+5. 已知某建设工程网络计划中A工作的自由时差为5天，总时差为7天，监理工程师在检查施工进度时发现只有该工作实际进度拖延，且影响总工期3天，则该工作实际进度比计划进度拖延{{c1::（）}}天。[2011年真题]	编制进度控制工作流程<br>重视信息技术的应用<br>优选施工方案<br>进行进度控制的会议组织设计	
+                                	
+                                     
+                                
+6. 双代号网路计划中的关键线路是指{{c1::（）}}。[2014年真题]	确定各类进度计划的审批程序<br>选择合理的合同结构<br>选择工程发承包方式<br>优化项目的设计方案或施工方案	
+                                	
+                                     
+                                
+7. 双代号网络计划如图2Z103030-2所示（时间单位：天），其关键线路有{{c1::（）}}条。[2014年真题]<br/><span style="display:block;text-align:center;"><img height="188" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/32b95026-0422-45fc-9ef9-a03b6a7626f1.png" width="460"/></span><span style="display:block;text-align:center;">图2Z103030-2</span>	工程量的完成情况<br>工作时间的执行情况<br>工程质量的完成情况<br>资源的使用情况	
+                                	
+                                     
+                                
+8. 某双代号网络计划如图2Z103030-3所示（时间单位：天），其关键线路有{{c1::（）}}条。[2015年真题]<br/><span style="display:block;text-align:center;"><img height="158" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/462e439a-8e40-4764-93a9-633d85f5ef2a.png" width="277"/></span><span style="display:block;text-align:center;">图2Z103030-3</span>	组织措施<br>管理措施<br>技术措施<br>经济措施	
+                                	
+                                     
+                                
+9. 根据双代号网络图绘图规则，图2Z103030-4中网络图的绘图错误有{{c1::（）}}处。[2015年真题]<br/><span style="display:block;text-align:center;"><img height="126" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/a64d8ba4-7457-40c3-9a00-8cec4754c049.png" width="357"/></span><span style="display:block;text-align:center;">图2Z103030-4</span>	缺乏进度计划系统的观念<br>缺乏动态控制的观念<br>编制相互联系的计划，形成计划系统<br>缺乏进度计划多方案比较和选优的观念	
+                                	
+                                     
+                                
+10. 某工程双代号时标网络计划如图2Z103030-5所示，则工作B的自由时差和总时差{{c1::（）}}。[2015年真题]<br/><span style="display:block;text-align:center;"><img height="218" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/1c02724f-3213-4f0f-a337-9f5538b3c42d.png" width="392"/></span><span style="display:block;text-align:center;">图2Z103030-5</span>	组织措施<br>管理措施<br>技术措施<br>经济措施	
+                                	
+                                     
+                                
+11. 某工程采用单价合同，施工过程中承包人向发包人提交了已完工程量报告，发包人决定进行工程计量，下列计量结果有效的是{{c1::（）}}。[2015年真题]	重视进度目标的分析和论证<br>选择合理的承发包模式<br>选择合理项目管理模式<br>分析影响工程进度的风险	
+                                	
+                                     
+                                

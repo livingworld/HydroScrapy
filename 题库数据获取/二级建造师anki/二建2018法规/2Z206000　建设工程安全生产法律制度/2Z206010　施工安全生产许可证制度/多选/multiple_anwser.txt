@@ -1,0 +1,4 @@
+A|B|E
+B|C|E
+B|C|D|E
+A|B|D|E

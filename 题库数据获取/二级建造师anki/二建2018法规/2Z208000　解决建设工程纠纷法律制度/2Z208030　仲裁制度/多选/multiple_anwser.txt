@@ -1,0 +1,14 @@
+A|D|E
+A|C|D
+A|C
+A|B|C
+B|C
+B|D
+A|B|D
+C|E
+C|E
+C|E
+C|D
+A|D|E
+A|C|D
+A|B|C|D

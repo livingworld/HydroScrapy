@@ -1,0 +1,34 @@
+1. 关于横道图特点的说法，正确的是（　　）。[2011年真题]
+2. 双代号网络图中，工作是用（　　）表示的。[2013年真题]
+3. 工程网络计划执行过程中，如果某项工作实际进度拖延的时间超过其自由时差，则该工作（　　）。[2010年真题]
+4. 下列网络计划（见图2Z103030-1）中，工作E的最迟开始时间是（　　）。[2012年真题]<br/><span style="display:block;text-align:center;"><img height="185" id="图片 1" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/79c3ef75-f6cd-4591-8324-51c5fd3ab191.png" width="514"/></span><span style="display:block;text-align:center;">图2Z103030-1</span>
+5. 已知某建设工程网络计划中A工作的自由时差为5天，总时差为7天，监理工程师在检查施工进度时发现只有该工作实际进度拖延，且影响总工期3天，则该工作实际进度比计划进度拖延（　　）天。[2011年真题]
+6. 双代号网路计划中的关键线路是指（　　）。[2014年真题]
+7. 双代号网络计划如图2Z103030-2所示（时间单位：天），其关键线路有（　　）条。[2014年真题]<br/><span style="display:block;text-align:center;"><img height="188" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/32b95026-0422-45fc-9ef9-a03b6a7626f1.png" width="460"/></span><span style="display:block;text-align:center;">图2Z103030-2</span>
+8. 某双代号网络计划如图2Z103030-3所示（时间单位：天），其关键线路有（　　）条。[2015年真题]<br/><span style="display:block;text-align:center;"><img height="158" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/462e439a-8e40-4764-93a9-633d85f5ef2a.png" width="277"/></span><span style="display:block;text-align:center;">图2Z103030-3</span>
+9. 根据双代号网络图绘图规则，图2Z103030-4中网络图的绘图错误有（　　）处。[2015年真题]<br/><span style="display:block;text-align:center;"><img height="126" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/a64d8ba4-7457-40c3-9a00-8cec4754c049.png" width="357"/></span><span style="display:block;text-align:center;">图2Z103030-4</span>
+10. 某工程双代号时标网络计划如图2Z103030-5所示，则工作B的自由时差和总时差（　　）。[2015年真题]<br/><span style="display:block;text-align:center;"><img height="218" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/1c02724f-3213-4f0f-a337-9f5538b3c42d.png" width="392"/></span><span style="display:block;text-align:center;">图2Z103030-5</span>
+11. 某工程采用单价合同，施工过程中承包人向发包人提交了已完工程量报告，发包人决定进行工程计量，下列计量结果有效的是（　　）。[2015年真题]
+12. 某工程双代号网络计划如图2Z103030-6所示（时间单位：天），其关键线路有（　　）条。[2013年真题]<br/><span style="display:block;text-align:center;"><img height="148" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/e297fe6c-0cce-492b-84c6-4533461daf60.png" width="295"/></span><span style="display:block;text-align:center;">图2Z103030-6</span>
+13. 某工程双代号网络计划如图2Z103030-7所示（时间单位：天），则该计划的关键线路是（　　）。[2012年真题]<br/><span style="display:block;text-align:center;"><img height="192" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/df5e53a5-f114-43e1-b3fb-5b2fe6324d5f.png" width="389"/></span><span style="display:block;text-align:center;">图2Z103030-7</span>
+14. 某单代号网络计划如图2Z103030-8所示（时间单位：天），工作5的最迟完成时间是（　　）。[2015年真题]<br/><span style="display:block;text-align:center;"><img height="219" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/4f821fde-0d7e-4632-a3f2-8db4595165e1.png" width="443"/></span><span style="display:block;text-align:center;">图2Z103030-8</span>
+15. 某单代号网络计划如图2Z103030-9所示（时间单位：天），其计算工期是（　　）天。[2015年真题]<br/><span style="display:block;text-align:center;"><img height="236" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/4e04f873-9be4-44b8-b7e1-54aa531a033e.png" width="411"/></span><span style="display:block;text-align:center;">图2Z103030-9</span>
+16. 某分部工程双代号时标网络计划如图2Z103030-10所示（时间单位：天），工作A的总时差为（　　）天。[2013年真题]<br/><span style="display:block;text-align:center;"><img height="171" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/881c1f83-ae06-4bc9-824d-e410c2a15498.png" width="296"/></span><span style="display:block;text-align:center;">图2Z103030-10</span>
+17. 某网络计划中，工作M的最早完成时间为第8天，最迟完成时间为第12天，工作的持续时间为4天，与所有紧后工作的间隔时间最小值为2天，则该工作的自由时差为（　　）天。[2012年真题]
+18. 某工程网络计划中，工作N最早完成时间为第17天，持续时间为5天，该工作有三项紧后工作，它们的最早开始时间分别为第25天、第27天和第30天，则工作N的自由时差为（　　）天。[2013年真题]
+19. 某单代号网络计划如图2Z103030-11所示，工作D的自由时差为（　　）。[2009年真题]<br/><span style="display:block;text-align:center;"><img height="222" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/040b8205-bcbf-4299-8849-2086949e85a4.png" width="453"/></span><span style="display:block;text-align:center;">图2Z103030-11</span>
+21. 某工程的单代号网络计划如图2Z103030-13所示（时间单位：天），该计划的计算工期为（　　）天。[2013年真题]<br/><span style="display:block;text-align:center;"><img height="170" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/537aa63e-bfa8-4bbb-aad8-5ab2dc284726.png" width="290"/></span><span style="display:block;text-align:center;">图2Z103030-13</span>
+22. 下列网络计划（见图2Z103030-14，时间单位：天）的计算工期是（　　）。[2012年真题]<br/><span style="display:block;text-align:center;"><img height="215" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/a2b77660-f60b-4c34-95d4-78eb34dcba6a.png" width="428"/></span><p style="text-align:center;">图2Z103030-14</p>
+23. 下列关于横道图的叙述，不正确的是（　　）。
+24. 随机网络计划是按（　　）划分的类型。
+25. 《工程网络计划技术规程》推荐的常用工程网络计划类型不包括（　　）。
+26. 关于双代号网络计划中的虚箭线，下列说法不正确的是（　　）。
+27. 节点是双代号网络计划中箭线之间的连接点，每一个双代号网络图一般有（　　）。
+28. 双代号网络图如图2Z103030-15所示，引入虚工作2—3是为了表示（　　）。<br/><span style="display:block;text-align:center;"><img height="101" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/6c02fed6-a037-4c94-9258-747313434023.png" width="137"/></span><span style="display:block;text-align:center;">图2Z103030-15</span>
+29. 双代号网络计划时间参数不包括（　　）。
+30. 最迟完成时间是（　　）。
+31. 单代号网络图中，“箭线”表示（　　）。
+32. 在单代号网络计划中，下列说法不正确的是（　　）。
+33. 在编制双代号时标网络计划时，如果先绘制出时标网络计划，计算各工作的最早时间参数，再根据最早时间参数在时标计划表上确定节点位置，连线完成。这样的编制方法称为（　　）。
+34. 在双代号网络计划和单代号网络计划中，关于关键线路的说法正确的是（　　）。
+35. 关于自由时差和总时差，下列说法错误的是（　　）。

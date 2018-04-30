@@ -1,0 +1,14 @@
+1. 在各种计划方法中，（　　）的工作进度线与时间坐标相对应。[2007年真题]
+2. 下列关于双代号网络计划绘图规则的说法，正确的有（　　）。[2010年真题]
+3. 某双代号网络计划如图2Z103030-16所示，图中存在的绘图错误有（　　）。[2013年真题]<br/><span style="display:block;text-align:center;"><img height="142" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/08db3325-c48e-4325-9b53-752413643e3c.png" width="286"/></span><span style="display:block;text-align:center;">图2Z103030-16</span>
+4. 某钢筋混凝土基础工程，包括支模板、绑扎钢筋、浇筑混凝土三道工序，每道工序安排一个专业施工队进行，分三段施工，各工序在一个施工段上的作业时间分别为3天、2天、1天，见图2Z103030-17。关于其施工网络计划的说法，正确的有（　　）。[2015年真题]<br/><span style="display:block;text-align:center;"><img height="146" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/cad096ec-1521-4008-9865-741a4a35a85a.png" width="376"/></span><span style="display:block;text-align:center;">图2Z103030-17</span>
+5. 关于网络计划关键路线的说法，正确的有（　　）。[2013年真题]
+6. 某建设工程的施工网络计划如图2Z103030-18所示（时间单位：天），则该计划的关键线路有（　　）。[2011年真题]<br/><span style="display:block;text-align:center;"><img height="226" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/d6b4f22e-b84b-44fe-b21a-a32c472b0045.png" width="443"/></span><span style="display:block;text-align:center;">图2Z103030-18</span>
+7. 某工程施工进度计划如图2Z103030-19所示，下列说法中，正确的有（　　）。[2012年真题]<br/><span style="display:block;text-align:center;"><img height="152" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/5aa79f87-fc77-4171-bafb-c583f8e17059.png" width="393"/></span><span style="display:block;text-align:center;">图2Z103030-19</span>
+8. 关于双代号网络计划的说法，正确的有（　　）。[2012年真题]
+9. 工程网络计划工期优化过程中，在选择缩短持续时间的关键工作时应考虑的因素有（　　）。[2010年真题]
+10. 网络计划中工作之间的先后关系称为逻辑关系，它包括（　　）。
+11. 双代号网络计划中，箭线的表示方法是（　　）。
+12. 在双代号网络图绘制过程中，要遵循一定的规则和要求。下列表述中，正确的有（　　）。
+13. 已知某工程的双代号网络计划如图2Z103030-20所示，下列说法正确的有（　　）。<br/><span style="display:block;text-align:center;"><img height="137" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/f550b82a-0d41-45e1-a27d-71ea277ac54a.png" width="284"/></span><span style="display:block;text-align:center;">图2Z103030-20</span>
+14. 关于双代号时标网络计划，下列说法正确的有（　　）。
