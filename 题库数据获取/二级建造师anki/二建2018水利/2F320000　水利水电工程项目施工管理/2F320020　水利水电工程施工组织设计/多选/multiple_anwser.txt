@@ -1,14 +1,12 @@
 A|B|C|E
 A|C
 A|B|C
-
-                                
+A|B|C
 B|C|D|E
 A|B|C|E
 A|B
 A|B|C|D
 A|B|C|D
-
-                                
+A|B|C|E
 B|C|D
 A|B|D|E
