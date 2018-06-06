@@ -1,0 +1,15 @@
+A．平面滑动面
+A．近于水平
+A．岩体边坡的形状
+A．仰斜
+A．圆弧滑面
+A．平面
+A．抗滑力/滑动力
+A．不确定
+A．<img height="45" id="图片 16" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/78ef9f38-1a47-4bc8-b4cc-f9f43903a3de.png" width="63"/>
+A．1/5
+A．最大值
+A．0.7
+A．有所降低
+A．土坡内地下水位愈高，边坡安全系数愈小
+A．偏大

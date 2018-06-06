@@ -1,0 +1,10 @@
+1. 应用渗流模型时，模型的哪项值可以与实际值不相等？（　　）。[2010年真题]
+2. 渗流的达西公式只能适用于（　　）。
+3. 已知不透水层坡底i=2.5×10<sup>-3</sup>，土壤渗流系数k=4.3×10<sup>-4</sup>cm/s，均匀渗流水深h<sub>0</sub>=12m，则单宽渗流流量q为（　　）m<sup>2</sup>/s。
+4. 一不透水层底坡i=0.0025，土壤渗流系数k=5×10<sup>-3</sup>cm/s，在相距550m的两个钻孔中，水深分别为h<sub>1</sub>=3.0m及h<sub>2</sub>=4.0m，则通过该透水土层的单宽渗流流量为（　　）m<sup>2</sup>/s。
+5. 如图1-10-1所示在实验室测定土壤的渗流系数k，使用图中的实验装置，筒的直径为12cm，土样段长度为40cm，当两水箱液面之差为48cm时，测得流量为0.0048L/s。则渗流系数为（　　）cm/s。<br/><span style="display:block;text-align:center;"><img alt="说明:HWOCRTEMP_ROC3720" height="160" id="图片 7" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/37b1bc0b-cb31-40b4-8b96-e428c0c7e7cf.jpg" width="317"/></span><span style="display:block;text-align:center;">图1-10-1</span>
+6. 如图1-10-2所示，上、下游两水箱中间有一水管联接，管径100mm，管内填装两种不同的土壤（k<sub>1</sub>=0.001m/s，k<sub>2</sub>=0.003m/s）。当两个水箱水位差△H=1.2m时，则通过水管的渗流流量为（　　）m<sup>3</sup>/s。<br/><span style="display:block;text-align:center;"><img alt="说明:HWOCRTEMP_ROC3730" height="151" id="图片 6" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/ae8e41e1-fa65-46c6-af2d-95b808836fa4.jpg" width="331"/></span><span style="display:block;text-align:center;">图1-10-2</span>
+7. 根据渗流达西定律v=kJ，说明渗流的水头损失与流速的（　　）成正比。
+8. 某铁路路堑为了降低地下水位，在路堑侧边埋置集水廊道渗沟，排泄地下水。若已知含水层厚度H=3m，沟渗中水深h=0.3m，含水层渗流系数k=0.0025cm/s，平均水力坡度J=0.02，则流入长度100m渗沟的单侧流量为（　　）m<sup>3</sup>/s。
+9. 有一管状均匀渗流，渗流段长度<img height="19" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/b38aeb81-4b18-4573-9248-237fd0264157.png" width="9"/>=10m，两端测压管水头差为1.8m，渗流系数k=0.006cm/s，则在该均匀流区域内任一点的渗流流速u和断面平均渗流流速v分别为（　　）cm/s。
+10. 渐变渗流中，某一过水断面上的平均流速v（　　）该断面任一点流速u。

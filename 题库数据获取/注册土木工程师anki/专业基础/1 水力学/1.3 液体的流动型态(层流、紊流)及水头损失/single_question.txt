@@ -1,0 +1,40 @@
+1. 运动粘度<img height="21" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/d4015e2d-6c34-45d8-a130-ef0e549b8fe4.png" width="92"/>的油在圆管中流动的平均速度为<img height="19" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/4eccb32a-7d86-45fd-8fa7-f90ed0634963.png" width="76"/>，每100m长度上的沿程损失为40cm油柱，则<img height="41" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/59e66619-ea4d-46ee-b8f2-b5cb7d6208f2.png" width="25"/>为（　　）。[2010年真题]
+2. 圆管层流运动中，当直径和通过的流量同时增大一倍时，管内最大流速（　　）。
+3. 非均匀流就是（　　）。
+4. 如图1-3-1所示，水流通过渐缩管流出，若容积水位保持不变，水管内水流属（　　）。<br/><span style="display:block;text-align:center;"><img alt="说明:HWOCRTEMP_ROC3450" height="130" id="图片 22" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/629d0401-7d3c-4366-9c7b-867e0202f067.jpg" width="247"/></span><span style="display:block;text-align:center;">图1-3-1</span>
+5. 尺寸为6cm×12cm的矩形断面有压管流的水力半径为（　　）cm。
+6. 突扩前后有压管道的直径之比d<sub>1</sub>：d<sub>2</sub>=1：2，则突扩前后断面的雷诺数之比为（　　）。
+7. A、B两根圆形输水管，管径相同，雷诺数相同，A管为冷水，B管为热水，则两管流量（　　）。
+8. 雷诺数是判别下列哪种流态的重要的无量纲数（　　）。
+9. 从力学角度看，雷诺数所表示的两种力的对比关系是（　　）。
+10. 两根直径不等的管道，一根输油，一根输水，两管中流速也不同，油和水的下界雷诺数分别为Re<sub>cr1</sub>和Re<sub>cr2</sub>，则它们的关系是（　　）。
+11. 圆管流的临界雷诺数（　　）。
+12. 在紊流中（　　）。
+13. 根据尼古拉兹实验判断，当水流处于层流区时，沿程阻力系数与雷诺数、相对粗糙度的关系是（　　）。
+14. 已知液流的沿程水头损失系数λ只与雷诺数Re的-1次方成比例，即可判断该液流属于（　　）。
+15. 粘性底层厚度δ<sub>l</sub>比绝对粗糙度k<sub>s</sub>小得多的壁面称为（　　）。
+16. 紊流中粘性底层厚度δ<sub>l</sub>比绝对粗糙高度k<sub>s</sub>大得多的壁面称为（　　）。
+17. 紊流的断面流速分布规律符合（　　）。
+18. 水力光滑区的水头损失与流速成（　　）。
+19. 已知液体流动的沿程水头损失系数λ与边壁粗糙度和雷诺数Re都有关，即可以判断该液体流动属于（　　）。
+20. 水力粗糙区的水头损失与流速成（　　）关系。
+21. 在紊流粗糙区中，沿程水头损失系数λ随液体运动粘度的减小而（　　）。
+22. 当管道尺寸及粗糙度一定时，随着流量的加大，紊流流区的变化是（　　）。
+23. 层流断面流速分布规律符合（　　）。
+24. 谢才公式v=C<img height="24" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/a98bd6cc-daba-4a8f-8e5d-491755f1e1a4.png" width="36"/>（　　）。
+25. 均匀流的沿程水头损失<img height="25" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/295ce791-7122-4d52-9743-dc33e5c98ca3.png" width="20"/>与切应力τ的关系为（　　）。
+26. 明渠均匀流的切应力随底坡i的增大而（　　）。
+27. 谢才系数C与沿程水头损失系数λ的关系为（　　）。
+28. 圆管水流切应力的最大值出现在（　　）。
+29. 公式τ=ρgRJ不能用于（　　）。
+30. 有两根管道，管1输油，管2输水，均作层流运动。两管的管径、管长、绝对粗糙度及流速均相同，且运动粘度<img height="23" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/20ee5636-f477-4bef-8b82-103ba98e6779.png" width="16"/>＞<img height="23" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/faed1531-9c67-41d3-bb2d-8ff14121c867.png" width="17"/>，则两管道沿程水头损失h<sub>f</sub>的关系为（　　）。
+31. 管道均匀流中，当流段两端断面的测压管水头差增大时，管壁切应力（　　）。
+32. 谢才系数随壁面糙率的增大而（　　）。
+33. 一水箱侧壁接两根相同直径的管道1和2。已知管l的流量为Q<sub>1</sub>，雷诺数为Re<sub>1</sub>，管2的流量为Q<sub>2</sub>，雷诺数为Re<sub>2</sub>，若Q<sub>1</sub>/Q<sub>2</sub>=2，则Re<sub>1</sub>/Re<sub>2</sub>等于（　　）。
+34. 管道直径d=10mm，通过流量Q=20cm<sup>3</sup>/s，运动粘滞系数ν=0.0101cm<sup>2</sup>/s，则管中水流属于（　　）。
+35. 在有压管流中，若过水断面面积相同，而形状有以下几种，其中水力半径最大的为（　　）。
+36. 当输水管直径一定时，随流量加大，Re将______；当输水管的流量一定时，随管径加大，Re将______。下列选项中正确的是（　　）。
+37. 输油圆管长L=500m，直径d=0.15m，流速v=0.24m/s，油的粘滞系数v=2.0cm<sup>2</sup>/s，则此输油管流动型态及此管段的沿程阻力损失分别为（　　）。
+38. 在层流区、水力光滑区、紊流过渡区、阻力平方区中，如果流量等其他参数都不变，沿程阻力系数受管道直径影响的有（　　）。
+39. 已知d<sub>1</sub>=100mm，d<sub>2</sub>=200mm，v<sub>1</sub>=4m／s，管道突然扩大的水头损失为（　　）mH<sub>2</sub>O。
+40. 一输水管道中设有阀门，已知管道直径为50mm，通过流量为3.34L／s，水银压差计读值<img height="17" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/5741596f-d9c9-4a0b-80db-b33999889024.png" width="15"/>h=150mm，水的密度<img height="17" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/447094f2-d642-45e0-9d8e-013817692d1f.png" width="16"/>=1000kg／<img height="20" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/aa1feede-c049-43f4-8e32-e1b7221cdabb.png" width="23"/>，水银的密度<img height="17" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/447094f2-d642-45e0-9d8e-013817692d1f.png" width="16"/>=13600kg／<img height="20" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/aa1feede-c049-43f4-8e32-e1b7221cdabb.png" width="23"/>，沿程水头损失不计，阀门的局部水头损失系数<img height="21" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/340d0fae-34fa-4388-8467-362f2153d84b.png" width="13"/>是（　　）。

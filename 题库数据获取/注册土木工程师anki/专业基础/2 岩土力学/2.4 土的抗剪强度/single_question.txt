@@ -1,0 +1,14 @@
+1. CU试验是指（　　）。[2010年真题]
+2. 直剪试验中快剪的实验结果最适用于下列哪种地基？（　　）
+3. 不能用于测试土的不排水强度指标的试验方法是（　　）。
+4. 某饱和沙土<img height="23" id="图片 31" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/ad68a815-2bbf-4f59-822d-e25b910177e0.png" width="45"/>试样进行CU实验，已知：围压<img height="17" id="图片 30" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/8cd006a5-72ee-4f6e-b5d0-725a12a845c4.png" width="69"/>，土样破坏时的轴向应力<img height="20" id="图片 29" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/7ab45aa8-f689-4f0b-9592-42c193aeb06f.png" width="77"/>，孔隙水压力U<sub>f</sub>=100kPa，则该土样的有效内摩擦角为（　　）。
+5. 十字板剪切试验最适用的土层是（　　）。
+6. 饱和粘土的抗剪强度指标（　　）。
+7. 已知地基土的有效应力抗剪强度指标c=20kPa，<img height="17" id="图片 22" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/717f67a9-5724-4f0b-824c-ea248bdf9eb8.png" width="15"/>=32°，问当地基中基点的孔隙水压力u=50kPa，小主应力<img height="24" id="图片 21" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/d3a1466f-57e8-4bdf-9e29-51f5105a8c51.png" width="20"/>=150kPa，而大主应力<img height="24" id="图片 20" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/e0cc19a0-279e-4d2a-9cb0-4906d254732b.png" width="19"/>为多少，该点刚好发生剪切破坏？（　　）
+8. 在超压密粘土进行三轴固结不排水剪切时，下列哪种说法正确（　　）。
+9. 在饱和软粘土地基上建造建筑物，施工速度很快，验算此地基强度时应采用（　　）指标。
+10. 对松散砂土进行剪切时，其体积将（　　）。
+11. 采用不固结不排水试验方法对饱和黏性土进行剪切试验，土样破坏面与水平面的夹角为（　　）。
+12. 一饱和土样的有效剪切参数c=0kN/m<sup>2</sup>，<img height="17" id="图片 10" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/717f67a9-5724-4f0b-824c-ea248bdf9eb8.png" width="15"/>=30°，用另一块同样的土样在三轴仪中做固结不排水试验，当周围压力σ<sub>3</sub>=200kN/m<sup>2</sup>，土样破坏时偏差应力σ<sub>1</sub>-σ<sub>3</sub>=250kN/m<sup>2</sup>，可求得破坏时孔隙水压力为（　　）kN/m<sup>2</sup>。
+13. 砂基中某点σ<sub>1</sub>=200kPa，σ<sub>3</sub>=200kPa，φ=30°该点处于（　　）状态。
+14. 某土样的排水剪指标c′＝20kPa，<img height="21" id="图片 3" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/b1ca3a44-3a44-4463-9b56-9ab913bbe85f.png" width="19"/>＝30°，当所受总应力σ<sub>1</sub>＝500kPa，σ<sub>3</sub>＝177kPa，土样内孔隙水压力u＝50kPa时，土样所处的状态为（　　）。

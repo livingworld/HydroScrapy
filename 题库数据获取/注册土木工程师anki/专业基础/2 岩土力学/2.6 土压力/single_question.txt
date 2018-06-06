@@ -1,0 +1,17 @@
+1. 土越密实，则其内摩擦角（　　）。[2013年真题]
+2. 挡土墙后填土处于主动极限平衡状态，则挡土墙（　　）。
+3. 如果其他条件保持不变，墙后填土的下列哪项指标的变化，会引起挡土墙的主动土压力增大？（　　）。
+4. 对于图2-6-1所示挡土墙，墙背倾角为<img height="15" id="图片 46" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/1f4e5974-f22a-4806-a969-191a58926676.png" width="16"/>，墙后填土与挡土墙的摩擦角为<img height="19" id="图片 45" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/c1306880-cc7c-4f80-bb77-63fd1aceb9ef.png" width="15"/>，墙后填土中水压力<img height="24" id="图片 44" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/80432014-898e-4228-a95d-ce69307c6c95.png" width="24"/>的方向与水平面的夹角<img height="17" id="图片 43" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/31cdd227-fdb7-495e-b7d7-6fee7aeac4b5.png" width="15"/>为（　　）。<br/><span style="display:block;text-align:center;"><img alt="40T" height="182" id="图片 42" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/432edfe4-bc9b-436c-98be-e600a495bb9d.jpg" width="361"/></span><span style="display:block;text-align:center;">图2-6-1</span>
+5. 朗肯土压力理论没有考虑墙背与填土之间摩擦作用，这会导致由朗肯土压力理论计算的主动土压力与实际相比（　　）。
+6. 静止土压力的合力作用于三角形强度分布的（　　）位置。
+7. 若墙高为H，则静止土压力的合力大小为（　　）。
+8. 静止侧向压力系数的大小K<sub>0</sub>为（　　）。
+9. 相同条件下，若产生主动土压力为E<sub>a</sub>、被动土压力为E<sub>P</sub>，所需挡土墙的位移量分别为Δa、Δp，则下列结论正确的是（　　）。
+10. 朗肯土压力理论是根据（　　）而得出的土压力计算方法。
+11. 朗肯土压力理论中，当墙后填土达到被动土压力状态时填土破裂面与水平面夹角为（　　）。
+12. 一挡土墙高h=5m，墙背垂直光滑，其<img height="17" id="图片 12" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/2fd554af-92ba-46e1-869e-ab4bf8e7dfc6.png" width="16"/>=30°，c=12kN/m<sup>2</sup>，γ=18kN/m<sup>3</sup>，用朗肯理论求作用在墙背的总主动土压力（　　）kN。
+13. 一挡土墙高h=5m，墙背垂直光滑，其<img height="17" id="图片 9" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/2fd554af-92ba-46e1-869e-ab4bf8e7dfc6.png" width="16"/>=30°，c=0，γ=18kN/m<sup>3</sup>，用朗肯理论求作用在墙背的总主动土压力位置（　　）。
+14. 挡土墙符合朗肯土压力条件，H＝4m，c＝0，φ＝30°，γ＝17.8kN/m<sup>3</sup>，填土面作用有均布荷载20kPa，作用于墙上的被动土压力E<sub>p</sub>为（　　）kN/m。
+15. 某挡土墙高6m，墙背竖直、光滑，墙后填土面水平，填土的物理力学指标为：c＝15kPa，φ＝15°，γ＝18kN/m<sup>3</sup>。则主动土压力作用点的位置（　　）。
+16. 库仑主动土压力是假定不同滑动面所得的一系列相应土压力的（　　）。
+17. 若挡土墙的墙背竖直且光滑，墙后填土面水平，按库仑土压力理论确定主动土压力值一定比朗肯理论的计算值（　　）。

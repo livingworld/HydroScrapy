@@ -1,0 +1,34 @@
+C．C
+C．两个有错
+C．仅水平方向数值相等
+C．0.1个大气压强
+C．5
+C．24.7，1.5，-39.6
+C．78.2kPa
+C．0.5
+C．3
+C．hp=0.60m
+C．78.6
+C．A、B两管同高
+C．Pa=Pb
+C．Z1+P1/γ1=Z3+P3/γ2
+C．<img height="24" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/bdb4f948-c5eb-494d-a77a-c84c97a191e8.png" width="20"/>
+C．图（c）
+C．PA=PB
+C．C-C
+C．与受力面外法线方向一致
+C．大小相等，方向相同
+C．高于受压面的形心
+C．P=F
+C．2822.4kN，距底边线8m
+C．<img height="23" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/d4f4cfe8-dbc1-4a4e-a1c0-d1d94ff4c4cf.png" width="60"/>
+C．88.2kN，距底1.5m
+C．181.6，112.5
+C．前者不变后者增大
+C．方向改变而大小不变
+C．不变
+C．64.0γ
+C．超过二分之一板高
+C．减小
+C．1.58×104
+C．164.3kN向上

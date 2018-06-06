@@ -1,0 +1,17 @@
+1. 明渠均匀流的总水头<em>H</em>和水深<em>h</em>随流程<em>s</em>变化的特征是（　　）。[2010年真题]
+2. 如图1-5-1所示，在明渠恒定均匀流过水断面上1、2两点安装两根测压管，则两测压管高度h<sub>1</sub>与h<sub>2</sub>的关系为（　　）。<br/><span style="display:block;text-align:center;"><img alt="说明:HWOCRTEMP_ROC3420" height="176" id="图片 33" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/2d93120b-4445-4718-b01b-8b91c66cbe1a.jpg" width="281"/></span><span style="display:block;text-align:center;">图1-5-1</span>
+3. 明渠均匀流的水流特征是（　　）。
+4. 明渠均匀流可能发生在（　　）。
+5. 矩形断面明渠水力最佳断面的宽深比β等于（　　）。
+6. 水力最佳断面是（　　）。
+7. 坡度、边壁材料相同的渠道，当过水断面的水力半径相等时，明渠均匀流过水断面的平均流速（　　）。
+8. 明渠均匀流的流量一定，渠道断面形状、尺寸和壁面粗糙一定时，正常水深随底坡增大而（　　）。
+9. 水力最优的矩形明渠均匀流的水深增大一倍，渠宽缩小到原来的一半，其他条件不变，渠道中的流量（　　）。
+10. 水力最优的梯形断面明渠均匀流，边坡系数m=1，粗糙系数n=0.03，渠底坡度i=0.0009，水深h=2m，渠道中的流量等于（　　）m<sup>3</sup>／s。
+11. 有一个梯形断面渠道，已知：渠中通过的流量Q=5m<sup>3</sup>/s，边坡系数m=1.0，糙率n=0.02，底坡i=0.0002，若按水力最佳条件设计断面，则该梯形断面的水深h<sub>m</sub>及底宽b<sub>m</sub>分别为（　　）m。
+12. 在过水断面面积和其他所有条件相同的情况下，图1-5-2中不同的断面形状的明渠均匀流流量由大到小排列的正确顺序是（　　）。<br/><span style="display:block;text-align:center;"><img alt="说明:HWOCRTEMP_ROC150" height="90" id="图片 30" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/c54c63cb-06bd-470c-987a-bb4eb04eb1b9.jpg" width="355"/></span><span style="display:block;text-align:center;">图1-5-2</span>
+13. 如图1-5-3所示，某峡谷河段的断面图，可近似的视为矩形断面，水深h<sub>0</sub>=10m，河宽b=200m，河底的糙率n<sub>1</sub>=0.025，两岸的糙率n<sub>2</sub>=0.060，河谷段平均底坡i=0.0005，则通过该河道的流量为（　　）m<sup>3</sup>/s。<br/><span style="display:block;text-align:center;"><img alt="说明:HWOCRTEMP_ROC3550" height="151" id="图片 29" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/538b0f05-a48f-4012-8e53-555314ba3d66.jpg" width="247"/></span><span style="display:block;text-align:center;">图1-5-3</span>
+14. 有两条梯形断面长直渠道，已知流量Q<sub>1</sub>=Q<sub>2</sub>，边坡系数m<sub>1</sub>=m<sub>2</sub>，粗糙系数n<sub>1</sub>＞n<sub>2</sub>，其他条件均相同，则这两条渠道的均匀流水深关系为（　　）。
+15. 一引水渡槽，断面为矩形，槽宽b为1.5m，糙率n为0.011，槽长l为116.5m，进口处槽底高程为52.06m。水流在渠中作均匀流动。当通过设计流量Q为7.65m3/s时，槽中水深h为1.7m，则渡槽底坡i及出口槽底高程分别为（　　）。
+16. 表面较粗糙的混凝土n=0.017，沟管的直径为700mm，底坡i=0.02，则水深h=0.28m时的泄水量和平均流速分别为（　　）。
+17. 开凿一条运河，为保护枯水期也能通航而采取复式断面，如图1-5-4所示。运河底坡i=0.003，主槽底宽b<sub>1</sub>=20m，边坡系数m<sub>1</sub>=2.5，两侧滩地宽度相等，b<sub>1</sub>=b<sub>3</sub>=30m，边坡系数m<sub>2</sub>=m<sub>3</sub>=3.0，当h<sub>1</sub>=4.0m，h<sub>2</sub>=h<sub>3</sub>=2.0m时，主槽的糙率n<sub>1</sub>=0.025，滩地的糙率n<sub>2</sub>=n<sub>3</sub>=0.03，则通过运河主槽的流量Q<sub>1</sub>与滩地的流量Q<sub>滩</sub>分别为（　　）。<br/><span style="display:block;text-align:center;"><img alt="说明:HWOCRTEMP_ROC4020" height="120" id="图片 17" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/7a8daea3-681c-441b-8768-d7066cc02978.jpg" width="323"/></span><span style="display:block;text-align:center;">图1-5-4</span>

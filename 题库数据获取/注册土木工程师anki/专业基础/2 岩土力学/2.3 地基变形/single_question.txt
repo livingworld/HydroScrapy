@@ -1,0 +1,15 @@
+1. 在土的压缩性指标中，（　　）。[2010年真题]
+2. 关于分层总和法计算沉降的基本假定，下列说法正确的是（　　）。
+3. 某黏性土层厚为2m，室内压缩实验结果如表2-3-1所示。已知该土层的平均竖向自重力<img border="0" height="24" id="图片 28" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/998cc291-f71b-40a2-9320-2ffb837210be.png" width="72"/>，平均竖向附加应力<img border="0" height="24" id="图片 27" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/099f72b7-53ca-4e7b-9b82-2b13428cfbb4.png" width="79"/>，问该土层附加应力引起的沉降为多少？（　　）<br/><span style="display:block;text-align:center;">表2-3-1</span><span style="display:block;text-align:center;"><img border="0" height="48" id="图片 26" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/67bfc816-e2e4-41f6-94fa-2152c4e0c671.jpg" width="575"/></span>
+4. 与软黏土地基某时刻的主固结沉降计算无关的土工参数是（　　）。
+5. 某饱和黏土层厚5m，其上为砂层，底部为不透水岩层，在荷载作用下黏土层中的附加应力稳步呈倒梯形（见图2-3-1），<img border="0" height="20" id="图片 24" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/9fb8221f-5688-4221-a7c8-6829abd2f55d.png" width="79"/>，<img border="0" height="20" id="图片 23" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/d71f6d9a-3584-4da8-98e8-56265213b9eb.png" width="77"/>，已知荷载作用半年后土层中的孔隙水压力呈三角形分布（阴影部分），则此时黏土层平均固结度为（　　）。<br/><span style="display:block;text-align:center;"><img alt="37T" border="0" height="204" id="图片 22" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/5feb6d43-27b6-4417-9b4e-d3d8ce0ec781.jpg" width="343"/></span><span style="display:block;text-align:center;">图2-3-1</span>
+6. 土体压缩变形的实质是（　　）。
+7. 在无侧限应力条件下，竖向应力增量与竖向应变增量之比为变形模量。而在侧限应变条件下，竖向应力增量与竖向应变增量之比为压缩模量。在理论上，土体的压缩模量总是（　　）变形模量。
+8. 若土层中各点的自重应力小于各点的先期固结压力，则土层为（　　）状态。
+9. 在荷载作用下，由于地基土的结构骨架受力压缩，使孔隙水排出，体积压缩引起的沉降是（　　）。
+10. 在欠固结土上建造建筑物，引起建筑物基础沉降的根本原因（　　）。
+11. 当采用分层总和法计算软土地基沉降量时，压缩层下限确定的根据是（　　）。
+12. 某饱和粘土层厚10m，双面透水，附加应力σ<sub>z</sub>=150kPa从上到下均匀分布，压缩系数a=2.5×10<sup>-4</sup>kPa<sup>-1</sup>，粘土层的初始孔隙比e<sub>1</sub>=0.8，若某一时刻t，该土层的沉降S<sub>t</sub>=12.51cm，则固结度U<sub>t</sub>=（　　）。
+13. 关于一维固结理论，下列说法错误的是（　　）。
+14. 在相同荷载作用下，相同厚度的单面排水土层渗透固结速度最慢的是（　　）。
+15. 若两饱和粘性土层的厚度和性质以及土中应力条件相同，且排水条件相同，则达到同一固结度时，双面排水的饱和粘土层所需历时为单面排水的（　　）。

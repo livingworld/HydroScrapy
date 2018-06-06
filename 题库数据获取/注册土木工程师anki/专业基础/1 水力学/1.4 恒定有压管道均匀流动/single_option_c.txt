@@ -1,0 +1,28 @@
+C．<img height="24" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/d40023c8-0cc0-4c66-b4f9-eff023918c51.png" width="181"/>
+C．相同
+C．0.099
+C．孔口的流速大于管嘴、流量小于管嘴
+C．0.5l
+C．0.44S01
+C．2.29
+C．长管是指忽略局部损失的管路系统
+C．有三处错误
+C．26.5％
+C．30.52m
+C．水力坡度相等
+C．<img height="24" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/e032616f-401b-43cb-be06-b37a1933ac3c.png" width="19"/>
+C．总是从位置高的地方流向位置低的地方
+C．0.45
+C．30
+C．正方形
+C．水泵提水高度+吸水管与压水管的水头损失
+C．并联管与串联管
+C．在管轴线以下的部分
+C．相平行，呈阶梯状
+C．<img height="46" id="图片 80" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/84e2904f-5588-40eb-850f-67ce5c1ea3d4.png" width="457"/>
+C．20.3
+C．并联管、串联管、分叉管、管径保持不变的长管
+C．3.09m3/s，临界流
+C．3.11m
+C．hs=6.16m，Hp=24.50m，N=21.31kW
+C．hf=3.734m，Q1=0.132m3/s，Q2=0.071m3/s，Q3=0.076m3/s

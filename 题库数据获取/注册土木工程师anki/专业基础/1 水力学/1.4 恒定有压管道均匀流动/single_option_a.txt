@@ -1,0 +1,28 @@
+A．<img height="24" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/f52dfb22-454a-4e8a-8b81-97b18a0fce5d.png" width="165"/>
+A．大
+A．0.088
+A．孔口的流速、流量都大于管嘴
+A．0.44
+A．2.5S01
+A．2.09
+A．长管是指管道总长度比较长的管路系统
+A．有一处错误
+A．15.4％
+A．25.2m
+A．水头损失相等
+A．<img height="24" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/e032616f-401b-43cb-be06-b37a1933ac3c.png" width="19"/>
+A．总是从压强大的地方流向压强小的地方
+A．0.24
+A．15
+A．圆形
+A．水泵提水高度
+A．简单管与复杂管
+A．在基准面以下的部分
+A．相重合
+A．Q1=Q2+Q3
+A．15.3
+A．并联管、串联管、分叉管、沿程均匀泄流管
+A．1.09m3/s，层流
+A．4.61m
+A．hs=4.16m，Hp=24.50m，N=21.31kW
+A．hf=1.734m，Q1=0.132m3/s，Q2=0.071m3/s，Q3=0.056m3/s

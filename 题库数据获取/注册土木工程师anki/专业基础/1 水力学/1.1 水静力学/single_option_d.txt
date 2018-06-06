@@ -1,0 +1,34 @@
+D．D
+D．都有错
+D．铅直方向数值最大
+D．91.5kPa
+D．10
+D．34.7，2.5，-9.6
+D．88.2kPa
+D．5
+D．7
+D．hp=1.20m
+D．88.4
+D．无法确定
+D．无法确定
+D．Z2+P2/γ1=Z3+P3/γ2
+D．<img height="24" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/41fc6efd-1b15-444b-a5cb-616e0f9fa9d0.png" width="19"/>
+D．图（d）
+D．无法确定
+D．D-D
+D．与受力面内法线方向一致
+D．大小不等，方向不同
+D．低于受压面的形心
+D．无法确定
+D．3022.4kN，距底边线12m
+D．<img height="23" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/1ba065f4-94b0-448b-874d-4a6dc799ef61.png" width="72"/>
+D．42.5kN，距底0.5m
+D．201.6，132.5
+D．前者增大后者不变
+D．大小和方向均改变
+D．无法确定
+D．85.2γ
+D．超过四分之一板高
+D．随着水位的不同，可能增大，也可能减小
+D．1.58×105
+D．164.3kN向下

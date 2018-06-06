@@ -1,0 +1,8 @@
+C．<img height="41" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/aa757ed9-32c9-478f-912c-7afd5a7cbd03.png" width="21"/>
+C．<img height="41" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/f8e83d28-2f66-45fe-9051-f2034d6cce61.png" width="21"/>
+C．有压流—半有压流—无压流
+C．<img height="41" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/f8e83d28-2f66-45fe-9051-f2034d6cce61.png" width="21"/>
+C．hp=βD（β＜1.0为势能修正系数）
+C．进口上游水面至出口洞口顶部的高差值
+C．洞长影响过流能力，洞长不影响过流能力
+C．实用堰流，明渠非均匀流，宽顶堰流

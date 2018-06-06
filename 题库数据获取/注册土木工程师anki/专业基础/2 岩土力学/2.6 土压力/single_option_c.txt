@@ -1,0 +1,17 @@
+C．越大
+C．被土压力推动而偏离墙背土体
+C．填土的压缩模量E增大
+C．<img height="15" id="图片 37" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/1f4e5974-f22a-4806-a969-191a58926676.png" width="16"/>
+C．在墙背与填土之间的摩擦角较小时偏大，较大时偏小
+C．直角边1/2位置
+C．<img height="41" id="图片 31" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/7eaa3492-baa2-4061-a7a0-b6fd079dcaa2.png" width="16"/>
+C．<img height="41" id="图片 25" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/949ee3d6-72d1-425f-a5e0-ec27045b82cc.png" width="16"/>
+C．Ea<EP，Δa<Δp
+C．土的极限平衡理论
+C．<img height="17" id="图片 18" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/31cdd227-fdb7-495e-b7d7-6fee7aeac4b5.png" width="15"/>
+C．5.75
+C．距墙顶2.5m
+C．1409.6
+C．距墙顶2m
+C．最小值
+C．偏小

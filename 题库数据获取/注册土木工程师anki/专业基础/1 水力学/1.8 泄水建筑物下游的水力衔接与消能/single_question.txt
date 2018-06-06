@@ -1,0 +1,12 @@
+1. 溢流坝下泄水流收缩断面水深h<sub>c</sub>的共轭水深为h<sub>c2</sub>，下游河道水深为h<sub>t</sub>，形成远离式水跃的条件是（　　）。
+2. 有一5孔WES型实用堰。每孔净宽=8.0m，上游堰高P=35m，堰顶水头H=3.2m，已知实用堰的流量系数m=0.502，侧收缩系数e<sub>1</sub>=0.96，堰下游收缩系数h<sub>C</sub>=0.5m，相应宽54m，下游水位低于堰顶，下游水深h<sub>t</sub>=3.5m。则通过实用堰的流量Q以及堰下游水跃衔接形式分别为（　　）。
+3. 戽流消能的水流特征是（　　）。
+4. 某溢流坝属于高堰，行近流速可忽略。已知溢流坝设计单宽流量q=10m<sup>3</sup>/（s·m），m<sub>D</sub>=0.49，侧向收缩影响可忽略不计，<img height="24" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/dea793db-f6aa-4487-8c5a-baa86a29d4cc.png" width="19"/>=0.5m，下游水深h<sub>t</sub>=5.0m。则该堰顶设计水头为__m；溢流坝下游水流若发生水跃，则跃后水深为______m。下列选项中正确的是（　　）。
+5. 某矩形断面渠道中筑有一溢流坝。已知渠宽B=18m，流量Q=265m<sup>3</sup>/s，坝下收缩断面处水深<img height="24" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/dea793db-f6aa-4487-8c5a-baa86a29d4cc.png" width="19"/>=1.1m，当坝下游水深h<sub>t</sub>=4.7m时，若坝下发生水跃，则跃后水深<img height="24" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/437714c4-67db-4614-988a-3221248b50ab.png" width="20"/>和水跃形式分别为（　　）。
+6. 下列哪项不是底流式消能的主要形式（　　）。
+7. 下列哪项不是泄水建筑物下游通常采用的消能措施（　　）。
+8. 挑流式消能水力计算的主要内容是（　　）。
+9. 如图1-8-1所示，某矩形断面渠道中建有单孔平板闸门，已知闸门宽度b=4m，闸前水深H=4m，闸门开度e=0.5m，闸孔流量系数μ=0.55，闸底板与渠底齐平。若不计闸前行近流速水头，按自由出流则通过水闸的流量Q为______；若闸下收缩水深<img height="24" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/c5fa842c-9c06-469c-ae57-288339bf99c9.png" width="20"/>=0.3m，下游水深h<sub>t</sub>=1.5m，则闸下水跃衔接形式为______。下列选项中正确的是（　　）。<br/><span style="display:block;text-align:center;"><img alt="说明:HWOCRTEMP_ROC4100" height="179" id="图片 6" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/75a71368-2893-4220-b532-85c8f0759d47.jpg" width="438"/></span><span style="display:block;text-align:center;">图1-8-1</span>
+10. 某矩形断面渠道中筑有一溢流坝。已知渠宽B=18m，流量系数m=0.50，堰顶水头H=3.67m，侧收缩系数ε=0.946，无淹没影响。若忽略堰前行近流速水头，则过堰流量Q为______；若坝下收缩断面水深<img height="24" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/c5fa842c-9c06-469c-ae57-288339bf99c9.png" width="20"/>=1.1m，当下游水深h<sub>t</sub>=4.68m时，则坝下______。下列选项中正确的是（　　）。
+11. 某5孔WES型实用堰。每孔净宽b=8.0m，上游堰高P=35m，堰顶水头H=3.2m，已知堰的流量系数m=0.502，侧收缩系数ε<sub>1</sub>=0.96，堰下游收缩水深h<sub>C</sub>=0.5m，相应宽54m，下游水深h<sub>t</sub>=3.5m。则实用堰的流量Q为______；堰下游若发生水跃，则跃后水深______，水跃形式______；若采用底流式消能，消能池中水跃的淹没系数应达到______。下列选项中正确的是（　　）。
+12. 消力池的型式中不包括（　　）。

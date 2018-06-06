@@ -1,0 +1,28 @@
+B．<img height="24" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/4689e5ce-96eb-470a-85ce-217363350073.png" width="181"/>
+B．小
+B．0.190
+B．孔口的流速、流量都小于管嘴
+B．0.52
+B．0.8S01
+B．2.21
+B．长管是指总水头损失比较大的管路系统．
+B．有两处错误
+B．25．O％
+B．23.85m
+B．总能量损失相等
+B．<img height="24" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/e032616f-401b-43cb-be06-b37a1933ac3c.png" width="19"/>
+B．总是从流速大的地方流向流速小的地方
+B．0.35
+B．24
+B．多边行
+B．水泵提水高度+吸水管的水头损失
+B．长管与短管
+B．在下游自由水面以下的部分
+B．相平行，呈直线
+B．<img height="46" id="图片 81" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/3bb1d090-1c06-4d1c-b434-15f9246b6ad1.png" width="409"/>
+B．18.3
+B．串联管、分叉管、沿程均匀泄流管、管径保持不变的长管
+B．2.09m3/s，紊流
+B．3.61m
+B．hs=6.16m，Hp=26.50m，N=17.31kW
+B．hf=2.734m，Q1=0.132m3/s，Q2=0.071m3/s，Q3=0.076m3/s
