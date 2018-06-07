@@ -1,0 +1,25 @@
+B．按调幅法计算时，调整后的截面相对受压区高度不应小于0.35，即<img height="21" id="图片 20" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/0bebd591-e628-496e-96cd-1e4cddc6a08b.png" width="57"/>，但需满足<img height="24" id="图片 19" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/8b750d26-2760-4f80-923c-8b67166cc730.png" width="43"/>
+B．长跨向最大弯矩位于中点
+B．外功不相等，内功不相等
+B．主要沿板的短边方向传递
+B．不考虑钢筋混凝土的弹性变形
+B．<img height="148" id="图片 14" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/ee70c184-29d0-4912-a9e1-204b3ef01065.png" width="156"/>
+B．采用梯形桁架
+B．150
+B．0.9<em>l</em>
+B．不等肢角钢相连
+B．<img height="20" id="图片 7" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/4620fbe3-99d3-42d7-8d31-5386cb775316.png" width="109"/>
+B．柱间支撑和山墙
+B．减小厂房的纵向温度变形
+B．验算壁柱间墙时，S取相邻壁柱间的距离
+B．疲劳试验和硬度试验
+B．弯扭稳定性
+B．焊透三级对接焊缝
+B．反弯点位于柱高中点以上
+B．应力循环次数
+B．随λ的增大，剪力墙所分担的水平力增大
+B．在设计楼面梁，当梁的从属面积较大时，考虑活荷载折减
+B．实际抗弯刚度
+B．牛腿的截面尺寸根据斜裂缝控制条件和构造要求确定
+B．50
+B．根据抗冲切验算确定的

@@ -1,6 +1,6 @@
 D．<img height="41" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/a89cca19-0ff5-47e8-a506-ca13af288607.png" width="101"/>
 D．无法确定
-D．i=Jp=J
+D．i=J<sub>p</sub>=J
 D．正坡、平坡及负坡渠道中
 D．4
 D．最小糙率的断面

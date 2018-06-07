@@ -24,4 +24,4 @@ A．天然地面
 A．2.55
 A．随深度而增加
 A．矩形的短边
-A．pmax=270kPa；p0max=152.5kPa；pmin=103.3kPa；p0min=85.5kPa
+A．p<sub>max</sub>=270kPa；p<sub>0max</sub>=152.5kPa；p<sub>min</sub>=103.3kPa；p<sub>0min</sub>=85.5kPa

@@ -1,0 +1,47 @@
+A．0.624，0.550，0.518
+A．<img height="26" id="图片 110" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/1eb3a5c2-2e90-451a-8fab-a4f783b4f136.png" width="129"/>
+A．27%
+A．抗扭能力比纯扭低，抗剪能力降低不明显
+A．9.2%
+A．少筋破坏
+A．矩形压应力图形面积与曲线形面积相等
+A．仅受拉钢筋未达到屈服
+A．P<sub>a</sub>＜P<sub>b</sub>＜P<sub>c</sub>
+A．承载力达到极限
+A．加大截面宽度
+A．当受压区高度x小于T型截面翼缘厚度<img height="26" id="图片 58" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/44a6c6b4-806e-4356-9736-9675a9d1d2e3.png" width="20"/>时，单筋矩形截面的正截面抗弯承载力M<sub>u</sub>与T型截面的<img height="26" id="图片 57" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/445d9bb4-513e-4c29-b2a1-cb489c93d253.png" width="26"/>相同
+A．适筋梁、超筋梁属延性破坏，少筋梁属脆性破坏
+A．材料强度（f<sub>c</sub>、f<sub>y</sub>）
+A．<img height="20" id="图片 46" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/3b4dc3dc-f18f-4de0-94fd-3db3e9c387d5.png" width="99"/>或<img height="36" id="图片 45" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/e3fd6a30-5200-45ac-b23e-34d3a8a3f1e3.png" width="139"/>
+A．加粗箍筋直径
+A．增大
+A．达到极限承载能力
+A．梁的延性越大
+A．1076mm<sup>2</sup>
+A．界限破坏
+A．适筋截面：ε<sub>s</sub>>ε<sub>y</sub>，x<sub>c</sub><x<sub>b</sub>；超筋截面：ε<sub>s</sub><ε<sub>y</sub>，x<sub>c</sub>>x<sub>b</sub>
+A．正截面受弯承载力
+A．提高斜截面抗剪承载力
+A．因弯曲正应力引起屈曲，需设纵向加劲肋
+A．M<sub>uA</sub>＝M<sub>uB</sub>＜M<sub>uC</sub>＜M<sub>uD</sub>
+A．A<sub>s1</sub>＜A<sub>s2</sub>＜A<sub>s3</sub>＜A<sub>s4</sub>
+A．取ξ＝ξ<sub>b</sub>
+A．在截面的四角必须设抗扭纵筋
+A．扭矩的存在对构件的抗弯承载力没有影响
+A．箍筋必须采用螺旋箍筋
+A．趋于安全
+A．A<sub>s</sub>≠A<sub>s</sub><sup>′</sup>，且均未知的大偏压
+A．直径大的
+A．受拉翼缘对构件受弯承载力没有影响，因此构件承载力计算时可以不考虑受拉翼缘
+A．箍筋用量（3）＞（1）＞（2）
+A．增加柱截面宽度
+A．不变
+A．螺旋箍约束了核心混凝土，使钢筋混凝土柱强度提高
+A．轴向力作用在截面范围内时为小偏心受压，反之为大偏心受压
+A．M小，N大
+A．便于与其他构件连接
+A．柱截面中的纵向钢筋与混凝土的应力均为0
+A．对轴心受压承载力的影响比轴心受拉小
+A．难以测定
+A．是局部承压面积的2倍
+A．受弯构件正截面疲劳验算时，受压区混凝土应力图形为三角形

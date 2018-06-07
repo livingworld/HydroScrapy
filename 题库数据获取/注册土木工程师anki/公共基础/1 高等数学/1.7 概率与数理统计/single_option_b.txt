@@ -1,0 +1,34 @@
+B．P（A︱B）=0
+B．0.8
+B．1-q
+B．<img height="36" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/c166c411-0303-40b3-b25c-68e2ecea15c3.png" width="21"/>
+B．<img height="34" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/05a1b681-8fb0-4f60-9224-bd63d4c2ba77.png" width="21"/>
+B．<img height="34" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/52645291-da00-483e-a512-5b861ef45af9.png" width="18"/>
+B．<img height="36" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/2718577a-3c1e-4b20-99bc-ddaf8b8f0c76.png" width="20"/>
+B．F（n-1，n-1）
+B．<img height="48" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/dbfb216e-a023-4c09-b638-d74991625935.png" width="136"/>
+B．1
+B．X2+Y2～χ2分布
+B．<img height="40" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/716bb3f9-eb17-4f52-a695-8416eeab003f.png" width="50"/>
+B．<img src="http://admintk.100xuexi.com/UpLoadImage/2017-02-16/86cdba85-5c37-44c9-93a4-317e506cd520.jpg" title="2.jpg"/>
+B．0.2
+B．<img height="16" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/79eb3257-e01b-4414-9b1e-034f7d417445.png" width="82"/>
+B．<img height="33" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/f446a5da-bcef-497d-a2d9-80f35c2f6ee8.png" width="19"/>
+B．０＜λ＜1
+B．n=6；p=0.4
+B．<img height="32" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/67f3bb75-e288-415d-8009-6effe0bef4af.jpg" width="16"/>
+B．1
+B．<img border="0" height="40" hspace="0" src="http://admintk.100xuexi.com/UpLoadImage/2017-11-22/0c0e271b-8cf1-41e5-b4f3-ee50480394a2.jpg" style="float:none;width:169px;height:40px;" title="2.jpg" vspace="0" width="169"/>
+B．16
+B．E（X2）≥E（X）
+B．<img height="53" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/97d8309d-162e-4f97-86f0-2c55e5ea3431.png" width="78"/>
+B．<img height="19" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/b32985cb-85c4-4c44-bfba-d1909e49c493.jpg" width="14"/>
+B．<img height="29" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/3fa398f2-2df1-4f7e-bccf-20982aa527f9.jpg" width="19"/>
+B．<img height="35" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/d941d1d1-5039-4d80-8b09-fad2f31da0ca.png" width="42"/>
+B．<img height="41" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/10e37b0a-47c9-4a2a-80fc-f7634469d482.jpg" width="25"/>
+B．<img height="37" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/1843fdfe-7f03-4efb-9fb0-ffc23eadffc7.png" width="19"/>
+B．变短
+B．用F检验法，临界值F0.05（11，9）=3.10，F0.95（11，9）=0.35，拒绝H0
+B．<img height="32" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/8f1c1573-3d25-45cf-96b6-8ece1edb005d.png" width="55"/>
+B．<img height="26" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/b4431a0c-20a1-4907-ab80-af655a5d379c.jpg" width="57"/>
+B．0.3

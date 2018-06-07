@@ -1,0 +1,40 @@
+C．1
+C．a=-1，b=-1
+C．α（x）是β（x）低阶无穷小
+C．连续点
+C．第二类间断点
+C．3个
+C．若f（x0）在点x0处可导，则f′（x0）=0是f（x）在x0取得极值的必要条件
+C．连续但不可导
+C．<img height="27" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/7331606f-31e2-4741-9d29-e3a91980eade.png" width="150"/>
+C．可导
+C．<img height="42" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/dee8ef21-762c-48b2-8b5f-2efc06375c36.png" width="24"/>
+C．-sint
+C．∫f′（x）dx=f（x）dx
+C．<img height="17" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/cd026e06-7727-49b0-a117-c725b5901f63.png" width="67"/>
+C．2（1+2x2）e-x2
+C．<img height="38" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/9030db06-48ae-494b-86bf-cf9e495488d2.png" width="108"/>
+C．exey
+C．<img border="0" height="60" hspace="0" src="http://admintk.100xuexi.com/UpLoadImage/2017-11-21/5d4a566b-c4f8-4671-a40d-254d7e5ccc2c.jpg" style="width:106px;height:60px;float:none;" title="C.jpg" vspace="0" width="106"/>
+C．<img border="0" height="50" hspace="0" src="http://admintk.100xuexi.com/UpLoadImage/2017-11-21/9d5d552c-742e-45be-81ad-edc0698c8d57.jpg" style="width:57px;height:50px;float:none;" title="C.jpg" vspace="0" width="57"/>
+C．都是偶函数
+C．f′（x）＞0，f″（x）＞0
+C．2
+C．单调增且凸的
+C．ex＜ex
+C．f（x）为奇函数，值域为（-1，1）
+C．（1，1）
+C．<img height="38" id="图片 137" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/9443ad8a-5ca3-46a7-96ff-5237f27db826.jpg" width="106"/>
+C．3
+C．在开区间内连续，则在该区间必取得最大值和最小值
+C．<img height="22" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/6af8c976-725c-4e01-ad6d-52776d1ef587.png" width="140"/>
+C．g′（x）是单调减少的
+C．<img height="34" id="图片 152" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/e2a96ac0-b1d8-40ba-9227-cbbd67acd17c.jpg" width="34"/>
+C．<img border="0" height="40" hspace="0" src="http://admintk.100xuexi.com/UpLoadImage/2017-11-23/5c559885-adf8-4bdf-a95d-9a970b0f967d.jpg" style="width:163px;height:40px;float:none;" title="c.jpg" vspace="0" width="163"/>
+C．0≤α<1
+C．k
+C．不连续，偏导数存在
+C．1
+C．x0处取得极小值
+C．有且仅有两个实根
+C．点（0，0）是f（x，y）的极小值点

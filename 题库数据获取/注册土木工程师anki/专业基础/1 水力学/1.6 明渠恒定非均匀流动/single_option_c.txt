@@ -10,16 +10,16 @@ C．4.48
 C．流量小则临界水深大
 C．底坡大则临界水深大
 C．1.21m，缓流
-C．B=4m，Q=1.5m3/s，H=0.40m
-C．C=79.32m1/2/s，Q=103.04m3/s，缓流
-C．i=0.0443，Q=7.47m3/s，临界流
+C．B=4m，Q=1.5m<sup>3</sup>/s，H=0.40m
+C．C=79.32m<sup>1/2</sup>/s，Q=103.04m<sup>3</sup>/s，缓流
+C．i=0.0443，Q=7.47m<sup>3</sup>/s，临界流
 C．陡坡，临界流
 C．陡坡渠道，临界流
 C．非均匀缓流
 C．非均匀流缓流
 C．均匀流临界流
 C．急流，临界流
-C．h"=1.783m，lj=8.867m，△Ej=0.927m
+C．h"=1.783m，l<sub>j</sub>=8.867m，△E<sub>j</sub>=0.927m
 C．缓流，大于1.0
 C．急流
 C．陡坡，缓流，增大
@@ -30,6 +30,6 @@ C．渠道的纵坡
 C．Fr=2.92，3.26m
 C．图（c）和图（d）
 C．是单位重力液体相对于通过该断面最低点的基准面的机械能
-C．<img height="41" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/cb5321ac-74f5-4b36-a768-961ae336fe81.png" width="32"/>
+C．<img height="41" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/cb5321ac-74f5-4b36-a768-961ae336fe81.png" width="32"/>=0
 C．非均匀流，临界流，缓流，层流
-C．h″=4.05m，Lj=15.01m
+C．h″=4.05m，L<sub>j</sub>=15.01m

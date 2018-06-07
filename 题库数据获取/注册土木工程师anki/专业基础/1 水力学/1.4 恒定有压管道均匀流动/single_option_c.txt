@@ -3,14 +3,14 @@ C．相同
 C．0.099
 C．孔口的流速大于管嘴、流量小于管嘴
 C．0.5l
-C．0.44S01
+C．0.44S<sub>01</sub>
 C．2.29
 C．长管是指忽略局部损失的管路系统
 C．有三处错误
 C．26.5％
 C．30.52m
 C．水力坡度相等
-C．<img height="24" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/e032616f-401b-43cb-be06-b37a1933ac3c.png" width="19"/>
+C．<img height="24" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/e032616f-401b-43cb-be06-b37a1933ac3c.png" width="19"/>=0.050<img height="20" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/2927c468-7ba0-4829-8de3-545216514495.png" width="23"/>／S，<img height="24" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/d688c910-e673-4524-98a8-4b5cdfa168e5.png" width="20"/>=0.040<img height="20" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/2927c468-7ba0-4829-8de3-545216514495.png" width="23"/>／s
 C．总是从位置高的地方流向位置低的地方
 C．0.45
 C．30
@@ -22,7 +22,7 @@ C．相平行，呈阶梯状
 C．<img height="46" id="图片 80" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/84e2904f-5588-40eb-850f-67ce5c1ea3d4.png" width="457"/>
 C．20.3
 C．并联管、串联管、分叉管、管径保持不变的长管
-C．3.09m3/s，临界流
+C．3.09m<sup>3</sup>/s，临界流
 C．3.11m
-C．hs=6.16m，Hp=24.50m，N=21.31kW
-C．hf=3.734m，Q1=0.132m3/s，Q2=0.071m3/s，Q3=0.076m3/s
+C．h<sub>s</sub>=6.16m，H<sub>p</sub>=24.50m，N=21.31kW
+C．h<sub>f</sub>=3.734m，Q<sub>1</sub>=0.132m<sup>3</sup>/s，Q<sub>2</sub>=0.071m<sup>3</sup>/s，Q<sub>3</sub>=0.076m<sup>3</sup>/s

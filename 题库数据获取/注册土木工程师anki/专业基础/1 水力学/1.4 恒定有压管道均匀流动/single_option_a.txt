@@ -3,14 +3,14 @@ A．大
 A．0.088
 A．孔口的流速、流量都大于管嘴
 A．0.44
-A．2.5S01
+A．2.5S<sub>01</sub>
 A．2.09
 A．长管是指管道总长度比较长的管路系统
 A．有一处错误
 A．15.4％
 A．25.2m
 A．水头损失相等
-A．<img height="24" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/e032616f-401b-43cb-be06-b37a1933ac3c.png" width="19"/>
+A．<img height="24" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/e032616f-401b-43cb-be06-b37a1933ac3c.png" width="19"/>=0.047<img height="20" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/2927c468-7ba0-4829-8de3-545216514495.png" width="23"/>／s，<img height="24" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/d688c910-e673-4524-98a8-4b5cdfa168e5.png" width="20"/>=0.033<img height="20" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/2927c468-7ba0-4829-8de3-545216514495.png" width="23"/>／s
 A．总是从压强大的地方流向压强小的地方
 A．0.24
 A．15
@@ -19,10 +19,10 @@ A．水泵提水高度
 A．简单管与复杂管
 A．在基准面以下的部分
 A．相重合
-A．Q1=Q2+Q3
+A．Q<sub>1</sub>=Q<sub>2</sub>+Q<sub>3</sub>
 A．15.3
 A．并联管、串联管、分叉管、沿程均匀泄流管
-A．1.09m3/s，层流
+A．1.09m<sup>3</sup>/s，层流
 A．4.61m
-A．hs=4.16m，Hp=24.50m，N=21.31kW
-A．hf=1.734m，Q1=0.132m3/s，Q2=0.071m3/s，Q3=0.056m3/s
+A．h<sub>s</sub>=4.16m，H<sub>p</sub>=24.50m，N=21.31kW
+A．h<sub>f</sub>=1.734m，Q<sub>1</sub>=0.132m<sup>3</sup>/s，Q<sub>2</sub>=0.071m<sup>3</sup>/s，Q<sub>3</sub>=0.056m<sup>3</sup>/s

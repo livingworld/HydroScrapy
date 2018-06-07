@@ -1,0 +1,43 @@
+1. <img height="42" id="图片 165" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/bed2fbe0-4b3f-47f6-b4ae-396c6c1e076a.jpg" width="95"/>等于（　　）。[2014年真题]
+2. f′（x）连续，则∫f′（2x+1）dx等于（　　）。[2012年真题]
+3. 若函数f（x）的一个原函数是e<sup>-2x</sup>，则∫f″（x）dx等于（　　）。[2010年真题]
+4. 定积分<img height="48" id="图片 169" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/52498300-8124-4df4-a0c2-b96074c278de.jpg" width="96"/>等于（　　）。[2012年真题]
+5. <p>设<img src="http://admintk.100xuexi.com/UpLoadImage/2016-07-22/45d31c24-ae4c-4474-bf4f-24f6591a1644.png" title="1.png"/>是连续函数，且<img src="http://admintk.100xuexi.com/UpLoadImage/2016-07-22/b6292c28-99c1-4dda-8b73-7b96f51e7192.png" title="1.png"/>，则<img src="http://admintk.100xuexi.com/UpLoadImage/2016-07-22/45d31c24-ae4c-4474-bf4f-24f6591a1644.png" title="1.png"/>=（　　）。[2011年真题]</p><p><br/></p>
+6. 下列广义积分中发散的是（　　）。[2013年真题]
+7. 二次积分<img height="50" id="图片 176" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/fcff61ea-b2c2-4e76-b39e-54d66d25449b.jpg" width="164"/>交换积分次序后的二次积分是（　　）。[2013年真题]
+8. 若D是由y=x，x=1，y=0所围成的三角形区域，则二重积分<img height="44" id="图片 179" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/fe5ebd05-2afa-4bbf-babe-149aaaeb70b4.jpg" width="123"/>在极坐标下的二次积分是（　　）。[2012年真题]
+9. 设L为从点A（0，-2）到点B（2，0）的有向直线段，则对坐标的曲线积分<img height="39" id="图片 183" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/3c63fa55-bcb7-4196-97cb-8096065d81a1.jpg" width="129"/>等于（　　）。[2014年真题]
+10. 设L是连接点A（1，0）及点B（0，-1）的直线段，则对弧长的曲线积分<img height="44" id="图片 186" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/de5f0729-4e66-479a-ab6a-1b1908a717a0.jpg" width="84"/>等于（　　）。[2013年真题]
+11. 设L为连接（0，2）和（1，0）的直线段，则对弧长的曲线积分<img height="38" id="图片 190" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/25765fa6-73de-40c7-9925-bf23535b22ea.jpg" width="96"/>=（　　）。[2011年真题]
+12. 抛物线y<sup>2</sup>=4x与直线x=3所围成的平面图形绕x轴旋转一周形成的旋转体体积是（　　）。[2014年真题]
+13. 曲线<img height="31" id="图片 196" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/672d4a19-0b12-4b8a-a121-24a8bdc93e11.jpg" width="174"/>与x轴围成的平面图形绕x轴旋转一周而成的旋转体体积等于（　　）。[2012年真题]
+14. 设D是由y=x，y=0及<img height="25" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/1931fef8-d683-4c92-b68f-15df3ef8adb2.png" width="145"/>所围成的第一象限区域，则二重积分<img height="41" id="图片 200" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/b86e5ee7-0765-4113-8bf6-aaa42adee094.jpg" width="52"/>等于（　　）。[2014年真题]
+15. 圆周ρ=cosθ，ρ=2cosθ及射线θ=0，<img height="31" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/f5392e99-f8a1-4cc9-9f3e-1a52f119fc7b.png" width="39"/>所围的图形的面积S等于（　　）。[2010年真题]
+16. 计算<img height="47" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/7c5837b8-fb13-4b56-8e29-0d6f3ada4fec.png" width="57"/>，其中Ω为z<sup>2</sup>=x<sup>2</sup>+y<sup>2</sup>，z=1围成的立体，则正确的解法是（　　）。[2010年真题]
+17. 不定积分<img height="52" id="图片 210" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/0f81e311-8e73-4031-9b09-20c1fe906239.jpg" width="103"/>等于（　　）。[2014年真题]
+18. <img height="46" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/78f31639-7d2e-43c2-8a6e-9ffe1e04bfa1.png" width="165"/>[2011年真题]
+19. ∫<sub>xe</sub><sup>-2x</sup>dx等于（　　）。
+20. 若f（x）的导函数是sinx，则f（x）有一个原函数为（　　）。
+21. 若f（x）的一个原函数是<img height="37" id="图片 220" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/3bcc6546-455e-41bf-83c8-91c200c1d1f9.jpg" width="29"/>，则∫xf ′（x）dx=（　　）。
+22. 设函数f（x）在[0，+∞)上连续，且满足<img border="0" height="50" hspace="0" id="图片 225" src="http://admintk.100xuexi.com/UpLoadImage/2018-06-07/c153611a-b682-4c14-ad7b-4480301c9c32.jpg" style="float:none;width:253px;height:50px;" title="1.jpg" vspace="0" width="253"/>，则f（x）是（　　）。
+23. 已知<img height="47" id="图片 228" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/c3ae0752-69c1-4b6a-8ddb-ed39bc3463c1.jpg" width="165"/>，设<img height="37" id="图片 229" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/a832b97b-2e9d-43c7-96d0-9c1cabd0e356.jpg" width="212"/>，则F（x）为（　　）。
+24. 设<img height="50" id="图片 235" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/117294ac-45c0-4b8c-9c91-d8dd05d2beeb.jpg" width="236"/>，则极限<img height="31" id="图片 236" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/df101767-541e-4fc9-8591-4fb31f4dc3a8.jpg" width="55"/>等于（　　）。
+25. 广义积分<img height="44" id="图片 241" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/0084141c-6305-49fd-8aee-eb38392e0dcd.jpg" width="146"/>，则c等于（　　）。
+26. 设<img height="53" id="图片 247" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/92f9d338-4c5d-4a9d-bc9a-264b7f256341.jpg" width="615"/>，则有（　　）。
+27. 设<img height="45" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/e4ef68ee-19cf-4bcb-aab2-a0b62839f676.png" width="185"/>则F（x）（　　）。
+28. 下列广义积分中发散的是（　　）。
+29. 设D是<sub>x</sub>O<sub>y</sub>平面上以（1，1）、（-1，1）和（-1，-1）为顶点的三角形区域，D<sub>1</sub>是D在第一象限的部分，则<img height="51" id="图片 257" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/8b4fad97-364f-4b93-86c2-b1ce5d23c588.jpg" width="164"/>等于（　　）。
+30. 设函数f（u）连续，区域<img height="21" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/84ada217-504f-4cea-99b6-3ba06b7d2a18.png" width="154"/>，则<img height="39" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/9aac74db-7828-4b98-b6b9-197f68b587b8.jpg" width="87"/>等于（　　）。
+31. 设<img height="55" id="图片 275" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/bc348e7e-45a7-4327-ab01-1f732cf98273.jpg" width="217"/>，D:x<sup>2</sup>+y<sup>2</sup>≤a<sup>2</sup>，则a为（　　）。
+32. 设<img height="44" id="图片 285" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/a5406cfd-bcbc-4b13-8cfc-75e2d80ff6da.jpg" width="236"/>，其中Ω是由<img height="32" id="图片 286" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/fdf0eb7f-e1e8-4aba-a7d5-ef7633f6fc6a.jpg" width="118"/>所围成的，则I=（　　）。
+33. 在区间0，2π上，曲线y=sinx与y=cosx之间所围封闭图形（不包含坐标轴）的面积是（　　）。
+34. 设f（x，y，z）是连续函数，<img height="58" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/42c73c66-19a3-42d0-a767-85aa0b38e4b9.png" width="267"/>则R→0时，下面说法正确的是（　　）。
+35. 设f（x）、g（x）在区间［a，b］上连续，且g（x）＜f（x）＜m（m为常数），由曲线y=g（x），y=f（x），x=a及x=b所围平面图形绕直线y=m旋转而成的旋转体体积为（　　）。
+36. 设曲线积分∫<sub>l</sub>［f（x）-e<sup>x</sup>］sinydx-f（x）cosydy与路径无关，其中f（x）具有一阶连续导数，且f（0）=0，则f（x）等于（　　）。
+37. 设<img height="71" id="图片 314" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/e09455a0-28fd-44b4-ad27-eeb4fe16d87a.jpg" width="236"/>，则R→0时，下面说法正确的是（　　）。
+38. 设平面曲线<img height="39" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/7f103d5c-11b5-4b34-8b58-6263db3ba9aa.png" width="269"/>其所围成的区域分别记为D和D<sub>1</sub>，则有（　　）。
+39. 曲线r=ae<sup>bθ</sup>（a＞0，b＞0）从θ=0到θ=α（α＞0）的一段弧长为（　　）。
+40. 双纽线（x<sup>2</sup>+y<sup>2</sup>）<sup>2</sup>=x<sup>2</sup>-y<sup>2</sup>所围成的区域面积可用定积分表示为（　　）。
+41. 设函数f（x）连续，由曲线y=f（x）在x轴围成的三块面积为S<sub>1</sub>、S<sub>2</sub>、S<sub>3</sub>（S<sub>1</sub>、S<sub>2</sub>、S<sub>3</sub>均大于0），如图1-3-3所示，已知S<sub>2</sub>+S<sub>3</sub>=p，S<sub>1</sub>=2S<sub>2</sub>-q，且p≠q，则<img height="46" id="图片 333" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/322fb180-7026-4cf9-ae40-52976e1caf1d.jpg" width="92"/>等于（　　）。<br/><span style="display:block;text-align:center;"><img height="202" id="图片 334" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/5ffd8e69-81b8-4a10-a4fa-c063193e90b8.jpg" width="248"/></span>
+42. 设<img height="45" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/d3518262-8d9e-49eb-b589-356ca8befcd8.jpg" width="165"/>则方程f（x）=1在（1，+∞）内的实根个数必为（　　）。
+43. 设<img height="45" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/d19df6b0-a44a-42ba-bf34-c65c08cc7190.png" width="203"/>，f（x）可导，且f ′（x）＞0，则（　　）。

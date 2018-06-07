@@ -1,0 +1,32 @@
+D．<img height="21" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/f94720eb-ca44-4333-ba15-b42dc7f3b306.png" width="90"/>
+D．-2
+D．<img height="61" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/6724a6ff-fdbb-4506-b729-9026a68b9996.png" width="112"/>
+D．2
+D．α1，α2，α3必线性相关
+D．α2，α3
+D．x=k1（α2-α3）+k2（α1+α2）+α1
+D．Ax=b必有无穷多解
+D．α1=（2，1，0，1）T，α2=（-2，-1，0，1）T
+D．14
+D．<img height="19" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/33447616-3de5-478e-9b89-b6b0642c34c0.png" width="29"/>
+D．<img height="66" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/7d1c73ef-77d8-4307-8182-9c1ac5336c4a.png" width="80"/>
+D．t<-1
+D．4
+D．4次
+D．B的第2列的-2倍加到第1列得A
+D．<img height="45" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/8a47315a-cbf9-4095-a739-7f83c13361bc.png" width="127"/>
+D．α1+α2+α3，2α1-3α2+22α3，3α1+5α2-5α3
+D．α1，α2，α4，α5
+D．E+αTα
+D．<img height="40" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/f1dd0e61-0a54-4b30-bc7e-aa059fe47111.png" width="204"/>
+D．若Ax=b有无穷多个解，则Ax=0有非零解
+D．<img border="0" height="40" hspace="0" src="http://admintk.100xuexi.com/UpLoadImage/2017-11-22/093303e9-33e0-45f1-aa00-bc30924fa2aa.jpg" style="width:176px;height:40px;float:none;" title="d.jpg" vspace="0" width="176"/>
+D．仅当k1=k2=0时，k1ξ+k2η是A的特征向量
+D．<img height="68" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/9fc86d90-f509-4e1f-965b-8ef199862aa3.png" width="77"/>
+D．A有n个线性无关的特征向量
+D．<img height="44" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/372b41eb-1c22-4faf-b306-f9b5af6cefb1.png" width="255"/>
+D．<img height="24" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/feafc216-47c9-4708-89cf-e05d35c56960.png" width="52"/>
+D．f的负惯性指数q=0
+D．以上三种都有可能
+D．3
+D．<img height="63" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/19f6ce80-7679-4f57-947a-2ea545788222.png" width="70"/>

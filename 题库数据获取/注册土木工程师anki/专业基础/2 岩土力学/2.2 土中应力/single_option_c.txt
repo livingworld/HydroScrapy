@@ -24,4 +24,4 @@ C．室外设计地面
 C．10.0
 C．随深度而减小
 C．三角形荷载分布方向的边
-C．pmax=270kPa；p0min=262.5kPa；pmin=93.3kPa；p0min=75.8kPa
+C．p<sub>max</sub>=270kPa；p<sub>0min</sub>=262.5kPa；p<sub>min</sub>=93.3kPa；p<sub>0min</sub>=75.8kPa

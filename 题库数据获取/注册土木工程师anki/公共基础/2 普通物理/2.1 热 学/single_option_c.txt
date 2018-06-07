@@ -1,0 +1,42 @@
+C．<img height="37" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/8272442c-0007-45b0-9214-d7b7c752666f.png" width="81"/>
+C．1/2
+C．温度不同，氦分子和氮分子的平均动能相同
+C．<img height="33" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/121f9f2e-1df3-4d69-9e27-d0af2dde7d12.png" width="38"/>
+C．在一定的温度下，速率与vp相近的气体分子所占的百分率最大
+C．2R/W
+C．温度降低，气体对外做正功
+C．251J
+C．W＞0，VE=0
+C．气体做正功，向外界释放热量
+C．<img border="0" height="50" hspace="0" src="http://admintk.100xuexi.com/UpLoadImage/2016-07-21/46d28144-b024-4f3c-89db-c40c6daba131.jpg" style="width:116px;height:50px;float:none;" title="3.jpg" vspace="0" width="116"/>
+C．ΔE2＞ΔE1，Q2＞Q1
+C．孤立体系
+C．净功和效率都不变
+C．不违反热力学第一定律，也不违反热力学第二定律
+C．pV/（RT）
+C．0.37
+C．内能相同，氢气的分子平均平动动能大于氧气的分子平均平动动能
+C．单位体积内气体分子的总平均平动动能相同
+C．（EK/V）相同，n相同，ρ不同
+C．<img height="38" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/2801477f-1377-408d-9461-b80ac9950e60.jpg" width="29"/>
+C．<img height="35" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/8f120da3-c56e-4968-bc07-f91866da00c4.png" width="37"/>
+C．（E/V）A＝（E/V）B
+C．50%
+C．气体传给外界的热量
+C．<img height="20" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/c52ce1ce-972e-43ee-89a3-e271fb8a5a1c.jpg" width="13"/>
+C．<img height="45" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/a6cc1249-a35a-4023-a7ae-ebcb65431682.png" width="85"/>
+C．速率大小等于v的分子数占总分子数的百分比
+C．1∶2∶3
+C．6p1
+C．<img height="30" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/25abf00a-190d-41d0-9cd0-9a6c136ee5aa.png" width="210"/>
+C．温度和压强都降低为原来的1/4
+C．内能增量为负，对外做功为正，系统吸热为负
+C．气体对外做负功，向外界放出热量
+C．<img height="21" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/035b3d00-6560-44e4-8b84-3fdaf250f233.png" width="39"/>
+C．35%
+C．两个热机吸收的热量与放出的热量（绝对值）的和值一定相等
+C．<img height="46" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/97486553-8e2b-4b4d-a864-d28e04628e96.png" width="230"/>
+C．Q＜0，W＞0
+C．非准静态过程可能是可逆过程
+C．内能不变，熵不变
+C．25

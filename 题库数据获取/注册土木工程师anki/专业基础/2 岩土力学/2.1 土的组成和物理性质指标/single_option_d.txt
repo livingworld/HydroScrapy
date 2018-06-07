@@ -3,12 +3,12 @@ D．黏土
 D．无单位
 D．不能确定
 D．压缩性低
-D．<img height="17" id="图片 31" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/9a7e7d3d-dc5f-4058-bd52-ab26dc45421b.png" width="13"/>
-D．<img height="19" id="图片 23" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/fc58f32a-2b3d-472c-bce9-f71d029015fb.png" width="36"/>
+D．重度<img height="17" id="图片 31" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/9a7e7d3d-dc5f-4058-bd52-ab26dc45421b.png" width="13"/>
+D．粘聚力<img height="19" id="图片 23" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/fc58f32a-2b3d-472c-bce9-f71d029015fb.png" width="36"/>
 D．毛细水
-D．21.2kN/m3
+D．21.2kN/m<sup>3</sup>
 D．O.615
-D．IP=5.3
+D．I<sub>P</sub>=5.3
 D．在振动中孔隙水流动加剧，引起管涌破坏
 D．粘土矿物
 D．8
@@ -16,7 +16,7 @@ D．卵石
 D．60
 D．10
 D．各向同性
-D．Cu≥3，Cc=1～5
+D．C<sub>u</sub>≥3，C<sub>c</sub>=1～5
 D．结合水
 D．结合水
 D．絮凝结构
@@ -33,5 +33,5 @@ D．稠限
 D．击实功愈小，最优含水量愈大
 D．颗粒大小
 D．有机土
-D．ω>ωL，e≥1.7的粘性土
+D．ω>ω<sub>L</sub>，e≥1.7的粘性土
 D．MH

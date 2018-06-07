@@ -1,0 +1,29 @@
+C．-3P
+C．<img height="24" id="Picture 18" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/7d0f1071-8323-4202-943c-a406932aa9ca.png" width="127"/>
+C．竖向反力相同，水平反力不同
+C．10kN
+C．4qa<sup>2</sup>（逆时针方向）
+C．3M／4
+C．F<sub>p</sub>l/8，右边受拉
+C．4kN·m（右拉）
+C．<img height="20" id="Picture 47" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/c5beacd3-c07b-4bcf-92c2-082c2f62cd9a.png" width="44"/>，<img height="20" id="Picture 48" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/395018f3-a9b5-42d8-82f4-686da2ffc386.png" width="65"/>
+C．<img height="20" id="Picture 58" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/bb88621f-9fb0-49ce-b874-f535a0227597.png" width="51"/>，<img height="20" id="Picture 59" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/d077eaa0-a90b-483b-b2b4-e68c829363f6.png" width="59"/>（左边受拉）
+C．5
+C．<img height="20" id="Picture 67" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/fbe8aeea-753c-4987-98d6-d723ad501de7.png" width="44"/>
+C．-ql
+C．2M／a
+C．1.2M（左边受拉）
+C．3M／4
+C．-10kN
+C．31.2kN
+C．M<sub>BA</sub>=0kN·m；V<sub>C</sub>=5kN（↓）
+C．12（左侧受拉）
+C．ql<sup>2</sup>/2
+C．图（d）
+C．<img height="31" id="图片 7" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/2664eb15-d0f2-49df-9671-f1e8f0fafb9d.jpg" width="21"/>
+C．N、M图相同，Q图不同
+C．<img height="38" id="图片 2" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/16797659-2fbc-4002-9fd2-c47987394542.jpg" width="44"/>
+C．12
+C．增加简支梁的梁高，从而增大截面惯性矩
+C．基本部分无内力，附属部分有内力
+C．不产生内力，但会产生刚体位移

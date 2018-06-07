@@ -1,0 +1,24 @@
+A．单调增而无上界
+A．充分必要条件
+A．当1＜p≤2时条件收敛
+A．<img height="44" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/a42a40d1-845c-475f-ae9e-0d534ee98092.png" width="96"/>
+A．<img height="41" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/79a0743d-2524-472a-bd9e-87cd8df31ffa.png" width="125"/>
+A．绝对收敛
+A．（-1，1）
+A．<img height="40" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/013f07ec-a276-46b5-a2f1-89ab511809b5.png" width="56"/>
+A．（-2，2）
+A．[-2，4）
+A．<img border="0" height="70" hspace="0" src="http://admintk.100xuexi.com/UpLoadImage/2017-12-19/cada459d-861e-4585-9662-1246b9a53fc4.jpg" style="width:185px;height:70px;float:none;" title="a.jpg" vspace="0" width="185"/>
+A．<img height="43" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/f29390f3-344e-433f-b983-f147fb4bd56f.png" width="77"/>
+A．3
+A．发散
+A．<img height="44" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/758b60fb-845f-43cc-92b8-aef87473d134.png" width="46"/>
+A．p>2
+A．<img height="40" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/c8b6699f-cdcb-47ed-9b76-79c79aeafde3.png" width="86"/>
+A．<img height="44" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/0b6b0963-b659-4378-97b0-ff091a65939b.png" width="147"/>
+A．8，（-2，2］
+A．（-1，1）
+A．1
+A．不存在
+A．绝对收敛
+A．<img height="38" id="图片 520" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/3753ed17-9399-4214-957e-450ff682fec7.jpg" width="19"/>

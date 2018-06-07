@@ -1,0 +1,50 @@
+A．BD杆
+A．<img height="24" id="Picture 225" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/c6c3900c-76a8-48e8-8fca-41764984e0b0.png" width="121"/>
+A．4<em>i</em>
+A．33
+A．7
+A．2
+A．平衡
+A．<img height="40" id="图片 144" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/39349868-91de-494b-9ae5-aca7cd910274.png" width="41"/>
+A．<img height="41" id="Picture 255" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/90fb669d-1564-4f08-b994-c2adb44a9eca.png" width="37"/>
+A．δ<sub>22</sub>＜δ<sub>11</sub>，δ<sub>12</sub>＞0
+A．<img height="40" id="图片 129" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/2122c766-3d27-4ee5-95da-4691e7da47a9.png" width="37"/>
+A．<img height="34" id="图片 108" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/079fd558-30b6-49f9-889f-8e3a21efb764.png" width="110"/>
+A．0
+A．δ<sub>23</sub>＝0
+A．l/（EI）
+A．系数—位移；自由项—力
+A．力法
+A．等于零
+A．3（EI/L）
+A．<img height="23" id="Picture 321" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/0ad1712e-9900-4c0b-acc2-6b1b7d9def22.png" width="65"/>
+A．1
+A．<img height="19" id="Picture 332" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/5d625fa0-a5ba-4ab4-9df0-e8cb0d692423.png" width="13"/>，顺时针
+A．6EI/l
+A．2，3
+A．1
+A．Δ＝Fh<sup>2</sup>/（24i<sub>1</sub>）
+A．一个线位移
+A．<img height="35" id="图片 76" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/1f448e52-6744-4bdc-8cd5-266ea8871c2c.png" width="100"/>
+A．0
+A．<img height="37" id="图片 68" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/3a3a534b-050e-4044-b207-c49a60837336.png" width="76"/>
+A．<img height="45" id="图片 55" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/5b29aa5e-f8dc-4db5-8c19-6648bdaeb435.png" width="46"/>
+A．－11EI/4；22kN·m
+A．－Fl/8
+A．0
+A．0.429，0.571
+A．ql<sup>2</sup>/27
+A．<img height="37" id="Picture 185" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/01157cb0-c520-4168-b6d4-bac9c6f2fcab.png" width="13"/>
+A．力法
+A．-20kN·m
+A．自由端
+A．2kN·m
+A．-12
+A．0.500；+5.0kN·m
+A．0.273；－48
+A．M<sub>BC</sub>=4iφ<sub>B</sub>+4iφ<sub>C</sub>
+A．1/8
+A．0.429；0.571
+A．<img height="41" id="图片 15" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/37afad21-9d94-4110-baaf-f19db9f7843c.png" width="68"/>
+A．<img height="41" id="图片 7" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/d95e81bc-cd90-42c7-8960-6c883ce5de8a.png" width="31"/>
+A．M<sub>BC</sub>＝M<sub>CB</sub>＝－M<sub>CD</sub>＝－M<sub>DC</sub>＝Fl/4

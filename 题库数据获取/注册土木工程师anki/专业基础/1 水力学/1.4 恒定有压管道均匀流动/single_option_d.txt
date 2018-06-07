@@ -3,14 +3,14 @@ D．无法确定
 D．0.077
 D．孔口的流速小于管嘴、流量大于管嘴
 D．0.69
-D．0.4S0l
+D．0.4S<sub>0l</sub>
 D．2.33
 D．长管是指忽略沿程损失的管路系统
 D．有四处错误
 D．33.3％
 D．22.06m
 D．通过的流量相等
-D．<img height="24" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/e032616f-401b-43cb-be06-b37a1933ac3c.png" width="19"/>
+D．<img height="24" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/e032616f-401b-43cb-be06-b37a1933ac3c.png" width="19"/>=0.050<img height="20" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/2927c468-7ba0-4829-8de3-545216514495.png" width="23"/>／S，<img height="24" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/d688c910-e673-4524-98a8-4b5cdfa168e5.png" width="20"/>=0.020<img height="20" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/2927c468-7ba0-4829-8de3-545216514495.png" width="23"/>／S
 D．以上答案均不对
 D．0.54
 D．34
@@ -22,7 +22,7 @@ D．无法确定
 D．<img height="47" id="图片 79" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/6f124237-697e-4946-9e89-f31580e483bd.png" width="520"/>
 D．23.3
 D．管径保持不变的短管、串联管、分叉管、管径保持不变的长管
-D．2.09m3/s，层流
+D．2.09m<sup>3</sup>/s，层流
 D．1.98m
-D．hs=5.16m，Hp=26.50m，N=17.31kW
-D．hf=2.734m，Q1=0.102m3/s，Q2=0.071m3/s，Q3=0.076m3/s
+D．h<sub>s</sub>=5.16m，H<sub>p</sub>=26.50m，N=17.31kW
+D．h<sub>f</sub>=2.734m，Q<sub>1</sub>=0.102m<sup>3</sup>/s，Q<sub>2</sub>=0.071m<sup>3</sup>/s，Q<sub>3</sub>=0.076m<sup>3</sup>/s

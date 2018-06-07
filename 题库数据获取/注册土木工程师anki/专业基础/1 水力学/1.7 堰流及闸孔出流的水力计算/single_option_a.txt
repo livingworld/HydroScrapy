@@ -5,9 +5,9 @@ A．δ＜0.67H，0.67H＜δ＜2.5H，δ＞2.5H
 A．27％
 A．薄壁堰
 A．自由出流
-A．hs＞0
-A．hc"＞ht
-A．Qa＞Qb＞Qc
+A．h<sub>s</sub>＞0
+A．h<sub>c</sub>"＞h<sub>t</sub>
+A．Q<sub>a</sub>＞Q<sub>b</sub>＞Q<sub>c</sub>
 A．60.46
 A．9.56
 A．1810.5

@@ -1,0 +1,29 @@
+B．-2P
+B．<img height="24" id="Picture 17" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/13c57928-7716-4f9c-ab79-b6d233c610ec.png" width="125"/>
+B．完全不同
+B．8kN
+B．2qa<sup>2</sup>（顺时针方向）
+B．M／2
+B．0
+B．2kN·m（左拉）
+B．<img height="20" id="Picture 45" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/4bc10d68-3e1a-48aa-a45f-842f6d448729.png" width="44"/>（左边受拉），<img height="20" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/482d32fd-50b2-4c65-8b23-5e795410860a.png" width="44"/>
+B．<img height="20" id="Picture 56" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/69b7158a-91c4-4e4d-aa7a-30537c9f2810.png" width="59"/>（左边受拉），<img height="20" id="Picture 57" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/99a60d4f-cb01-47cb-9884-7cf6063bdc83.png" width="49"/>
+B．9
+B．<img height="20" id="Picture 66" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/6efbb162-9106-40b3-824b-a65ee6aa8d38.png" width="37"/>
+B．-ql/2
+B．-M／a
+B．0.8M（右边受拉）
+B．M／2
+B．5kN
+B．25kN
+B．M<sub>BA</sub>=20kN·m（右侧受拉）；V<sub>C</sub>=5kN（↑）
+B．10（右侧受拉）
+B．3ql<sup>2</sup>/8
+B．图（c）
+B．<img height="33" id="图片 8" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/137f9eac-7dc0-4699-8def-07c0646a52b5.jpg" width="33"/>
+B．M、Q图相同，N图不同
+B．M+Pd
+B．10
+B．减小简支梁的跨度
+B．基本部分有内力，附属部分无内力
+B．会产生内力，但不会产生变形

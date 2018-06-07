@@ -8,7 +8,7 @@ A．大于
 A．次固结
 A．瞬时沉降
 A．土体自重和地下水位的变化
-A．<img border="0" height="21" id="图片 17" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/84f0ec75-f58d-4886-b63f-89e5ef2256fe.png" width="44"/>
+A．<img border="0" height="21" id="图片 17" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/84f0ec75-f58d-4886-b63f-89e5ef2256fe.png" width="44"/>≤0.2
 A．60%
 A．固结系数愈大，固结度越大
 A．粉土地基

@@ -1,0 +1,34 @@
+D．<img height="18" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/8af060ed-76c5-4feb-910b-5a564ae69f1b.png" width="55"/>
+D．0.6
+D．1+p+q
+D．<img height="37" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/ffa6ec96-0add-4781-8359-90318179602b.png" width="20"/>
+D．<img height="34" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/e8743016-e56e-40a1-a46e-91ffd3a610ea.png" width="20"/>
+D．<img height="37" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/7c7b6cca-d6aa-4c91-911d-0cb8f310e055.png" width="19"/>
+D．<img height="36" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/77552bf6-9368-46fa-9bc3-67259f60afc9.png" width="17"/>
+D．N（μ，σ2）
+D．<img height="48" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/255d7c2e-cf50-476b-bf7b-1650ead27587.png" width="173"/>
+D．<img height="37" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/48a79b03-daf8-491f-9f8b-4c5c1ffcf2f9.png" width="17"/>
+D．<img height="40" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/b9833ce3-5a1d-40d0-b4f0-24c02fb846e9.jpg" width="22"/>
+D．<img height="42" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/e46a8964-3de9-4a1c-91c9-3665b76b2369.png" width="57"/>
+D．<img src="http://admintk.100xuexi.com/UpLoadImage/2017-02-16/f95d3b17-9c36-42c5-be44-07a0b85b5aaa.jpg" title="4.jpg"/>
+D．0.4
+D．<img height="15" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/61f10b2e-dfeb-4535-83c7-c967d6a7dd68.png" width="86"/>
+D．<img height="33" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/60a71b11-fe52-478b-b9ef-9859fb1356f8.png" width="21"/>
+D．<img height="38" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/1cab59f8-6a6f-47d0-8b3a-0d9dd911f69e.jpg" width="67"/>
+D．n=24；p=0.1
+D．<img height="36" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/0a12b2a0-d333-443c-9a35-897ad9b7d481.png" width="16"/>
+D．<img height="30" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/86a402f6-d9fc-43ff-8c81-64037780760e.jpg" width="20"/>
+D．<img border="0" height="30" hspace="0" src="http://admintk.100xuexi.com/UpLoadImage/2017-11-22/8dedc08c-5195-40e7-b635-c202b5b38cb5.jpg" style="float:none;width:188px;height:30px;" title="4.jpg" vspace="0" width="188"/>
+D．44
+D．E（X2）≥（EX）2
+D．<img height="52" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/7befa82d-b715-4c49-a092-2dee85a47f6b.png" width="46"/>
+D．<img height="38" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/90eb8e35-044b-42c6-a0eb-eb8017824aea.jpg" width="77"/>
+D．0
+D．<img height="22" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/d28081a5-a9a7-47d7-bc87-cbbc788d613f.png" width="34"/>
+D．<img height="41" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/10e37b0a-47c9-4a2a-80fc-f7634469d482.jpg" width="25"/>
+D．<img height="42" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/708dd829-a553-4c64-b0d7-c1794c97fd24.png" width="83"/>
+D．不能确定
+D．用F检验法，临界值F0.01（11，9）=5.18，F0.99（11，9）=0.21，接受H0
+D．<img height="32" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/2611563e-9c10-4c5c-a71f-d5490f270b7d.png" width="52"/>
+D．（0，0）
+D．0.6

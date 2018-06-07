@@ -1,0 +1,50 @@
+B．CD杆
+B．<img height="24" id="Picture 226" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/c21d64b6-7318-4318-9d92-7995747fe98d.png" width="123"/>
+B．5<em>i</em>
+B．34
+B．6
+B．3
+B．物理
+B．<img height="41" id="图片 143" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/8e7afaa2-cbb6-4724-a7ad-a2c33b7295f4.png" width="60"/>
+B．<img height="41" id="Picture 256" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/9fd69229-fe96-4362-a4f6-2711cb5efa26.png" width="36"/>
+B．δ<sub>22</sub>＞δ<sub>11</sub>，δ<sub>12</sub>＞0
+B．<img height="39" id="图片 128" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/d353bcf5-645f-4fd7-a2b2-9849560da1ee.png" width="50"/>
+B．<img height="29" id="图片 107" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/5c05d618-be65-4741-9f1e-f1bffe61fb1e.png" width="133"/>
+B．Pl/4右侧受拉
+B．δ<sub>31</sub>＝0
+B．5l/（6EI）
+B．系数—力；自由项—位移
+B．胡克定律
+B．大于零
+B．6（EI/L）
+B．<img height="23" id="Picture 322" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/66d3c52f-f22f-4a24-8d5d-e1a5ef2fb14c.png" width="104"/>
+B．2
+B．<img height="19" id="Picture 333" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/5d625fa0-a5ba-4ab4-9df0-e8cb0d692423.png" width="13"/>，逆时针
+B．7EI/l
+B．1，3
+B．2
+B．Δ＝F/（24i<sub>1</sub>/h）
+B．二个线位移和四个角位移
+B．<img height="38" id="图片 75" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/03419a3d-2c7a-476e-af69-47981aff52f4.png" width="87"/>
+B．2
+B．<img height="39" id="图片 67" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/038116f9-1336-4d91-ac0c-403bfa707a14.png" width="74"/>
+B．<img height="43" id="图片 54" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/a9d77fa0-e505-4907-9924-a1c46f52a6df.png" width="34"/>
+B．－11EI/4；－22kN·m
+B．－Fl/9
+B．2Fa/3（右侧受拉）
+B．0.5，0.5
+B．ql<sup>2</sup>/54
+B．<img height="37" id="Picture 186" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/e38bc38f-4ee7-49b5-9dfc-92865c6ebdd6.png" width="13"/>
+B．位移法
+B．15kN·m
+B．固定端
+B．-2kN·m
+B．-6
+B．0.571；+10.0kN·m
+B．0.273；48
+B．M<sub>BC</sub>=4iφ<sub>B</sub>+2iφ<sub>C</sub>
+B．1/3
+B．0.5；0.5
+B．<img height="42" id="图片 14" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/28ae471b-ac44-465c-834a-8a8bc03b0f09.png" width="73"/>
+B．<img height="39" id="图片 6" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/a2a45e6c-661f-41f5-b8a0-4a8bc345ebb8.png" width="35"/>
+B．M<sub>BC</sub>＝－M<sub>CB</sub>＝M<sub>CD</sub>＝M<sub>DC</sub>＝Fl/4

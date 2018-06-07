@@ -1,0 +1,52 @@
+C．已制成该线型的KP值表供查阅，使用方便
+C．检查两个径流系列的代表性
+C．统计变化特性
+C．F（x）≥f（x）
+C．F（x）=P（X≥x）
+C．统计值
+C．位置
+C．形心
+C．位置
+C．等于
+C．C<sub>s</sub>＞0
+C．趋近于零
+C．C<sub>s</sub>＞0
+C．C<sub>s</sub>＜0
+C．0.20
+C．乙河水资源丰富，径流量年际变化大
+C．<img height="23" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/7180ca72-8229-44df-8865-6b6477e71a18.png" width="13"/>＜0
+C．正偏
+C．C<sub>s1</sub>＝0；C<sub>s2</sub>＞0；C<sub>s3</sub>＜0
+C．<img height="35" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/4a8ac1c8-6f1a-45e0-8197-ec350fb2d1fc.png" width="73"/>=0.683
+C．3
+C．变差系数
+C．方差
+C．抽样误差比较小的参数值
+C．计算出的统计参数与相应总体的统计参数无关
+C．负偏估计值
+C．纠偏
+C．C<sub>s</sub>
+C．改进测验仪器
+C．P=<img height="41" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/72638d77-f966-4b02-b93c-3768fb28d643.png" width="35"/>×100%
+C．平均期
+C．100
+C．小于多年平均年径流量
+C．不小于Q<sub>10%</sub>的年径流量平均10年可能出现一次
+C．Q<sub>3</sub>
+C．适线法
+C．变陡
+C．变陡，升高
+C．相关关系
+C．简相关
+C．增加系列一致性
+C．水量平衡法
+C．相互关系
+C．相关关系
+C．为完全相关
+C．12以下
+C．≥0.8
+C．20%
+C．<img src="http://admintk.100xuexi.com/UpLoadImage/2016-07-19/fafb1918-3238-45a8-96cd-fd0125c43daa.jpg" title="1.jpg"/>
+C．有足够长的实测系列
+C．<img height="29" id="图片 12" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/e1d17813-6b6d-41e4-b77a-ebd505562919.jpg" width="138"/>
+C．假定多组统计参数

@@ -1,0 +1,32 @@
+B．<img height="16" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/c67fe210-9358-4cb3-ab96-c7d86c10fec2.png" width="40"/>
+B．-1
+B．<img height="65" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/ed713e02-189d-43c9-8038-45849e4d4ff7.png" width="99"/>
+B．-1
+B．α1必可用α2，α3，β线性表示
+B．α3，α4
+B．x=k1（α1-α3）+k2（α2+α3）+α1
+B．Ax=0必有非零解
+B．α1=（2，1，0，1）T，α2=（-1，-1，1，0）T
+B．5
+B．<img height="40" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/5fba54e6-cd64-485d-a66e-05aeb3e2584d.png" width="20"/>
+B．<img height="68" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/a146c9a0-ba40-4986-a818-2c9c990cd499.png" width="80"/>
+B．-1<t<0
+B．-2
+B．2次
+B．B的第1列的-2倍加到第2列得A
+B．<img height="45" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/13a4de1d-c649-4a02-b3ff-1f5cbd191e52.png" width="127"/>
+B．α1+α2，α2+α3，α1+2α2+α3
+B．α1，α2，α4
+B．-E
+B．<img height="25" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/2170d1fb-6642-459d-bfc1-40786ece8d8b.png" width="226"/>
+B．若Ax=0有非零解，则Ax=b有无穷多个解
+B．<img border="0" height="40" hspace="0" src="http://admintk.100xuexi.com/UpLoadImage/2017-11-22/ccf7dd30-1d98-4be3-bd96-b431ab9abd12.jpg" style="width:204px;height:40px;float:none;" title="b.jpg" vspace="0" width="204"/>
+B．存在常数k1≠0和k2≠0，使得k1ξ+k2η是A的特征向量
+B．<img height="69" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/ff23681f-ca66-4bf2-ba69-069719e88560.png" width="112"/>
+B．A有不为0的特征值
+B．<img height="41" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/f81f037b-37eb-4743-8a87-3db5fd2ddfd1.png" width="103"/>
+B．<img height="26" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/da4a37df-b314-4dd6-9e0a-bce6aa1e1861.png" width="82"/>
+B．存在n维非零向量X，使得XTAX＞0
+B．<img height="20" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/094dbe0a-8ba0-45ad-81bf-83c4757662b4.png" width="53"/>
+B．1
+B．<img height="60" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/4d25bfa2-aa36-42fa-8461-3ffa7545b1a7.png" width="70"/>

@@ -7,14 +7,14 @@ A．4.7，0.5，-29.6
 A．58.2kPa
 A．-5
 A．-7
-A．hp=0.40m
+A．h<sub>p</sub>=0.40m
 A．58.3
 A．B管高于A管
-A．Pa＞Pb
-A．Z1+P1/γ1=Z2+P2/γ1
-A．<img height="24" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/41fc6efd-1b15-444b-a5cb-616e0f9fa9d0.png" width="19"/>
+A．P<sub>a</sub>＞P<sub>b</sub>
+A．Z<sub>1</sub>+P<sub>1</sub>/γ<sub>1</sub>=Z<sub>2</sub>+P<sub>2</sub>/γ<sub>1</sub>
+A．<img height="24" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/41fc6efd-1b15-444b-a5cb-616e0f9fa9d0.png" width="19"/>＞<img height="24" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/bdb4f948-c5eb-494d-a77a-c84c97a191e8.png" width="20"/>＞<img height="24" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/e51637e3-1523-4258-9f45-312812152d25.png" width="19"/>
 A．图（a）
-A．PA＜PB
+A．P<sub>A</sub>＜P<sub>B</sub>
 A．A-A
 A．与受力面平行
 A．大小相同，方向不同
@@ -30,5 +30,5 @@ A．变大
 A．42.7γ
 A．超过三分之二板高
 A．保持不变
-A．1.58×102
+A．1.58×10<sup>2</sup>
 A．328.6kN向上

@@ -1,0 +1,52 @@
+D．经验表明该线型能与我国大多数地区水文变量的频率分布配合良好
+D．对短径流系列进行延长插补
+D．可能变化特性
+D．F（x）≤f（x）
+D．F（x）=P（X≤0）
+D．平均值
+D．全部
+D．最大值
+D．全部
+D．无法比较
+D．C<sub>s</sub>＜0
+D．大小不能确定
+D．C<sub>s</sub>=0
+D．C<sub>s</sub>=0
+D．0.18
+D．乙河水资源丰富，径流量年际变化小
+D．C<sub>v</sub>＜0
+D．双曲函数曲线
+D．C<sub>s1</sub>＞0；C<sub>s2</sub>＝0；C<sub>s3</sub>＜0
+D．<img height="36" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/13ac1b9b-4d50-4e58-a4a8-2653af5371dd.png" width="67"/>=0.683
+D．4
+D．偏态系数
+D．变差系数
+D．长系列样本计算出来的统计参数值
+D．以上三种说法都不对
+D．有偏估计值
+D．无偏
+D．<img height="21" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/a1160766-c220-4c81-8de2-eb5847fa7a72.png" width="19"/>和C<sub>v</sub>
+D．提高资料的一致性
+D．P=<img height="41" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/eae7e049-c047-452a-964e-a2b62c18496b.png" width="39"/>×100%
+D．经验频率
+D．1000
+D．等于多年平均年径流量
+D．不大于Q<sub>10%</sub>的年径流量平均10年可能出现一次
+D．Q<sub>4</sub>
+D．相关分析法
+D．变缓
+D．变陡，降低
+D．复相关
+D．复相关
+D．增加系列趋势性
+D．图解法和分析法
+D．复相关
+D．复相关
+D．为零相关
+D．12以上
+D．≥0.9
+D．50%
+D．建立直线相关
+D．必须是径流系列
+D．<img height="28" id="图片 11" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/3e479090-1311-4a7a-8cc0-7a74d13e7795.jpg" width="124"/>
+D．查φ值表，绘出一条皮-Ⅲ型曲线

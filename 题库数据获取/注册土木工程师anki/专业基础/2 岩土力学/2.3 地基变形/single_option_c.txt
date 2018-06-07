@@ -8,7 +8,7 @@ C．小于
 C．正常固结
 C．次固结沉降
 C．土体自重和建筑物荷载
-C．<img border="0" height="21" id="图片 15" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/84f0ec75-f58d-4886-b63f-89e5ef2256fe.png" width="44"/>
+C．<img border="0" height="21" id="图片 15" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/84f0ec75-f58d-4886-b63f-89e5ef2256fe.png" width="44"/>≤0.1
 C．15%
 C．其它条件不变，双面排水达到某一固结度所需时间为单面排水时间的1/2
 C．碎石土地基

@@ -1,0 +1,34 @@
+C．<img height="19" id="图片 1" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/f409f0f6-3545-4175-889a-170ead006ae7.jpg" width="42"/>
+C．过点（1，2，-3），方向向量为i-2j+3k
+C．<img src="http://admintk.100xuexi.com/UpLoadImage/2017-06-17/8b9ccf49-745b-416a-8159-dfbeca8e41c9.jpg" title="2.jpg"/>
+C．L垂直于π
+C．垂直相交
+C．球面
+C．双曲柱面
+C．母线平行z轴的双曲柱面
+C．<img height="35" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/49add332-e3d9-417b-9405-3625aef2a390.png" width="21"/>
+C．<img height="51" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/c15a4a30-729a-4005-bf52-ac7adaacb83c.png" width="192"/>
+C．α∥（β-γ）
+C．<img height="47" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/af702889-80d6-4614-8b74-a37b1dade494.png" width="129"/>
+C．a·b=0
+C．当a≠0时必有b=c
+C．a×b
+C．<img height="36" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/f6c79da8-c12c-4c50-a6f3-b808bdb768fe.png" width="23"/>
+C．<img height="39" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/405bcf76-88f6-43ed-a177-2d7c18d4881b.png" width="26"/>
+C．（0，6，0）
+C．L1⊥L2但不相交
+C．不通过原点
+C．x2-y2=z
+C．（3，-1，0）
+C．16x+8y-16z+11=0
+C．a2+b2+c2+2abc=0
+C．x-2y+z=0
+C．L垂直于π
+C．<img height="38" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/fb8bc89e-a045-4868-b4c4-790f8a62857b.png" width="141"/>
+C．<img height="34" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/420bf5dc-a7cf-4600-8a39-de94877218f2.png" width="58"/>
+C．（1，1，-2）
+C．（1，1，2）
+C．3y2-z2=16
+C．<img height="45" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/b7ae15e6-ca2a-483d-a76e-e3d6cc9d8026.jpg" width="178"/>
+C．z轴
+C．与yOz平面成定角

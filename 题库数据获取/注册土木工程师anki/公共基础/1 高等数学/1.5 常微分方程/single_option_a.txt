@@ -1,0 +1,17 @@
+A．<img height="34" id="图片 1" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/cc27d9b3-4c5d-4457-a955-6fa40d20bd68.png" width="89"/>
+A．x2+y2=C（C∈R）
+A．<img height="29" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/9dfefea3-e4a6-4bf5-adda-69e30832254f.png" width="85"/>
+A．<img height="30" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/9252d644-62ba-4a79-9f58-d04391936f0a.png" width="80"/>
+A．<img height="38" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/4bf318ae-e7ab-4311-96c2-ad7f326be6b9.png" width="99"/>
+A．通解
+A．y=ex
+A．y=C（y1-y2）
+A．y=（Ax2+Bx）ex
+A．y″-2y′-3y=0
+A．y=Asin2x
+A．1+x2=Cy
+A．<img height="36" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/d46d8981-1a96-46f1-bf02-ab741b86ee1e.png" width="126"/>
+A．lnx+C
+A．y″-y′-2y=3xex
+A．<img src="http://admintk.100xuexi.com/UpLoadImage/2016-08-18/6aca07f6-02ab-44e0-8b5a-c0ceddbc0c08.jpg" title="1.jpg"/>
+A．不存在

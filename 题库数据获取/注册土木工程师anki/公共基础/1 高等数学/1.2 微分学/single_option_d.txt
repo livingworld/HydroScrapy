@@ -1,0 +1,40 @@
+D．2
+D．a=1，b=1
+D．α（x）与β（x）是同阶无穷小但不是等价无穷小
+D．第二类间断点
+D．连续点
+D．无穷多个
+D．若f（x0）在点x0处可导，则f′（x0）=0是f（x）在x0取得极值的充分条件
+D．可导
+D．<img height="35" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/d8822c77-87ab-430d-adad-1df818beb96d.png" width="166"/>
+D．连续
+D．<img height="36" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/101b1635-1146-47ce-b4c3-56f1d4e37815.png" width="23"/>
+D．cott
+D．（∫f（x）dx）′=f（x）+C
+D．<img height="36" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/655b6318-f616-4c1a-a17b-d67152767874.png" width="98"/>
+D．（1-2x2）e-x2
+D．<img height="41" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/03dfecf5-3731-48fc-b068-9ca4a5819abd.png" width="113"/>
+D．exey+y
+D．<img border="0" height="60" hspace="0" src="http://admintk.100xuexi.com/UpLoadImage/2017-11-21/883b9e50-2650-4c4b-94bb-37abd7bb7fe3.jpg" style="width:94px;height:60px;float:none;" title="D.jpg" vspace="0" width="94"/>
+D．<img border="0" height="50" hspace="0" src="http://admintk.100xuexi.com/UpLoadImage/2017-11-21/2dff8906-a330-4fa2-85bb-45c7d1fda9fa.jpg" style="width:95px;height:50px;float:none;" title="D.jpg" vspace="0" width="95"/>
+D．没有奇函数也没有偶函数
+D．f′（x）＜0，f″（x）＜0
+D．3
+D．单调增且凹的
+D．x＞sinx
+D．f（x）为奇函数，值域为（0，+∞）
+D．（-1，-1）
+D．因为不能用洛必达法则，故极限不存在
+D．4
+D．在闭区间上有间断点的函数一定有界
+D．不可导
+D．g′（x）是函数，但不单调
+D．<img height="34" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/e2a96ac0-b1d8-40ba-9227-cbbd67acd17c.jpg" width="34"/>
+D．<img border="0" height="40" hspace="0" src="http://admintk.100xuexi.com/UpLoadImage/2017-11-23/39bcc4c4-cdf7-4b83-870c-edfda3ee70dd.jpg" style="width:225px;height:40px;float:none;" title="d.jpg" vspace="0" width="225"/>
+D．α≥1
+D．1k
+D．不连续，偏导数不存在
+D．2
+D．x0处取得极大值
+D．有无穷多个实根
+D．根据所给条件无法判断点（0，0）是否为f（x，y）的极值点

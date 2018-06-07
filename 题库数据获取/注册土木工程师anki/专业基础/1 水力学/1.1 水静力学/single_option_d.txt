@@ -7,12 +7,12 @@ D．34.7，2.5，-9.6
 D．88.2kPa
 D．5
 D．7
-D．hp=1.20m
+D．h<sub>p</sub>=1.20m
 D．88.4
 D．无法确定
 D．无法确定
-D．Z2+P2/γ1=Z3+P3/γ2
-D．<img height="24" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/41fc6efd-1b15-444b-a5cb-616e0f9fa9d0.png" width="19"/>
+D．Z<sub>2</sub>+P<sub>2</sub>/γ<sub>1</sub>=Z<sub>3</sub>+P<sub>3</sub>/γ<sub>2</sub>
+D．<img height="24" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/41fc6efd-1b15-444b-a5cb-616e0f9fa9d0.png" width="19"/>＜<img height="24" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/bdb4f948-c5eb-494d-a77a-c84c97a191e8.png" width="20"/>＜<img height="24" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/e51637e3-1523-4258-9f45-312812152d25.png" width="19"/>
 D．图（d）
 D．无法确定
 D．D-D
@@ -30,5 +30,5 @@ D．无法确定
 D．85.2γ
 D．超过四分之一板高
 D．随着水位的不同，可能增大，也可能减小
-D．1.58×105
+D．1.58×10<sup>5</sup>
 D．164.3kN向下

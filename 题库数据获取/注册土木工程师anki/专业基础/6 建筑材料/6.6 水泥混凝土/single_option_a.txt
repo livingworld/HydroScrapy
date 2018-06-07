@@ -1,0 +1,76 @@
+A．减水剂
+A．10%
+A．强度和变形
+A．水灰比、砂率、单位用水量
+A．完全弹性材料
+A．①③④
+A．提高混凝土的强度
+A．增减用水量
+A．水灰比
+A．立方体抗压强度的平均值
+A．骨料与水泥的比例
+A．抗剪强度大于抗压强度
+A．在冲击荷载作用下产生的塑性变形
+A．抗压强度下降不超过5％，质量损失不超过25％
+A．使用低碱水泥可以有效抑制碱集料反应
+A．减小
+A．实验设备的选择
+A．流动性
+A．一定较低
+A．会减轻
+A．速凝剂
+A．平均粒径
+A．具有符合设计要求的强度
+A．空隙率小，堆积密度较大
+A．空隙率和总表面积均较大
+A．砂中含泥量过多
+A．M<sub>x</sub>相同，则级配一定相同
+A．砂愈细
+A．该混凝土中细骨料的颗粒级配愈好
+A．石子会被碱液腐蚀
+A．承受大荷载的混凝土工程
+A．低塑性混凝土
+A．维勃稠度法
+A．愈小
+A．水灰比
+A．施工条件
+A．最小砂率
+A．增加用水量
+A．较大砂率
+A．膨胀剂
+A．任何水均可
+A．抗折强度
+A．100mm×100mm×100mm
+A．1.0
+A．f<sub>cp</sub>≈f<sub>cu</sub>
+A．f<sub>cu</sub>
+A．80％
+A．20±5℃，RH≥90％，21d
+A．温度
+A．<img border="0" height="37" id="Picture 73" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/60cf5d95-eb3e-4a88-83bf-ec7f53350d85.png" width="19"/>
+A．<img border="0" height="37" id="Picture 74" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/60cf5d95-eb3e-4a88-83bf-ec7f53350d85.png" width="19"/>愈大，则f<sub>ce</sub>愈高
+A．t愈高，早期、后期强度均高
+A．<img border="0" height="37" id="Picture 78" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/21acac32-b93c-4cc5-96a2-e9e587a156ee.png" width="89"/>
+A．一样长
+A．<img border="0" height="40" id="Picture 86" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/f5010a00-0825-4962-b6f7-3542533df814.png" width="77"/>
+A．原点E
+A．一条直线，E<sub>e</sub>值固定
+A．3.60×10<sup>3</sup>Mpa
+A．长期荷载作用下
+A．增大内部的应力集中现象
+A．混凝土>砂浆>水泥净浆
+A．尽量降低C用量，并提高<img border="0" height="37" id="Picture 91" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/60cf5d95-eb3e-4a88-83bf-ec7f53350d85.png" width="19"/>
+A．选用硅酸盐水泥
+A．混凝土密实度、孔隙特征
+A．骨料级配和粗细
+A．提高
+A．早强剂
+A．高碱水泥
+A．在减少用水量条件下，可提高流动性
+A．混凝土凝结硬化变慢
+A．速凝剂
+A．C、S、<img border="0" height="37" id="Picture 96" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/60cf5d95-eb3e-4a88-83bf-ec7f53350d85.png" width="19"/>
+A．混凝土强度
+A．f<sub>cu</sub><sub>，</sub><sub>o</sub>>f<sub>cu</sub><sub>，</sub><sub>k</sub>
+A．降低W
+A．混凝土的耐久性

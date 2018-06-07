@@ -1,0 +1,32 @@
+1. 设A是m阶矩阵，B是n阶矩阵，行列式<img height="49" id="图片 586" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/c5d50ec8-edcf-49af-82ec-138cd77f4611.jpg" width="49"/>等于（　　）。[2010年真题]
+2. 设A、B为三阶方阵，且行列式<img height="29" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/1966a933-6fd7-4ac4-8e3e-b35ecb73da10.png" width="60"/>，|B|=2，A*为A的伴随矩阵，则行列式|2A*B<sup>-1</sup>|等于（　　）。[2014年真题]
+3. 设<img height="70" id="图片 594" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/cd16f9d2-978e-4c40-873c-9cce440568df.jpg" width="128"/>，则A<sup>-1</sup>=（　　）。[2011年真题]
+4. 设3阶矩阵<img border="0" height="110" hspace="0" src="http://admintk.100xuexi.com/UpLoadImage/2017-11-22/aeb281a9-ed7c-4786-be22-d25844893e05.jpg" style="width:152px;height:110px;float:none;" title="1.jpg" vspace="0" width="152"/>，已知A的伴随矩阵的秩为1，则a=（　　）。[2011年真题]
+5. 设α<sub>1</sub>，α<sub>2</sub>，α<sub>3</sub>，β是n维向量组，已知α<sub>1</sub>，α<sub>2</sub>，β线性相关，α<sub>2</sub>，α<sub>3</sub>，β线性无关，则下列结论中正确的是（　　）。[2012年真题]
+6. 已知向量组α<sub>1</sub>=（3，2，-5）<sup>T</sup>，α<sub>2</sub>=（3，-1，3）<sup>T</sup>，<img height="39" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/19c4a5a8-0603-4d8e-b772-ad611776ad96.jpg" width="126"/>，α<sub>4</sub>=（6，-2，6）<sup>T</sup>，则该向量组的一个极大线性无关组是（　　）。[2013年真题]
+7. 已知n元非齐次线性方程组Ax=B，秩r（A）=n-2，α<sub>1</sub>，α<sub>2</sub>，α<sub>3</sub>为其线性无关的解向量，k<sub>1</sub>，k<sub>2</sub>为任意常数，则Ax=B的通解为（　　）。[2014年真题]
+8. 若非齐次线性方程组Ax=b中，方程的个数少于未知量的个数，则下列结论中正确的是（　　）。[2013年真题]
+9. 齐次线性方程组<img height="49" id="图片 604" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/0abc1948-d789-4583-a0ab-a00908d85319.jpg" width="117"/>的基础解系为（　　）。[2011年真题]
+10. <span style="font-size:14px">已知矩阵<img src="http://admintk.100xuexi.com/UpLoadImage/2016-08-16/e8fb3495-439b-4aa9-8980-65ea49a4d999.png" title="1.png"/></span><span style="font-size:14px">与<img src="http://admintk.100xuexi.com/UpLoadImage/2016-08-16/e1cfaad6-4e57-46f5-9227-495dba122041.png" title="2.png"/></span><span style="font-size:14px">相似，</span>则λ等于（　　）。[2013年真题]
+11. 已知n阶可逆矩阵A的特征值为λ<sub>0</sub>，则矩阵（2A）<sup>-1</sup>的特征值是（　　）。[2012年真题]
+12. 设A是3阶矩阵，P=（α<sub>1</sub>，α<sub>2</sub>，α<sub>3</sub>）是3阶可逆矩阵，且<img height="72" id="图片 610" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/bfd482b1-281a-4ca6-8cb0-86f46cabe427.jpg" width="134"/>，若矩阵Q=（α<sub>2</sub>，α<sub>1</sub>，α<sub>3</sub>），则Q<sup>-1</sup>AQ=（　　）。[2011年真题]
+13. 要使得二次型<img height="32" id="图片 615" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/c474284e-c5df-48ff-9738-82bfad40b956.jpg" width="414"/>为正定的，则t的取值条件是（　　）。[2012年真题]
+14. 已知<img height="74" id="图片 617" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/8f025e14-5d26-4230-9fd8-9aae9a5284dd.jpg" width="275"/>的值为（　　）。
+15. <img height="95" id="图片 622" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/6820c097-b1ba-47ca-9f68-60f683b0a88b.jpg" width="276"/>是x的多项式，其可能的最高方次是（　　）。
+16. 设A是3阶矩阵，矩阵A的第1行的2倍加到第2行，得矩阵B，则下列选项中成立的是（　　）。
+17. 设A，B为n阶矩阵，A*，B*分别为A，B对应的伴随矩阵，分块矩阵<img height="35" id="图片 626" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/29ca36dd-e66a-4c68-af06-d53f19615a1d.jpg" width="72"/>，则C的伴随矩阵C*=（　　）。
+18. 设向量组α<sub>1</sub>，α<sub>2</sub>，α<sub>3</sub>线性无关，则下列向量组中，线性无关的是（　　）。
+19. 设有向量组α<sub>1</sub>=（1，-1，2，4），α<sub>2</sub>=（0，3，1，2），α<sub>3</sub>=（3，0，7，14），α<sub>4</sub>=（1，-2，2，0），α<sub>5</sub>=（2，1，5，10），则该向量组的<br/>极大线性无关组是（　　）。
+20. 设n维行向量<img height="41" id="图片 634" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/943ab785-6ee2-463d-b1f3-49b96bfeb1f9.jpg" width="165"/>矩阵A=E-α<sup>T</sup>α，B=E+2α<sup>T</sup>α，其中E为n阶单位矩阵，则AB等于（　　）。
+21. 设β<sub>1</sub>，β<sub>2</sub>是线性方程组Ax=b的两个不同的解，α<sub>1</sub>、α<sub>2</sub>是导出组Ax=0的基础解系，k<sub>1</sub>、k<sub>2</sub>是任意常数，则Ax=b的通解是（　　）。
+22. 设A是m×n阶矩阵，Ax=0是非齐次线性方程组Ax=b所对应的齐次线性方程组，则下列结论正确的是（　　）。
+23. 齐次线性方程组<img border="0" height="150" hspace="0" src="http://admintk.100xuexi.com/UpLoadImage/2017-11-22/6f0dceae-7769-4ed9-8a20-ab9749ed20a5.jpg" style="float:none;width:266px;height:150px;" title="1.jpg" vspace="0" width="266"/>的系数矩阵记为A。若存在三阶矩阵B≠0使得AB＝0，则（　　）。
+24. 设λ<sub>1</sub>，λ<sub>2</sub>是矩阵A的两个不同的特征值，ξ，η是A的分别属于λ<sub>1</sub>，λ<sub>2</sub>的特征向量，则以下选项中正确的是（　　）。
+25. 下列矩阵中不能对角化的是（　　）。
+26. 设A是n阶矩阵，且A<sup>k</sup>=0（k为正整数），则（　　）。
+27. 已知二阶实对称矩阵A的一个特征向量为（2，-5）<sup>T</sup>，并且A＜0，则以下选项中为A的特征向量的是（　　）。
+28. 二次型<img height="24" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/a9ca0df8-a32b-49cd-899d-628646eeaab6.png" width="323"/>的标准形为（　　）。
+29. n元二次型X<sup>T</sup>AX是正定的充分必要条件是（　　）。
+30. 已知A为奇数阶实矩阵，设阶数为n，且对于任一n维列向量X，均有X<sup>T</sup>AX＝0，则有（　　）。
+31. 二次型<img height="62" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/97d236d3-fe80-4f1c-be98-5a4d6be97cc4.png" width="215"/>的秩为（　　）。
+32. 已知矩阵<img height="67" id="图片 533" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/4a6c4137-9113-443c-ab5f-72f23dbfa560.jpg" width="96"/>，那么与A既相似又合同的矩阵是（　　）。

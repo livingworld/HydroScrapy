@@ -1,0 +1,29 @@
+D．3P
+D．<img height="24" id="Picture 19" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/dc9aa802-f29b-4729-8bf3-5bf45eb7b003.png" width="116"/>
+D．水平反力相同，竖向反力不同
+D．12kN
+D．1.5qa<sup>2</sup>（顺时针方向）
+D．3M／2
+D．F<sub>p</sub>l/4，右边受拉
+D．6kN·m（左拉）
+D．<img height="20" id="Picture 49" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/4bc10d68-3e1a-48aa-a45f-842f6d448729.png" width="44"/>（左边受拉），<img height="20" id="Picture 50" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/ff83a72c-b4cb-4309-94bf-5827ed95e350.png" width="67"/>
+D．<img height="20" id="Picture 60" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/69b7158a-91c4-4e4d-aa7a-30537c9f2810.png" width="59"/>（左边受拉），<img height="20" id="Picture 61" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/285ef3dc-917d-4680-aaca-f97a366443a6.png" width="77"/>（左边受拉）
+D．6
+D．0
+D．-2ql
+D．-2M／a
+D．1.2M（右边受拉）
+D．3M／2
+D．5kN
+D．22.5kN
+D．M<sub>BA</sub>=20kN·m（左侧受拉）；V<sub>C</sub>=5kN（↓）
+D．12（右侧受拉）
+D．7ql<sup>2</sup>/8
+D．图（e）
+D．<img height="30" id="图片 6" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/6eab699e-0780-4ed6-a821-5e8c697a4adc.jpg" width="19"/>
+D．M、Q、N图都不相同
+D．Pd
+D．15
+D．对于拱结构，根据荷载特征，选择合理拱轴曲线
+D．不经计算无法判定
+D．不产生内力，也不产生任何位移

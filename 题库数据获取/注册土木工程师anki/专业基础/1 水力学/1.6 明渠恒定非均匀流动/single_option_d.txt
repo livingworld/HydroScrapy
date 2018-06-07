@@ -10,8 +10,8 @@ D．5.48
 D．无法确定
 D．相等
 D．0.99m，层流
-D．B=2m，Q=1.0m3/s，H=0.4m
-D．C=72.04m1/2/s，Q=93.04m3/s，急流
+D．B=2m，Q=1.0m<sup>3</sup>/s，H=0.4m
+D．C=72.04m<sup>1/2</sup>/s，Q=93.04m<sup>3</sup>/s，急流
 D．无法确定
 D．缓坡，临界流
 D．缓坡渠道，急流
@@ -19,7 +19,7 @@ D．非均匀急流
 D．非均匀流急流
 D．非均匀流急流
 D．缓流，层流
-D．h"=1.783m，lj=6.867m，△Ej=1.227m
+D．h"=1.783m，l<sub>j</sub>=6.867m，△E<sub>j</sub>=1.227m
 D．急流，大于1.0
 D．层流
 D．陡坡，急流，减小
@@ -30,6 +30,6 @@ D．渠道的糙率
 D．无法确定
 D．图（a）和图（d）
 D．是单位质力液体相对于通过该断面最低点的基准面的机械能
-D．<img height="41" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/f9d605c7-9aea-44f6-8626-ace41f08e69d.png" width="69"/>
+D．<img height="41" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/f9d605c7-9aea-44f6-8626-ace41f08e69d.png" width="69"/>＜0
 D．均匀流，临界流，急流，层流
 D．无法确定

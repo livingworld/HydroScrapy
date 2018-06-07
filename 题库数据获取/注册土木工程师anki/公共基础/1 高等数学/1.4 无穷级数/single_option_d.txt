@@ -1,0 +1,24 @@
+D．单调减而有上界
+D．既非充分而又非必要条件
+D．当p＞1时条件收敛
+D．<img height="46" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/527e212f-c1a9-4f15-803c-6c52c13128d4.png" width="142"/>
+D．<img height="49" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/85cd0ac5-9632-44b7-a50a-3d45fc500b55.png" width="52"/>
+D．发散
+D．（-1，0）
+D．<img height="46" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/6e8eeebf-0fe3-4dc2-8c12-9da5c22a3268.png" width="82"/>
+D．（-4，0）
+D．[12，45）
+D．<img border="0" height="70" hspace="0" src="http://admintk.100xuexi.com/UpLoadImage/2017-12-19/3fcb6806-f732-4cb4-bf95-c026c5cb99e8.jpg" style="width:97px;height:70px;float:none;" title="d.jpg" vspace="0" width="97"/>
+D．<img height="41" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/a6d90e9e-1dc4-4ecb-b3bd-b9df21532ad0.png" width="129"/>
+D．9
+D．收敛性与λ有关
+D．<img height="46" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/b94230b1-9f57-4cca-9413-4f3a93febf8f.png" width="114"/>
+D．0<p<2
+D．<img height="42" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/0a41e6cb-e07c-4626-886a-dec57c18b9d8.png" width="86"/>
+D．<img height="39" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/50855442-f2c3-4c53-a842-4d44fe654187.png" width="88"/>
+D．8，［-2，2）
+D．（-∞，+∞）
+D．-2
+D．-1/56
+D．收敛性与α的取值有关
+D．<img height="38" id="图片 523" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/532d853b-a71c-403c-8d63-14239586ca6f.jpg" width="29"/>

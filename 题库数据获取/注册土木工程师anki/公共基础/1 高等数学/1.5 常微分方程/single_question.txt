@@ -1,0 +1,17 @@
+1. 微分方程xy′-y=x<sup>2</sup>e<sup>2x</sup>的通解y等于（　　）。[2014年真题]
+2. 微分方程<img height="38" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/e10438d3-3406-440f-8af8-c9601428f066.png" width="69"/>的通解是（　　）。[2012年真题]
+3. 微分方程<img height="24" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/d338b498-e813-4ab1-9e4e-aa0db43c35bd.png" width="104"/>的通解是（　　）。[2011年真题]
+4. 微分方程<img height="39" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/0916371b-5b7f-4a0f-8a00-35400c16961e.jpg" width="125"/>的通解是（　　）。[2011年真题]
+5. 微分方程ydx+（x-y）dy=0的通解是（　　）。[2010年真题]
+6. 函数y=C<sub>1</sub>e<sup>-x+C</sup><sub>2</sub>（C1，C2为任意数）是微分方程y″-y′-2y=0的（　　）。[2014年真题]
+7. 微分方程xy′-ylny=0满足y（1）=e的特解是（　　）。[2013年真题]
+8. 已知微分方程y′+p（x）y=q（x）（q（x）≠0）有两个不同的解y<sub>1</sub>（x），y<sub>2</sub>（x），C为任意常数，则该微分方程的通解是（　　）。[2012年真题]
+9. 微分方程y″-3y′+2y=xe<sup>x</sup>的待定特解的形式是（　　）。[2013年真题]
+10. 以y<sub>1</sub>=e<sup>x</sup>，y<sub>2</sub>=e<sup>-3x</sup>为特解的二阶线性常系数齐次微分方程是（　　）。[2012年真题]
+11. 微分方程y″+2y=0的通解是（　　）。[2010年真题]
+12. 微分方程（3+2y）xdx+（1+x<sup>2</sup>）dy=0的通解为（　　）。
+13. 微分方程cosydx+（1+e<sup>-x</sup>）sinydy=0满足初始条件<img height="37" id="图片 572" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/ff8e6732-2b52-4507-a30d-821f2210ae32.jpg" width="86"/>的特解是（　　）。
+14. 微分方程y″=y′<sup>2</sup>的通解是（　　）。
+15. 函数y=C<sub>1</sub>e<sup>x</sup>+C<sub>2</sub>e<sup>-2x</sup>+xe<sup>x</sup>满足的一个微分方程是（　　）。
+16. 具有特解<span id="_baidu_bookmark_start_12" style="display:none;line-height:0px;">﻿</span><span id="_baidu_bookmark_start_14" style="display:none;line-height:0px;">﻿</span>y<span id="_baidu_bookmark_end_15" style="display:none;line-height:0px;">﻿</span><span id="_baidu_bookmark_end_13" style="display:none;line-height:0px;">﻿</span><sub>1</sub>=e<sup>-x</sup>，<span id="_baidu_bookmark_start_8" style="display:none;line-height:0px;">﻿</span><span id="_baidu_bookmark_start_10" style="display:none;line-height:0px;">﻿</span><span id="_baidu_bookmark_start_4" style="display:none;line-height:0px;">﻿</span><span id="_baidu_bookmark_start_6" style="display:none;line-height:0px;">﻿</span><span id="_baidu_bookmark_start_0" style="display:none;line-height:0px;">﻿</span><span id="_baidu_bookmark_start_2" style="display:none;line-height:0px;">﻿</span>y<span id="_baidu_bookmark_end_11" style="display:none;line-height:0px;">﻿</span><span id="_baidu_bookmark_end_9" style="display:none;line-height:0px;">﻿</span><span id="_baidu_bookmark_end_7" style="display:none;line-height:0px;">﻿</span><span id="_baidu_bookmark_end_5" style="display:none;line-height:0px;">﻿</span><span id="_baidu_bookmark_end_3" style="display:none;line-height:0px;">﻿</span><span id="_baidu_bookmark_end_1" style="display:none;line-height:0px;">﻿</span><sub>2</sub>=2xe<sup>-x</sup>，y<sub>3</sub>=3e<sup>x</sup>的3阶常系数齐次线性微分方程是（　　）。
+17. 设y=y（x）是二阶常系数微分方程y″+py′+qy=e<sup>3x</sup>满足初始条件y（0）=y′（0）=0的特解，则当x→0时，函数<img height="43" id="图片 584" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/57d3a0e2-80cf-4e4f-8037-ae92b64e6125.jpg" width="76"/>的极限（　　）。

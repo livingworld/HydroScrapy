@@ -1,14 +1,14 @@
 A．密实
 A．砂土
-A．g/cm3
+A．g/cm<sup>3</sup>
 A．密实
 A．透水性差
-A．饱和度Sr
-A．<img height="25" id="图片 25" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/6db3c994-21d7-4706-8e43-0a0b4980ec39.png" width="49"/>
+A．饱和度<em>S</em><sub>r</sub>
+A．塑性指数<img height="25" id="图片 25" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/6db3c994-21d7-4706-8e43-0a0b4980ec39.png" width="49"/>
 A．结合水
-A．19.4kN/m3
+A．19.4kN/m<sup>3</sup>
 A．0.404
-A．IP=0.089
+A．I<sub>P</sub>=0.089
 A．振动中细颗粒流失
 A．原生矿物
 A．5
@@ -16,7 +16,7 @@ A．砂粒
 A．0.005
 A．3
 A．不均匀
-A．Cu≥5，Cc=1～3
+A．C<sub>u</sub>≥5，C<sub>c</sub>=1～3
 A．重力水
 A．重力水
 A．单粒结构
@@ -33,5 +33,5 @@ A．缩限
 A．土的塑限愈大，最优含水量愈小
 A．塑性指数
 A．巨粒土
-A．ω>ωP，e≥1.2的粘性土
+A．ω>ω<sub>P</sub>，e≥1.2的粘性土
 A．CL

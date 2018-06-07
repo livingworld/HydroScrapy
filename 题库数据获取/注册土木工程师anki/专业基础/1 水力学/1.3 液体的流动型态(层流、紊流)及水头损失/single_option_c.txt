@@ -1,4 +1,4 @@
-C．
+C．<img height="21" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/f3436a6a-1665-4ae9-b5ef-c37a263b4a2d.png" width="69"/>
 C．等于原值的2倍
 C．流速沿程变化的液流
 C．恒定非均匀流
@@ -7,10 +7,10 @@ C．1：1
 C．A=B
 C．层流和紊流
 C．惯性力与重力
-C．Recr1＞Recr2
+C．Re<sub>cr1</sub>＞Re<sub>cr2</sub>
 C．随流体的速度变化
 C．液体质点作不规则运动
-C．）
+C．<img height="45" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/9b1eb76f-0536-4083-9eba-3ba758237c89.png" width="72"/>）
 C．水力过渡粗糙区
 C．水力粗糙面
 C．水力粗糙面
@@ -22,12 +22,12 @@ C．不变
 C．粗糙区→过渡粗糙区→光滑区
 C．抛物线分布
 C．适用于明渠流和管流
-C．与1/τ成正比
+C．<img height="25" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/295ce791-7122-4d52-9743-dc33e5c98ca3.png" width="20"/>与1/τ成正比
 C．不变
-C．C与λ2成正比
+C．C与λ<sup>2</sup>成正比
 C．管中心与管壁之间
 C．明渠流
-C．hf1＜hf2
+C．h<sub>f1</sub>＜h<sub>f2</sub>
 C．增大
 C．不变
 C．2

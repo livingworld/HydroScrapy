@@ -1,0 +1,47 @@
+B．0.614，0.540，0.518
+B．<img height="26" id="图片 109" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/91b869e9-f2e7-4981-86b6-7b5850947bed.png" width="129"/>
+B．29%
+B．要考虑剪扭相关性，剪扭构件引入了混凝土受剪承载力降低系数<img height="23" id="图片 85" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/115a3ec4-3f96-474b-a317-2aba8327326b.png" width="17"/>和混凝土受扭承载力降低系数<img height="23" id="图片 84" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/f2de3075-8161-442c-9928-a3997e791808.png" width="63"/>
+B．10.9%
+B．适筋破坏
+B．保证压应力合力的大小与作用点位置不变
+B．仅受压钢筋未达到屈服
+B．2P<sub>a</sub>＜P<sub>b</sub>＜P<sub>c</sub>
+B．受压边缘混凝土达到极限压应变<img height="20" id="图片 62" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/66362883-8201-4b1b-8a0a-19b9e48aba2e.png" width="20"/>
+B．增加受拉钢筋截面面积
+B．当<img src="http://admintk.100xuexi.com/UpLoadImage/2016-07-21/8b2f8a9f-6cda-45af-b86f-e5ae5d8f9a02.jpg" title="1.jpg"/>时，<img src="http://admintk.100xuexi.com/UpLoadImage/2016-07-21/ff8122f3-6332-44b8-a2fb-345a63159f8f.jpg" title="2.jpg"/>
+B．超筋梁、少筋梁属脆性破坏，适筋梁属延性破坏
+B．钢筋面积（A<sub>s</sub>）
+B．<img height="20" id="图片 44" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/0e1716f7-74f1-48da-b8a5-ff546f1b6aa7.png" width="99"/>或<img height="36" id="图片 43" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/4eff1367-20c7-475c-ad8d-4bddf3a5c7f8.png" width="139"/>
+B．减小箍筋间距
+B．减小
+B．受压边缘混凝土的压应变ε<sub>c</sub>＝ε<sub>u</sub>（ε<sub>u</sub>为混凝土的极限压应变）
+B．梁的延性越小
+B．1207mm<sup>2</sup>
+B．适筋破坏
+B．适筋截面：ε<sub>s</sub>=ε<sub>y</sub>，x<sub>c</sub>=x<sub>b</sub>；超筋截面：ε<sub>s</sub><ε<sub>y</sub>，x<sub>c</sub>>x<sub>b</sub>
+B．斜截面受剪承载力
+B．形成稳定的钢筋骨架
+B．因弯曲正应力引起屈曲，需设横向加劲肋
+B．M<sub>uA</sub>＝M<sub>uB</sub>＞M<sub>uC</sub>＝M<sub>uD</sub>
+B．A<sub>s1</sub>＝A<sub>s2</sub>＞A<sub>s3</sub>＝A<sub>s4</sub>
+B．取A<sub>s</sub><sup>′</sup>＝A<sub>s</sub>
+B．应尽可能均匀地沿截面周边对称布置
+B．剪力的存在对构件的抗扭承载力没有影响
+B．箍筋可以是开口的，也可以是封闭的
+B．趋于不安全
+B．A<sub>s</sub>≠A<sub>s</sub><sup>′</sup>，且均未知的小偏压
+B．直径小的
+B．受扭构件承载力计算时，首先满足腹板矩形截面完整性原则进行截面划分，再计算每个矩形截面对剪扭承载力的贡献
+B．箍筋用量（1）＞（2）＞（3）
+B．增加柱截面高度
+B．降低
+B．螺旋箍达到了防止钢筋混凝土柱失稳破坏
+B．轴向力作用在截面范围外时为小偏心受压，反之为大偏心受压
+B．M大，N小
+B．构造简单、制造方便
+B．柱的长度可完全恢复到加荷前的长度
+B．对轴心受压承载力的影响比轴心受拉大
+B．降低
+B．是局部承压面积的3倍
+B．对进行疲劳强度验算的受弯构件，其主拉应力由箍筋和弯起钢筋承受，不考虑混凝土的作用

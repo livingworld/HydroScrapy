@@ -1,8 +1,8 @@
-A．<img height="41" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/aa757ed9-32c9-478f-912c-7afd5a7cbd03.png" width="21"/>
-A．<img height="41" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/f8e83d28-2f66-45fe-9051-f2034d6cce61.png" width="21"/>
+A．<img height="41" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/aa757ed9-32c9-478f-912c-7afd5a7cbd03.png" width="21"/>＜1.05
+A．<img height="41" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/f8e83d28-2f66-45fe-9051-f2034d6cce61.png" width="21"/>＜0.9
 A．无压流—有压流—半有压流
-A．<img height="41" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/f8e83d28-2f66-45fe-9051-f2034d6cce61.png" width="21"/>
-A．hp＞D
+A．<img height="41" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/f8e83d28-2f66-45fe-9051-f2034d6cce61.png" width="21"/>＞1.0
+A．h<sub>p</sub>＞D
 A．进口上游水面至出口底部的高差值
 A．洞长超过200m，洞长不大于200m
 A．实用堰流，明渠均匀流，孔口出流

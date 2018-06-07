@@ -1,0 +1,17 @@
+D．C点向下，D点向上
+D．-2ml<sup>2</sup>/3EI<img src="http://admintk.100xuexi.com/UpLoadImage/2016-07-21/4d6a7d96-f643-4070-b72b-16ed6df91c76.jpg" title="2.jpg"/>
+D．<img height="39" id="图片 80" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/c93e8581-dade-430a-bb2d-1e77601a0474.png" width="37"/>
+D．由于荷载未给出，无法求出
+D．<img height="39" id="图片 62" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/eeea51c1-580b-40df-8941-fa3d536bd107.jpg" width="62"/>
+D．<img height="38" id="图片 56" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/c954fc7f-6c95-4341-b3b2-6a1aad788049.jpg" width="38"/>
+D．<img height="36" id="图片 48" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/13735e3d-ac38-40d7-997b-7b543a4f1984.jpg" width="34"/>
+D．17/2
+D．<img alt="HWOCRTEMP_ROC2010" height="48" id="图片 36" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/db1a19a3-0704-4714-a02e-df2322fc6aef.jpg" width="47"/>
+D．L<sup>3</sup>/6EI
+D．<img height="23" id="Picture 175" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/30c60701-afda-42e1-87be-379f9201174f.png" width="75"/>
+D．<img height="35" id="图片 12" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/e584505a-c7ca-4622-bb54-48b08eafdab0.jpg" width="23"/>
+D．与EI有关，与h、l均无关
+D．2αta
+D．50αa（↓）
+D．<img height="15" id="Picture 24" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/470df7da-7b1f-4d4e-a350-665453ed8dde.png" width="16"/>tEA/L
+D．P<sub>2</sub>＝－2P<sub>1</sub>

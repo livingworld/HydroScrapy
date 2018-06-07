@@ -1,0 +1,23 @@
+C．±4.5m
+C．-0.02m，0.5m
+C．x=±1.25m
+C．<img height="39" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/b8b55603-4915-4b61-a955-9bde9aa7637e.jpg" width="84"/>
+C．-0.01m
+C．12m和6m/s
+C．c
+C．质元处于波谷处时，动能为零，势能最大
+C．3λ/4
+C．102
+C．<img height="18" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/a4e537cb-dde4-4963-973f-281616a5e0ea.png" width="22"/>
+C．振动频率越高，波速越大
+C．y＝Acos[t－（x/u）]
+C．<img height="35" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/e679ab58-76cc-43e4-95eb-cf67111f50a3.png" width="71"/>
+C．3π/2
+C．3π/4
+C．<img height="34" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/3b359fc8-ac55-4ae2-94c1-c352edb765e8.jpg" width="23"/>
+C．2Acos（2πx/λ）
+C．它从相邻的一段介质质元获得能量，其能量逐渐增加
+C．1.26
+C．声波的振幅不断减小
+C．<img height="39" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/9eb00271-5b7f-4148-85d9-dd89f9e2a325.png" width="70"/>
+C．1446

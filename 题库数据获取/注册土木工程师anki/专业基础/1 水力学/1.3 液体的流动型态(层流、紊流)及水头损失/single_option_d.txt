@@ -1,4 +1,4 @@
-D．
+D．<img height="21" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/96820c18-f06d-459b-b088-3f91255e3561.png" width="69"/>
 D．等于原值的4倍
 D．压强沿程变化的液流
 D．非恒定非均匀流
@@ -22,9 +22,9 @@ D．不定。
 D．光滑区→过渡粗糙区→粗糙区
 D．椭圆分布
 D．只适用于明渠紊流
-D．与τ2成正比
+D．<img height="25" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/295ce791-7122-4d52-9743-dc33e5c98ca3.png" width="20"/>与τ<sup>2</sup>成正比
 D．不确定
-D．C与1/成正比
+D．C与1/<img height="24" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/dae68f38-b116-446b-93a9-6d3c11c77cc2.png" width="27"/>成正比
 D．无最大值
 D．管流
 D．无法确定

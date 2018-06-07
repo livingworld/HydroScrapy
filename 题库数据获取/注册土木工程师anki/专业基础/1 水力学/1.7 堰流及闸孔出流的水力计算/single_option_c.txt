@@ -5,9 +5,9 @@ C．δ＜0.67H.0.67H＜δ＜2.5H，δ＜10H
 C．5％
 C．宽顶堰
 C．宽顶堰流
-C．hs≥0.8H0
-C．hc"=ht
-C．Qa=Qb=Qc
+C．h<sub>s</sub>≥0.8H<sub>0</sub>
+C．h<sub>c</sub>"=h<sub>t</sub>
+C．Q<sub>a</sub>=Q<sub>b</sub>=Q<sub>c</sub>
 C．80.46
 C．11.56
 C．2810.5

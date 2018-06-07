@@ -1,0 +1,76 @@
+D．着色剂
+D．70%
+D．工作性、强度、耐久性、经济性
+D．水灰比、单位用水量
+D．不确定
+D．①②③④
+D．节省粗骨料
+D．增减砂石比
+D．水泥品种
+D．棱柱体抗压强度和抗折强度的平均值
+D．水与水泥的比例
+D．徐变对混凝土有害无利
+D．在长期静荷载作用下产生的塑性变形
+D．抗压强度下降不超过25％，质量损失不超过5％
+D．1kg钾离子的危害与1kg钠离子的危害相同
+D．变化不定
+D．温湿环境的选择
+D．捣实性
+D．相同
+D．视盐类浓度而定
+D．防水剂
+D．筛分曲线和细度模数
+D．满足设计要求的强度和施工要求的和易性，且满足耐久性要求
+D．空隙率和堆积密度均小
+D．空隙率较大，总表面积较小
+D．砂的颗粒大小搭配不适当
+D．级配相同，则M<sub>x</sub>一定不同
+D．级配愈差
+D．该混凝土中细骨料的总表面积愈大，所需水泥用量愈少
+D．检验石子中K<sub>2</sub>O和Na<sub>2</sub>O含量是否超标
+D．有抗冻要求的混凝土工程
+D．流动性混凝土
+D．扩展度法
+D．趋于零
+D．水泥品种
+D．水泥用量
+D．中等砂率
+D．保持水灰比不变，增加水泥浆量
+D．合理砂率
+D．高效减水剂
+D．不影响和易性、正常凝结、强度发展、耐久性，不引起混凝土内部钢筋锈蚀的水
+D．抗拉强度
+D．150mm×150mm×150mm
+D．0.90
+D．f<sub>cp</sub>>f<sub>cu</sub>
+D．f<sub>cu</sub><sub>，</sub><sub>o</sub>
+D．95％
+D．25±3℃，RH≥95％，28d
+D．<img border="0" height="37" id="Picture 72" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/60cf5d95-eb3e-4a88-83bf-ec7f53350d85.png" width="19"/>和f<sub>ce</sub>
+D．砂率
+D．<img border="0" height="37" id="Picture 77" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/60cf5d95-eb3e-4a88-83bf-ec7f53350d85.png" width="19"/>变化，则混凝土f<sub>cu</sub>随之成直线关系变化
+D．t愈高，早期强度低、后期强度较高
+D．<img border="0" height="37" id="Picture 81" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/ec6d92c2-23b6-4f1c-a2b1-7ec9a885e33a.png" width="99"/>
+D．不需保湿期
+D．<img border="0" height="40" id="Picture 89" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/747ea58d-4f5f-4a96-a79e-b630ed57e5f6.png" width="80"/>
+D．f<sub>cp</sub>应力下的E
+D．一条曲线，E<sub>e</sub>值不变
+D．3.60×10<sup>6</sup>MPa
+D．冲击荷载作用下
+D．使应力集中消除、温度应力消除、预应力受损
+D．混凝土>水泥净浆>砂浆
+D．降低C、降低<img border="0" height="37" id="Picture 94" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/60cf5d95-eb3e-4a88-83bf-ec7f53350d85.png" width="19"/>
+D．选用矿渣水泥或减少水泥用量
+D．水泥浆量
+D．砂率
+D．不确定
+D．缓凝剂
+D．普通水泥
+D．用水量不变条件下，强度大大提高
+D．混凝土干裂
+D．缓凝剂（糖蜜类）
+D．M<sub>x</sub>、D<sub>max</sub>、W
+D．节约水泥
+D．二者数值关系不确定
+D．适当降低<img border="0" height="37" id="Picture 103" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/60cf5d95-eb3e-4a88-83bf-ec7f53350d85.png" width="19"/>
+D．设计要求的强度保证率和施工管理水平高低

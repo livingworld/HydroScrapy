@@ -1,0 +1,34 @@
+1. 已知向量α=（-3，-2，1），β=（1，-4，-5），则|α×β|等于（　　）。[2013年真题]
+2. 设直线方程为<img height="78" id="图片 3" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/fb4f43e5-1a1c-4d40-9b88-bf27c9ad9650.jpg" width="104"/>，则该直线（　　）。[2010年真题]
+3. 已知直线L：<img src="http://admintk.100xuexi.com/UpLoadImage/2017-06-17/174f0fae-acec-4452-a295-fe83f2632bbc.jpg" title="1.jpg"/>，平面<img src="http://admintk.100xuexi.com/UpLoadImage/2017-06-17/8b9ccf49-745b-416a-8159-dfbeca8e41c9.jpg" title="2.jpg"/>：<img src="http://admintk.100xuexi.com/UpLoadImage/2017-06-17/42040345-553f-419c-b7b9-51ae400305a3.jpg" title="3.jpg"/>，则（　　）。
+4. 设直线L为<img height="46" id="图片 6" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/6362bd82-550e-4a1e-931c-6f29cead1104.jpg" width="162"/>平面π为4x-2y+z-2=0，则直线和平面的关系是（　　）。[2012年真题]
+5. 设直线方程为x=y-1=z，平面方程为x-2y+z=0，则直线与平面（　　）。[2011年真题]
+6. 在空间直角坐标系中，方程x<sup>2</sup>+y<sup>2</sup>－z=0表示的图形是（　　）。[2014年真题]
+7. 方程<img height="53" id="图片 11" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/6147e20c-1198-46e9-bd9c-aeaeccb750ee.jpg" width="127"/>表示（　　）。[2012年真题]
+8. 在三维空间中方程y<sup>2</sup>-z<sup>2</sup>=1所代表的图形是（　　）。[2011年真题]
+9. 设有直线<img height="41" id="图片 17" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/8c5f42cb-d328-46ff-8690-df9042fd7df3.jpg" width="192"/>与<img height="62" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/92e37909-c1ac-4803-a626-b6a73081313d.jpg" width="94"/>，则L<sub>1</sub>与L<sub>2</sub>的夹角θ等于（　　）。[2014年真题]
+10. 曲线x<sup>2</sup>+4y<sup>2</sup>+z<sup>2</sup>=4与平面x+z=a的交线在yOz平面上的投影方程是（　　）。[2012年真题]
+11. 设α、β、γ都是非零向量，若α×β=α×γ，则（　　）。
+12. 设α=i+2j+3k，β=i-3j-2k，与α、β都垂直的单位向量为（　　）。
+13. 已知a、b均为非零向量，而｜a+b｜=｜a-b｜，则（　　）。
+14. 设三向量a，b，c满足关系式a·b=a·c，则（　　）。
+15. 设a，b，c为非零向量，则与a不垂直的向量是（　　）。
+16. 设a、b为非零向量，且满足（a+3b）⊥（7a-5b），（a-4b）⊥（7a-2b），则a与b的夹角θ=（　　）。
+17. 已知|a|=2，<img height="20" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/f9a033cb-beff-4c21-b089-f9cc708cfc21.png" width="49"/>，且a·b=2，则|a×b|=（　　）。
+18. 设向量x垂直于向量a=2，3，-1和b=1，-2，3，且与c=2，-1，1的数量积为-6，则向量x=（　　）。
+19. 直线<img height="48" id="图片 36" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/042e3288-e622-4e43-ae30-1e5c5b2c003e.jpg" width="347"/>之间的关系是（　　）。
+20. 已知直线方程<img height="55" id="图片 40" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/3ff37b9c-4ca1-4397-a4a8-da0142a82b13.jpg" width="187"/>中所有系数都不等于0，且<img height="42" id="图片 41" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/816f7788-64df-4782-b040-9ac23e3cf708.jpg" width="70"/>，则该直线（　　）。
+21. 已知直线L<sub>1</sub>过点M<sub>1</sub>（0，0，-1）且平行于x轴，L<sub>2</sub>过点M<sub>2</sub>（0，0，1）且垂直于xOz平面，则到两直线等距离点的轨迹方程为（　　）。
+22. 在平面x+y+z-2=0和平面x+2y-z-1=0的交线上有一点M，它与平面x+2y+z+1=0和x+2y+z-3=0等距离，则M点的坐标为（　　）。
+23. 设平面α平行于两直线<img height="29" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/5c41b5be-99a3-469f-8170-769d7072e9f5.png" width="78"/>及2x=y=z，且与曲面z=x<sup>2</sup>+y<sup>2</sup>+1相切，则α的方程为（　　）。
+24. 三个平面x=cy+bz，y=az+cx，z=bx+ay过同一直线的充要条件是（　　）。
+25. 通过直线<img height="72" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/fe3e1a44-7b30-47e6-bb52-b1fd4e615b40.png" width="81"/>和直线<img height="70" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/7ccafb89-b3e9-4855-9ba9-ef112788843c.png" width="79"/>的平面方程为（　　）。
+26. 直线L为<img height="44" id="图片 56" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/b7f413d6-67d5-4243-baea-363cc7074134.jpg" width="155"/>平面π为4x-2y+z-2=0，则（　　）。
+27. 过点（-1，2，3）垂直于直线<img height="29" id="图片 58" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/8609cead-1420-4eee-b6ac-224d901cc1e7.jpg" width="86"/>且平行于平面7x+8y+9z+10=0的直线是（　　）。
+28. 若直线<img height="46" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/f3b42d69-7a4a-47ef-a836-227f6be08f45.png" width="141"/>与<img height="46" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/cd70e150-893b-47ef-970c-a08c317ffd11.png" width="127"/>相交，则必有（　　）。
+29. 过点P（1，0，1）且与两条直线<img height="36" id="图片 67" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/9c178523-0814-4978-a6cb-24d81ebc3871.jpg" width="332"/>都相交的直线的方向向量可取为（　　）。
+30. 已知曲面z=4-x<sup>2</sup>-y<sup>2</sup>上点P处的切平面平行于平面2x+2y+z-1=0，则点P的坐标是（　　）。
+31. 母线平行于Ox轴且通过曲线<img height="45" id="图片 73" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/9c82a35b-7839-4b35-8224-b05680269423.jpg" width="124"/>的柱面方程为（　　）。
+32. 曲线<img height="63" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/0cca5472-d7c2-45af-86a0-e89eed391a47.jpg" width="175"/>在xOy面上的投影柱面方程是（　　）。
+33. 方程<img height="39" id="图片 83" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/ffdf6f93-4ca2-4f30-8389-4a925c456c23.jpg" width="110"/>是一旋转曲面方程，它的旋转轴是（　　）。
+34. 螺旋线<img height="65" id="图片 85" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/2a10e1a9-07fd-409c-985f-3d33550658aa.jpg" width="108"/>（a，b为正常数）上任一点处的切线（　　）。

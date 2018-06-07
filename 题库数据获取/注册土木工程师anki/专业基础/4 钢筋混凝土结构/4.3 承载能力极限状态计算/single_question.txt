@@ -1,0 +1,47 @@
+1. 纵向受拉钢筋分别采用HPB235、HRB335、HRB400时，相对界限受压区高度<img height="23" id="图片 121" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/02596d84-3f0f-4c11-b931-03add05b4fe1.png" width="17"/>为（　　）。[2010年真题]
+2. 已知柱截面尺寸<img height="20" id="图片 117" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/58a579a2-cb76-42bf-894a-1186e185d1c0.png" width="139"/>，C30混凝土<img height="23" id="图片 116" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/d1451211-2a89-4337-9f5d-d39b7ed79493.png" width="93"/>，主筋采用HRB335钢筋<img height="26" id="图片 115" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/70c44f2c-681b-442d-a110-41fc15a0fed7.png" width="89"/>，<img height="23" id="图片 114" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/09fed1bf-6c25-429c-82bc-e6d0116c3b78.png" width="103"/>，<img height="20" id="图片 113" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/bda37229-b7e3-4a5c-bfd5-4558d43d765d.png" width="165"/>（正、反向弯矩），<img height="20" id="图片 112" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/9e74d352-9aed-4478-8211-51277b5390b8.png" width="86"/>（压力），安全系数<img height="20" id="图片 111" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/d0facbf1-cf08-4458-8aab-fc725b9f0bdc.png" width="50"/>，此柱的配筋与下列哪个值最接近？（　　）[2010年真题]
+3. 已知一矩形截面梁，仅配置箍筋如图4-3-1所示，箍筋采用HPB235<img height="26" id="图片 96" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/ce3eb0e0-fc86-4684-9829-26985676a7b2.png" width="103"/>，混凝土C30<img height="23" id="图片 95" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/973d909a-dc85-4139-9cb0-3cad4b972287.png" width="195"/>，<img height="20" id="图片 94" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/bde9d1eb-5a9e-442e-8d1b-d2266697d239.png" width="66"/>，试问当箍筋由Φ6@100改为Φ8@100时，受剪承载力提高多少？（　　）[2010年真题]<br/><span style="display:block;text-align:center;"><img alt="34" height="146" id="图片 93" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/de7d6013-4621-481f-b556-4827317ecbba.jpg" width="189"/></span><span style="display:block;text-align:center;">图4-3-1</span>
+4. 剪力和扭矩共同作用时（　　）。[2010年真题]
+5. 已知一矩形截面梁配筋如图4-3-2所示，采用HRB335钢筋（<img height="23" id="图片 79" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/98b7f762-26d1-44ec-89ec-25923f6e2f29.png" width="79"/>），<img height="20" id="图片 78" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/bde9d1eb-5a9e-442e-8d1b-d2266697d239.png" width="66"/>，试问当混凝土强度由C20（<img height="23" id="图片 77" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/90d133f3-15f5-4b0c-85f2-ed2a51ae05e9.png" width="86"/>）提高至C60（<img height="23" id="图片 76" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/719ec6fd-ede3-4a23-8486-4e07f2a777a8.png" width="96"/>）时，受弯承载力提高多少？（　　）[2010年真题]<br/><span style="display:block;text-align:center;"><img alt="33" height="119" id="图片 75" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/f6c49b45-ada1-497f-93ff-bb58aab14135.jpg" width="182"/></span><span style="display:block;text-align:center;">图4-3-2</span>
+6. 受弯构件中，受拉钢筋达到屈服，同时受压区混凝土达到极限压应变的破坏，称为（　　）。
+7. 受弯正截面承载力计算中，采用等效应力图形，其确定的原则是（　　）。
+8. 若钢筋混凝土双筋矩形截面受弯构件的正截面受压区高度低于受压钢筋混凝土保护层厚度，表明（　　）。
+9. 三根承受跨中集中荷载的简支梁a、b、c，其配筋率分别为ρ<sub>a</sub>=0.8%，ρ<sub>b</sub>=1.6%=ρ<sub>max</sub>，ρ<sub>c</sub>=2.0%，其他条件相同。在保证该梁不会发生斜截面破坏的情况下，各梁能够承受集中荷载设计值P的相互关系是（　　）。
+10. 对适筋梁，受拉钢筋刚屈服时，则（　　）。
+11. 提高受弯构件抗弯刚度（减小挠度）最有效的措施是（　　）。
+12. 除了截面形式和尺寸外其它均相同的单筋矩形截面和T型截面，当单筋矩形截面宽度与T型截面的翼缘计算宽度相同时，正确描述它们正截面极限承载能力的情况是（　　）。
+13. 梁的正截面破坏形式有适筋梁破坏、超筋梁破坏、少筋梁破坏，它们的破坏性质分别属（　　）。
+14. 提高受弯构件正截面承载力的最有效因素是（　　）。
+15. T形截面受弯构件正截面承载力计算时，属于第一类（即中和轴在翼缘内）T形截面的判别式是（　　）。
+16. 当一般梁的V>0.25<img height="20" id="图片 35" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/b2e367e3-4353-4353-8e16-cdad424c5e73.png" width="46"/>时，应采取的措施是（　　）。
+17. 在一般情况下，随剪跨比的增大，梁的斜截面承载力亦（　　）。
+18. 当受拉钢筋刚达到屈服时，适筋梁状态是（　　）。
+19. 在单筋适筋梁中，受拉钢筋配置得越多，则（　　）。
+20. 有一矩形截面梁，截面尺寸b·h=250mm×500mm，弯矩设计值为M=150kN·m，混凝土强度等级C30（f<sub>c</sub>=14.3N/mm<sup>2</sup>α<sub>c</sub>=1.0）钢筋采用HRB335（f<sub>y</sub>=300N/mm<sup>2</sup>），所需受拉钢筋截面面积A<sub>s</sub>为（　　）。
+21. 某矩形截面简支梁，b×h＝200mm×500mm，混凝土强度等级为C20，受拉区配置4根直径为20mm的Ⅱ级钢筋，该梁沿截面破坏时为（　　）。
+22. 钢筋混凝土单筋受弯构件，在正截面受弯承载力计算中，适筋截面与超筋截面的特征表现在（　　）。<br/><span style="display:block;text-align:center;"><img alt="14-3" height="364" id="图片 23" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/f8253736-65bb-48ea-8e25-6cc14fe87eff.jpg" width="334"/></span><span style="display:block;text-align:center;">图4-3-3　适筋梁、超筋梁、界限配筋梁破坏时的正截面平均应变图</span>
+23. 在确定梁的纵筋弯起点时，要求抵抗弯矩图不得切入设计弯矩图以内，即应包在设计弯矩图的外面，这是为了保证梁的（　　）。
+24. 受弯构件中需配置一定量的箍筋，关于箍筋的作用，下列描述不正确的是（　　）。
+25. 不考虑腹板屈曲后强度的工字形截面梁腹板高厚比<img height="40" id="图片 21" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/cbd57049-fa06-4190-b4cd-dc092a6e96a7.jpg" width="113"/>时，梁腹板可能（　　）。
+26. 四根简支梁配筋及破坏时受压区高度如图4-3-4所示，它们的承载力Mu的大小顺序为（　　）。<br/><span style="display:block;text-align:center;"><img alt="14-6" height="159" id="图片 17" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/fe7e5cb0-dac0-4133-99f8-8c953c0e3253.jpg" width="381"/></span><span style="display:block;text-align:center;">图4-3-4</span>
+27. 如图4-3-5所示，四种单筋截面适筋梁，承受相同的弯矩，它们之间的b、h、b<sub>f</sub><sup>′</sup>和b<sub>f</sub>也相等，则各个截面所需钢筋截面面积应满足条件（　　）。<br/><span style="display:block;text-align:center;"><img alt="14-7" height="89" id="图片 16" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/98a57445-875b-4e28-a643-37fcd8434b38.jpg" width="202"/></span><span style="display:block;text-align:center;">图4-3-5</span>
+28. 设计双筋梁求A<sub>s</sub><sup>′</sup>、A<sub>s</sub>时，用钢量接近最少的方法是（　　）。
+29. 关于受扭构件的抗扭纵筋的说法，下列哪项是不正确的？（　　）
+30. 下列关于钢筋混凝土弯剪扭构件的叙述不正确的是（　　）。
+31. 对受扭构件中箍筋，正确的叙述是（　　）。
+32. 对于一个钢筋混凝土大偏心受压短柱，当作用的弯矩给定时，轴向受压荷载的增加对它的安全状态产生的影响是（　　）。
+33. 取x＝x<sub>b</sub>计算偏压构件，是在（　　）情况下。
+34. 有两个配置螺旋箍筋的圆形截面柱，一个直径大，另一个直径小，但螺旋箍筋的品种、直径和螺旋距都相同，则螺旋箍筋对哪个的承载力提高得大些（相对于该柱本身）？（　　）
+35. 对工字型截面钢筋混凝土构件承载力计算，下列说法正确的是（　　）。
+36. 已知柱截面尺寸相同，混凝土等级相同，下面三种荷载作用下箍筋用量的大小是（　　）。<br/><span style="display:block;text-align:center;"><img alt="35" height="119" id="图片 5" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/04d7ef8f-fe76-46d1-bf1e-b7a5f4a17908.jpg" width="172"/></span><span style="display:block;text-align:center;">图4-3-6</span>
+37. 当框架柱的轴压力很大，而截面不能满足轴压比要求时，下列措施中错误的是（　　）。
+38. 随着框架柱的轴压比的增大，其延性（　　）。
+39. 配有螺旋式箍筋的钢筋混凝土柱，其受压承载力计算中不考虑稳定系数的原因是（　　）。
+40. 在对钢筋混凝土偏心受压构件作大小偏心受压判断时，下列论述正确的是（　　）。
+41. 对大偏心受压构件不利的内力组合为（　　）。
+42. 在确定轴心受压实腹柱的截面形式时，应使两个主轴方向的长细比尽可能接近，目的是（　　）。
+43. 一钢筋混凝土短柱，作用一轴向压力N，过两年后卸去该轴向压力N，则（　　）。
+44. 一对称配筋的构件，经检验发现少放了20％的钢筋，则（　　）。
+45. 在受拉构件中由于纵筋拉力的存在，构件的抗剪能力将（　　）。
+46. 钢筋混凝土构件进行局部承压承载力计算时，其中底面积A<sub>0</sub>（　　）。
+47. 下列关于受弯构件疲劳验算的表述正确的是（　　）。

@@ -1,0 +1,32 @@
+A．<img height="17" id="图片 1" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/026e00f4-7711-4c85-a2be-3d56a57d28e9.png" width="49"/>
+A．1
+A．<img height="63" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/519f7c80-6131-4708-a8d0-4488949a86ea.png" width="71"/>
+A．-2
+A．β必可用α1，α2线性表示
+A．α2，α4
+A．x=k1（α1-α2）+k2（α1+α3）+α1
+A．Ax=0仅有零解
+A．α1=（1，1，1，0）T，α2=（-1，-1，1，0）T
+A．6
+A．<img height="38" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/84ebaa6a-57af-4e60-9367-d8f0569ca004.png" width="22"/>
+A．<img height="67" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/e9e7ae80-ca2f-4fde-91b6-e505e8bedf9b.png" width="80"/>
+A．-1<t<1
+A．2
+A．1次
+A．B的第1行的-2倍加到第2行得A
+A．<img height="44" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/2666a654-03c2-4774-9f80-1d78fa94f094.png" width="126"/>
+A．α1+α2，α2+α3，α3-α1
+A．α1，α2，α3
+A．O
+A．<img height="38" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/a0541a3c-fc1b-44c5-adb1-bd482c68f06b.png" width="206"/>
+A．若Ax=0仅有零解，则Ax=b有惟一解
+A．<img border="0" height="40" hspace="0" src="http://admintk.100xuexi.com/UpLoadImage/2017-11-22/cf6e1a70-3a1c-47e2-943c-5c8b904421b1.jpg" style="width:191px;height:40px;float:none;" title="a.jpg" vspace="0" width="191"/>
+A．对任意的k1≠0和k2≠0，k1ξ+k2η都是A的特征向量
+A．<img height="71" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/9eba87f3-e835-4c02-b38f-d90398fc0b3e.png" width="93"/>
+A．A一定是零矩阵
+A．<img height="46" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/016de2ef-1b1c-4623-ae1f-9ae02d10b585.png" width="115"/>
+A．<img height="22" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/8786f13d-9699-4335-8078-ac483c26cb9d.png" width="51"/>
+A．<img height="19" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/fcf1a351-34b6-4cf6-bc6b-5d1c0e1751da.png" width="43"/>
+A．<img height="18" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/d86c04c4-8491-4c2a-8219-96cdab92874b.png" width="54"/>
+A．0
+A．<img height="64" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/5268b778-ae14-49f4-bdc3-fcb4b2b98128.png" width="70"/>

@@ -1,0 +1,40 @@
+1. 若<img height="38" id="图片 87" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/161f345e-df63-4397-a134-91bf3750ec94.jpg" width="152"/>则常数k等于（　　）。[2014年真题]
+2. 若<img height="46" id="图片 89" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/1f48b837-eca3-4b6f-94c5-f1b2b7c3c17d.jpg" width="152"/>，则必有（　　）。[2013年真题]
+3. 设α（x）=1-cos x，β（x）=2x<sup>2</sup>，则当x→0时，下列结论中正确的是（　　）。[2012年真题]
+4. 点x=0是函数<img height="33" id="图片 1" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/dcf20ab3-f875-4967-8c27-6445c2c875fb.png" width="79"/>的（　　）。[2014年真题]
+5. 设<img height="64" id="图片 96" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/bae84356-1227-4d42-92e7-9cd7dd306380.jpg" width="231"/>则x=0是f（x）的下面哪一种情况？（　　）[2012年真题]
+6. 函数<img height="44" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/b58dc706-c274-47e6-ab09-e7690e097438.png" width="96"/>的可去间断点的个数为（　　）。[2011年真题]
+7. 下列说法中正确的是（　　）。[2014年真题]
+8. 设<img height="43" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/7496789c-00c8-4d48-a62d-b8b27d407fd6.jpg" width="151"/>，则f（x）在点x=1处（　　）。[2013年真题]
+9. 下列函数在给定区间上不满足拉格朗日定理条件的是（　　）。[2012年真题]
+10. 如果f（x）在x<sub>0</sub>可导，g（x）在x<sub>0</sub>不可导，则f（x）g（x）在x<sub>0</sub>（　　）。[2011年真题]
+11. <img height="42" id="图片 105" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/a2b2b7f0-f25d-403c-915e-1a2a3e14335c.jpg" width="55"/>等于（　　）。[2014年真题]
+12. 若<img height="42" id="图片 108" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/ba64aa7b-6b17-444f-b26b-74d88303729c.jpg" width="64"/>，则<img height="37" id="图片 109" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/e6d22ca2-a7ba-4e78-becd-e5ad525970ae.jpg" width="19"/>等于（　　）。[2013年真题]
+13. 设f（x）有连续的导数，则下列关系式中正确的是（　　）。[2013年真题]
+14. 设y=ln（cosx），则微分dy等于（　　）。[2012年真题]
+15. f（x）的一个原函数为e<sup>-x2</sup>，则f′（x）等于（　　）。[2012年真题]
+16. 设方程x<sup>2</sup>+y<sup>2</sup>+z<sup>2</sup>=4z确定可微函数z=z（x，y），则全微分dz等于（　　）。[2014年真题]
+17. 设z=e<sup>xe<sup>y</sup>，则<img height="42" id="图片 119" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/61615423-362a-44e5-b643-6686ef9df684.jpg" width="25"/>等于（　　）。[2014年真题]</sup>
+18. 设z=z（x，y）是由方程xz-xy+ln（xyz）=0所确定的可微函数，则<img border="0" height="50" hspace="0" src="http://admintk.100xuexi.com/UpLoadImage/2017-11-21/2cd89d83-2c4f-41b4-8ec4-67ad535a1b23.jpg" style="float:none;width:26px;height:50px;" title="1.jpg" vspace="0" width="26"/>等于（　　）。[2013年真题]
+19. 若<img border="0" height="25" hspace="0" src="http://admintk.100xuexi.com/UpLoadImage/2017-11-21/b9a630bb-40c1-4f50-8e16-25c6f19fe812.jpg" style="float:none;width:91px;height:25px;" title="1.jpg" vspace="0" width="91"/>和<img border="0" height="25" hspace="0" src="http://admintk.100xuexi.com/UpLoadImage/2017-11-21/65b8ab7d-ebe1-4ccb-8401-961c2a4f25c8.jpg" style="width:85px;height:25px;float:none;" title="2.jpg" vspace="0" width="85"/>均可微，则<img border="0" height="50" hspace="0" src="http://admintk.100xuexi.com/UpLoadImage/2017-11-21/46df9181-621a-4070-af6a-e3ab98079a8f.jpg" style="float:none;width:28px;height:50px;" title="3.jpg" vspace="0" width="28"/>等于（　　）。[2013年真题]
+20. 已知f（x）为连续的偶函数，则f（x）的原函数中（　　）。[2013年真题]
+21. 若f（-x）=-f（x）（-∞＜x＜+∞），且在（-∞，0）内f′（x）＞0，f″（x）＜0，则f（x）在（0，+∞）内是（　　）。[2013年真题]
+22. 函数<img border="0" height="40" hspace="0" src="http://admintk.100xuexi.com/UpLoadImage/2017-11-21/d7c9fcf9-c673-4d13-b94e-6dad29e5d94e.jpg" style="width:108px;height:40px;float:none;" title="1.jpg" vspace="0" width="108"/>的极值可疑点的个数是（　　）。[2013年真题]
+23. 当a＜x＜b时，有f′（x）＞0，f″（x）＜0，则在区间（a，b）内，函数y=f（x）的图形沿x轴正向是（　　）。[2012年真题]
+24. 当x＞0时，下列不等式中正确的是（　　）。[2011年真题]
+25. 设<img height="44" id="图片 131" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/c8df3e00-5e7c-4f17-97b4-f8061cab1670.jpg" width="99"/>，则（　　）。[2010年真题]
+26. 下列各点中为二元函数z=x<sup>3</sup>-y<sup>3</sup>-3x<sup>2</sup>+3y-9x的极值点的是（　　）。[2010年真题]
+27. 求极限<img height="51" id="图片 135" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/db784c09-26ef-4ee1-acb6-7c3712d4d896.jpg" width="71"/>时，下列各种解法中正确的是（　　）。
+28. 设f（x）满足<img border="0" height="70" hspace="0" src="http://admintk.100xuexi.com/UpLoadImage/2017-11-26/083d67a3-d769-458a-a0ff-0519b9a6f30a.jpg" style="width:169px;height:70px;float:none;" title="1.jpg" vspace="0" width="169"/>，当x→0时，lncosx<sup>2</sup>是比x<sup>n</sup>f（x）高阶的无穷小，而x<sup>n</sup>f（x）是比e<sup>sin2x</sup>-1高阶的无穷小，则正整数n等于（　　）。
+29. 下列命题正确的是（　　）。
+30. 设函数f（x）在x=x<sub>0</sub>的某邻域内连续，在x=x0处可导，则函数f（x）|f（x）|在x=x<sub>0</sub>处（　　）。
+31. 设函数f（t）连续，t∈［-a，a］，f（t）>0，且<img src="http://admintk.100xuexi.com/UpLoadImage/2016-07-21/11a408ba-9069-47f5-b764-f0cea8d2ca6f.jpg" title="1.jpg"/>，则在［-a，a］内必有（　　）。
+32. 设函数y=f（x）在（0，+∞）内有界且可导，则（　　）。
+33. 已知f（x）是二阶可导的函数，<img border="0" height="35" hspace="0" src="http://admintk.100xuexi.com/UpLoadImage/2017-11-23/54dc587a-8a8a-41d1-a9e1-ad9f7b716d9d.jpg" style="float:none;width:107px;height:35px;" title="1.jpg" vspace="0" width="107"/>，则<img border="0" height="50" hspace="0" src="http://admintk.100xuexi.com/UpLoadImage/2017-11-23/5f93068e-5bea-4e4e-84f1-e976b56dd48e.jpg" style="width:37px;height:50px;float:none;" title="2.jpg" vspace="0" width="37"/>为（　　）。
+34. 设α是实数，<img height="62" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/e21e2e36-a685-405a-b3fa-ef31a7a083ad.jpg" width="245"/>，f（x）在x=1处可导，则α的取值为（　　）。
+35. 已知xy=kz（k为正常数），则<img height="35" id="图片 148" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/b87c6d32-ec11-4211-aabc-275b22bc38e2.jpg" width="62"/>等于（　　）。
+36. 二元函数<img height="72" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/3dcbc2ac-c081-440d-a8c6-87937a3c2c96.jpg" width="280"/>，在点（0，0）处（　　）。
+37. 已知<img height="43" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/b3dd367e-d0e7-4944-bc41-cef7740f746a.jpg" width="114"/>为某函数的全微分，则a等于（　　）。
+38. 设y=f（x）是满足微分方程y″+y′-e<sup>sinx</sup>=0的解，且f′（x0）=0，则f（x）在（　　）。
+39. 在区间（-∞，+∞）内，方程<img height="32" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/5ecb855a-01f2-4471-aa99-9864f9e1942c.jpg" width="218"/>（　　）。
+40. 已知函数f（x，y）在点（0，0）的某个邻域内连续，且<img height="56" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/fe7883fc-3b19-4f3d-885a-cf8b439498eb.jpg" width="169"/>， 则（　　）。

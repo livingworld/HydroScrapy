@@ -1,0 +1,7 @@
+C．混凝土的轴心抗压强度的设计值，具有95%的保证率
+C．<img height="25" id="图片 15" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/604cd639-b8cd-446a-9a92-dcfe01301fdd.png" width="19"/>普通钢筋的屈服强度，<img height="25" id="图片 14" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/0b97937d-d17a-4167-a22b-9f7cec4f0d02.png" width="23"/>普通钢筋的标准强度，<img height="25" id="图片 13" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/4490f01d-1471-46cb-bbc5-f128ea8c4865.png" width="27"/>预应力钢筋强度标准值，<img height="25" id="图片 12" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/b0fab656-21be-4e24-bc7f-83c30b72db96.png" width="24"/>预应力钢筋抗拉强度设计值，<img height="25" id="图片 11" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/22bdeb5e-6b1e-411a-bc78-0f7b9a3a864e.png" width="24"/>预应力钢筋抗压强度设计值
+C．HRB400
+C．混凝土的立方体受压强度设计值不小于30MPa，但未达35MPa
+C．轴心抗压强度标准值
+C．150mm×150mm×150mm
+C．由光圈钢筋改为变形钢筋

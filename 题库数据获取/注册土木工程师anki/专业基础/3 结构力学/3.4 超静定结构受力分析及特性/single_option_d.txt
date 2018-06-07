@@ -1,0 +1,50 @@
+D．AD杆
+D．<img height="24" id="Picture 228" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/82e054de-56d3-4f71-ac70-197d3f58f0af.png" width="128"/>
+D．8<em>i</em>
+D．36
+D．4
+D．5
+D．变形协调
+D．<img height="39" id="图片 141" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/39471a92-75e1-40b5-a18e-4ed1bd7fe593.png" width="56"/>
+D．<img height="41" id="Picture 258" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/8e46a88f-09a9-48d4-b25a-f80bf8e05c5c.png" width="36"/>
+D．δ<sub>22</sub>＞δ<sub>11</sub>，δ<sub>12</sub>＜0
+D．<img height="43" id="图片 126" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/4299b958-16e3-471d-b227-ce55a262de11.png" width="50"/>
+D．<img height="49" id="图片 105" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/a49f1764-a86c-40b4-8da8-bed923c3602b.png" width="131"/>
+D．Pl左侧受拉
+D．δ<sub>12</sub>＝0
+D．l/（6EI）
+D．都是力
+D．位移互等定理
+D．大于等于零
+D．12（EI/L）
+D．<img height="23" id="Picture 324" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/49aefb02-5633-41a1-8c72-ac6acc4660b8.png" width="103"/>
+D．4
+D．<img height="23" id="Picture 335" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/fa64df68-08b7-459a-b67c-d1d26290369c.png" width="28"/>，逆时针
+D．9EI/l
+D．2，4
+D．4
+D．Δ＝F/（12i<sub>1</sub>/h）
+D．两个线位移
+D．<img height="39" id="图片 73" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/91d51f81-702f-4d08-8147-7eb81de9f8d9.png" width="95"/>
+D．8
+D．<img height="37" id="图片 65" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/6674c449-cb03-4ff4-9e8d-a98731ee90ac.png" width="74"/>
+D．<img height="43" id="图片 52" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/e8570dd0-2489-44d3-aeb5-52bf95d98768.png" width="32"/>
+D．11EI/4；－22kN·m
+D．Fl/9
+D．Fa（右侧受拉）
+D．0.6，0.4
+D．ql<sup>2</sup>/46
+D．<img height="37" id="Picture 187" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/e2097fe4-6a6d-414f-849e-c8b1620f6ae7.png" width="13"/>
+D．力矩分配法
+D．5kN·m
+D．定向支座
+D．-8kN·m
+D．8
+D．0.667；+5.0kN·m
+D．0.294；48
+D．M<sub>BC</sub>=4iφ<sub>B</sub>－Fi/8
+D．5/12
+D．0.6；0.4
+D．<img height="36" id="图片 12" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/691bf9c1-d5c5-40e9-8ff7-b533b057c0f9.png" width="70"/>
+D．<img height="42" id="图片 4" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/2e65469c-12ac-4026-beff-55f460cbfe01.png" width="38"/>
+D．M<sub>BC</sub>＝－M<sub>CB</sub>＝M<sub>CD</sub>＝－M<sub>DC</sub>＝Fl/4

@@ -1,0 +1,40 @@
+A．-ln2
+A．a=1，b=2
+A．α（x）与β（x）是等价无穷小
+A．可去间断点
+A．跳跃间断点
+A．1个
+A．若f′（x0）=0，则f（x0）必须是f（x）的极值
+A．不连续
+A．<img height="35" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/e5934f9d-6f8c-42e0-8f4b-2381a1958c52.png" width="194"/>
+A．可能可导也可能不可导
+A．<img height="38" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/851e9a82-a040-4f56-ace8-e301d25b1ae7.png" width="41"/>
+A．-tant
+A．∫f（x）dx=f（x）
+A．<img height="38" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/9109bcc4-870e-45e1-bb04-9ff2d24b9657.png" width="55"/>
+A．2（-1+2x2）e-x2
+A．<img height="37" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/b529eef4-a532-457f-8731-88a746ebf7ff.png" width="118"/>
+A．<img border="0" height="22" hspace="0" src="http://admintk.100xuexi.com/UpLoadImage/2016-07-14/9908366e-39fa-4ae3-bce1-583c8eb31afd.jpg" style="width:50px;height:22px;float:none;" title="1.jpg" vspace="0" width="50"/>
+A．<img border="0" height="60" hspace="0" src="http://admintk.100xuexi.com/UpLoadImage/2017-11-21/5f84582e-24c8-4577-9bc8-76377aa0ab0b.jpg" style="width:73px;height:60px;float:none;" title="A.jpg" vspace="0" width="73"/>
+A．<img border="0" height="50" hspace="0" src="http://admintk.100xuexi.com/UpLoadImage/2017-11-21/18ed6ffb-802c-4483-bb3d-561a6cb5a925.jpg" style="width:71px;height:50px;float:none;" title="A.jpg" vspace="0" width="71"/>
+A．有奇函数
+A．f′（x）＞0，f″（x）＜0
+A．0
+A．单调减且凸的
+A．ex＜1+x
+A．f（x）为偶函数，值域为（-1，1）
+A．（3，-1）
+A．用洛必达法则后，求得极限为0
+A．1
+A．分段函数必存在间断点
+A．<img height="22" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/18ff6fb6-1afa-45e6-a6d7-3bccfb6dee16.png" width="127"/>
+A．g′（x）=C（常数）
+A．<img height="32" id="图片 147" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/57b50527-8378-46bb-8607-04c9b2f4481a.jpg" width="35"/>
+A．<img border="0" height="40" hspace="0" src="http://admintk.100xuexi.com/UpLoadImage/2017-11-23/c7fa5036-6200-4ea1-8761-bd962578e921.jpg" style="vertical-align:super;width:78px;height:40px;float:none;" title="a.jpg" vspace="0" width="78"/>
+A．α<-1
+A．1
+A．连续，偏导数存在
+A．-1
+A．x0的某个邻域内单调增加
+A．无实根
+A．点（0，0）不是f（x，y）的极值点

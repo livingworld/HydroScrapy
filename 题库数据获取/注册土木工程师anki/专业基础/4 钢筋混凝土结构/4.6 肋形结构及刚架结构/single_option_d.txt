@@ -1,0 +1,25 @@
+D．为保证塑性铰有较充分的转动能力，计算中要求调整后的截面相对受压区高<img height="21" id="图片 18" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/8874c38b-894c-48b9-9b9c-86dcbec1e357.png" width="57"/>
+D．短跨向最大弯矩位于中点
+D．外功相等，内功不相等
+D．要根据板的长短边之比才能确定
+D．考虑钢筋混凝土有裂缝出现
+D．<img height="160" id="图片 12" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/a23b094c-76f6-45b0-942a-4b341b75ab74.png" width="150"/>
+D．采用角钢杆件
+D．350
+D．<img height="44" id="图片 9" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/4072148c-3d49-4ce9-8517-1da1fff717b2.png" width="152"/>
+D．不等肢角钢长肢相连
+D．<img height="20" id="图片 5" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/d15b8090-48b7-443a-a38d-000adcadab86.png" width="109"/>
+D．除了吊车梁外其他所有构件
+D．承受横向水平荷载
+D．验算整片墙时，S取相邻壁柱间的距离
+D．拉伸试验、冷弯试验和冲击试验
+D．扭转稳定性
+D．角接焊缝
+D．无法根据上述条件作出判断
+D．最大最小应力的比值
+D．随λ的增大，侧向变形曲线趋于弯曲型曲线
+D．在设计楼板时，不应考虑活荷载折减
+D．实际抗剪刚度
+D．牛腿部位可允许带裂缝工作
+D．35
+D．在满足构造要求前提下，通过抗冲切验算确定的

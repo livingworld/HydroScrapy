@@ -1,14 +1,14 @@
 B．不变
 B．在外荷载作用下偏离墙背后土体
 B．填土的重度γ减小
-B．<img height="15" id="图片 39" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/1f4e5974-f22a-4806-a969-191a58926676.png" width="16"/>
+B．90°－（<img height="15" id="图片 39" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/1f4e5974-f22a-4806-a969-191a58926676.png" width="16"/>+<img height="19" id="图片 38" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/c1306880-cc7c-4f80-bb77-63fd1aceb9ef.png" width="15"/>）
 B．偏小
 B．形心
-B．<img height="41" id="图片 32" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/10894d7f-f2f8-4aeb-a5da-c426470fb1ab.png" width="15"/>
-B．<img height="17" id="图片 26" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/31cdd227-fdb7-495e-b7d7-6fee7aeac4b5.png" width="15"/>
-B．Ea>EP，Δa>Δp
+B．<img height="41" id="图片 32" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/10894d7f-f2f8-4aeb-a5da-c426470fb1ab.png" width="15"/>γH<sup>2</sup>K<sub>0</sub>
+B．1+sin<img height="17" id="图片 26" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/31cdd227-fdb7-495e-b7d7-6fee7aeac4b5.png" width="15"/>´
+B．E<sub>a</sub>>E<sub>P</sub>，Δa>Δp
 B．弹性理论
-B．<img height="17" id="图片 19" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/31cdd227-fdb7-495e-b7d7-6fee7aeac4b5.png" width="15"/>
+B．45°-<img height="17" id="图片 19" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/31cdd227-fdb7-495e-b7d7-6fee7aeac4b5.png" width="15"/>/2
 B．21.72
 B．距墙顶1.7m
 B．494.6

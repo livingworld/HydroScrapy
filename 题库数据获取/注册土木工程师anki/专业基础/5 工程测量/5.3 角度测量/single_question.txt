@@ -1,0 +1,32 @@
+1. 经纬仪有四条主要轴线，当纵轴铅垂，视准轴垂直于横轴时，但横轴不水平，此时望远镜绕横轴旋转时，则视准轴的轨迹是（　　）。
+2. DJ<sub>6</sub>级光学经纬仪的主要组成部分是（　　）。
+3. 工程测量中所使用的光学经纬仪的度盘刻画注记形式为（　　）。
+4. 光学经纬仪下列何种误差可以通过盘左盘右取均值的方法消除？（　　）
+5. <img height="20" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/4dc0b41c-2d7a-4926-94d1-f2a63e298253.png" width="24"/>型光学经纬仪有四条主要轴线：竖轴VV，视准确CC，横轴HH，水准管轴LL。其轴线关系应满足：LL⊥VV，CC⊥HH，以及（　　）。
+6. 测回法观测水平角记录如表5-3-1。经计算水平角∠AOB为（　　）。<br/><span style="display:block;text-align:center;">表5-3-1</span><span style="display:block;text-align:center;"><img height="158" id="图片 10" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/bb0da1a7-120f-4440-9374-ab51b9fd3c58.jpg" width="757"/></span>
+7. 已知直线AB方位角<img height="20" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/66d155d0-ef8b-4f16-b05f-1e1eb50b4e8f.png" width="92"/>，<img height="19" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/f50691ac-cc45-4d17-85ba-abf7fd26c5b6.png" width="107"/>，<img height="16" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/495be13b-df48-44e7-ad73-8f1d737a0ff7.png" width="41"/>为左角，则直线AC的方位角<img height="20" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/34f2b9b3-28cb-43d9-80ac-f734da1e5591.png" width="24"/>等于（　　）。
+8. 已知控制点A、B的坐标为<img border="0" height="23" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/cea93da0-eda5-4f73-80e1-6066b5f835d2.png" width="77"/>，<img border="0" height="23" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/a3f2fe44-6f4e-4614-a4b0-44c61935e8e2.png" width="64"/>，<img border="0" height="23" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/c4b332fb-3813-47d1-a3cc-882d96b78c5c.png" width="77"/>，<img border="0" height="23" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/b9c9c4f4-0ea0-4584-b066-1936fcaba947.png" width="71"/>。拟测设点P的坐标为<img border="0" height="23" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/979089cb-0e35-4b98-b3aa-b4f5d319a681.png" width="77"/>，<img border="0" height="23" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/bc896924-01c7-4560-a3b7-da27c8e0fcf2.png" width="71"/>，试按角度交会法计算测设数据为（　　）。
+9. 光学经纬仪有DJ<sub>1</sub>、DJ<sub>2</sub>、DJ<sub>6</sub>等多种型号，数字下标1、2、6表示的是（　　）误差的秒数。
+10. 电子经纬仪的读数系统采用的方式为（　　）。
+11. 经纬仪应满足的几何条件不包括（　　）。
+12. 常用的水平角观测方法有（　　）两种。
+13. 水平角是测站至两目标点连线间的（　　）。
+14. 光学经纬仪DJ<sub>2</sub>、DJ<sub>6</sub>的脚标表示的是（　　）。
+15. 整平经纬仪的目的是为了使（　　）。
+16. 在水平角观测中应尽量照准目标底部的目的是（　　）。
+17. 测量两个方向间的水平角应采用的测量方法为（　　）。
+18. 观测竖直角时，要求使竖直水准管气泡居中，其目的是（　　）。
+19. 经纬盘左照准一高目标时，其竖盘读数为100°00′00″，则该仪器左竖直角为（　　）。
+20. 测回法测水平角可以消除或减弱（　　）。
+21. 经纬仪应满足的几何条件不包括（　　）。
+22. 经纬仪观测中，取盘左、盘右平均值也不能消除（　　）的误差影响。
+23. 经纬仪对中是使仪器中心与测站点安置在同一铅垂线上，整平是使仪器（　　）。
+24. 校验经纬仪水准管轴是否垂直于竖轴，当气泡居中后，平转180°时，气泡已偏离。此时用校正针拨动水准管校正螺丝，使气泡退回偏离值为（　　）。
+25. 用光学经纬仪测定或测设水平角时，采用测回法观测，其优点有（　　）。<br/>Ⅰ．检查错误<br/>Ⅱ．消除水准管轴不垂直于纵轴的误差<br/>Ⅲ．消除视准轴不垂直于横轴的误差<br/>Ⅳ．消除十字丝竖丝不垂直于横轴的误差<br/>V．消除横轴不垂直于竖轴的误差<br/>Ⅵ．消除水平度盘偏心差
+26. 确定一直线与标准方向夹角关系的工作称为（　　）。
+27. 使用DJ<sub>6</sub>级经纬仪观测水平角，一测回角度值的中误差为（　　）。
+28. 水平角观测中，盘左起始方向OA的水平度盘读数为358°12′15″，终了方向OB的对应读数为154°18′19″，则∠AOB前半测回角值为（　　）。
+29. 如图5-3-1所示，测量结果标注于图2-3-1上，则水平角度β为（　　）。<br/><span style="display:block;text-align:center;"><img alt="11-1" border="0" height="130" id="图片 4" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/7de646b8-231d-4f13-9fc9-7f95552ef35e.jpg" width="343"/></span><span style="display:block;text-align:center;">图5-3-1</span>
+30. 经纬仪测水平角∠AOB，盘左先瞄左方向A读数为312°10′20″，后瞄右方向B读数为40°32′32″其半测回角值为（　　）。
+31. 角度测量时，采用盘左、盘右观测能消除（　　）的影响。
+32. 竖直角观测中，若盘左读数为35°18<sup>′</sup>30<sup>″</sup>，指标差为01<sup>′</sup>30<sup>″</sup>，竖盘按顺时针注记，则该竖直角上半测回角值应为（　　）。

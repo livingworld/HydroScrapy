@@ -8,7 +8,7 @@ B．等于
 B．欠固结
 B．主固结沉降
 B．基础自重
-B．<img border="0" height="20" id="图片 16" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/39a2ca3a-5300-4507-8867-ecd5bd1c1cf4.png" width="44"/>
+B．<img border="0" height="20" id="图片 16" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/39a2ca3a-5300-4507-8867-ecd5bd1c1cf4.png" width="44"/>≤0.1
 B．45%
 B．在同一时刻，砂土的固结度比黏性土固结度大
 B．砂土地基

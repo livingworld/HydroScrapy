@@ -1,0 +1,7 @@
+1. 钢筋混凝土结构构件正常使用极限状态验算应（　　）。[2010年真题]
+2. 减小受弯构件裂缝宽度的有效办法是（　　）。
+3. 进行钢筋混凝土构件变形和裂缝宽度验算时，应采用（　　）。
+4. 在钢筋混凝土构件的挠度计算时，构件的刚度建议（　　）。
+5. 钢筋混凝土受弯构件的刚度随荷载时间的延续而（　　）。
+6. 图4-4-1所示下列四个梁的截面配筋及混凝土强度等级均相同，则它们的刚度B<sub>s</sub>大小的正确关系是（　　）。<br/><span style="display:block;text-align:center;"><img alt="HWOCRTEMP_ROC27050" height="217" id="图片 1" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/44166c27-39e4-4580-81f2-f5f513cf6bcb.jpg" width="795"/></span><span style="display:block;text-align:center;">图4-4-1</span>
+7. 下列关于柱的延性的说法正确的是（　　）。

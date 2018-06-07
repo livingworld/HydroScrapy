@@ -1,0 +1,24 @@
+B．单调增而有上界
+B．充分条件而非必要条件
+B．当p＞2时条件收敛
+B．<img height="45" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/3b8adaa8-44b8-4031-bf27-3a03fc5ac47a.png" width="96"/>
+B．<img height="42" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/d288bffc-6298-4fdf-a384-48c8f1292085.png" width="77"/>
+B．条件收敛
+B．[-1，1]
+B．<img height="43" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/7be5d10f-9ef4-49ef-ba65-264d29e423f6.png" width="63"/>
+B．（-2，4）
+B．（-2，4）
+B．<img border="0" height="70" hspace="0" src="http://admintk.100xuexi.com/UpLoadImage/2017-12-19/1e696fbb-2f22-43e6-be77-514b97b6c376.jpg" style="width:132px;height:70px;float:none;" title="b.jpg" vspace="0" width="132"/>
+B．<img height="40" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/fa83e20c-b430-44f9-b650-b385eae23d84.png" width="153"/>
+B．7
+B．条件收敛
+B．<img height="45" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/e082c2f3-958a-4659-97cc-272c32a82f5a.png" width="113"/>
+B．p<2
+B．<img height="41" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/1a76c95d-e699-4aaa-ace6-e9050c9300aa.png" width="97"/>
+B．<img height="43" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/5cdd7fbb-b12e-4316-bb34-924da31fd781.png" width="93"/>
+B．8，［-2，2］
+B．［-1，1）
+B．-1
+B．-1/6
+B．条件收敛
+B．<img height="38" id="图片 521" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/fcfa9d30-a8a2-4e3c-a009-4689a254edc1.jpg" width="29"/>

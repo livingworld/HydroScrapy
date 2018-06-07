@@ -1,0 +1,47 @@
+D．0.614，0.550，0.528
+D．<img height="26" id="图片 107" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/0c1d8918-2a22-47f8-bd0f-84c120edb621.png" width="129"/>
+D．32%
+D．要考虑剪扭相关性，剪扭构件引入了混凝土受扭承载力降低系数<img height="23" id="图片 81" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/115a3ec4-3f96-474b-a317-2aba8327326b.png" width="17"/>和混凝土受剪承载力降低系数<img height="23" id="图片 80" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/23d75cc7-e5c9-44a1-82a3-f2045230f685.png" width="50"/>
+D．12.7%
+D．超筋破坏
+D．由试验结果确定
+D．受拉钢筋和受压钢筋均未达到屈服
+D．P<sub>b</sub>=2P<sub>a</sub>=P<sub>c</sub>
+D．<img height="20" id="图片 61" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/8bae0f5c-f0e9-4d15-8653-3fe39e85c242.png" width="40"/>，<img height="20" id="图片 60" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/dbef91a8-1e01-402d-b841-e59630386329.png" width="43"/>
+D．加大截面的有效高度
+D．当<img src="http://admintk.100xuexi.com/UpLoadImage/2016-07-21/42bc1807-6e3a-4fd3-827b-749fd8297554.jpg" title="1.jpg"/>时，<img src="http://admintk.100xuexi.com/UpLoadImage/2016-07-21/dd3f96b7-0330-44eb-9878-442a5310c96b.jpg" title="2.jpg"/>
+D．超筋梁、少筋梁属延性破坏，适筋梁属脆性破坏
+D．截面高度（h）
+D．<img height="20" id="图片 40" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/3b4dc3dc-f18f-4de0-94fd-3db3e9c387d5.png" width="99"/>或<img height="36" id="图片 39" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/db41c104-866e-4c5a-9a79-0ee17fe44c18.png" width="139"/>
+D．加配弯起钢筋
+D．不确定
+D．受压边缘混凝土的压应变ε<sub>c</sub>＝0.002
+D．界限破坏或平衡破坏
+D．1694mm<sup>2</sup>
+D．超筋破坏
+D．适筋截面：ε<sub>s</sub><ε<sub>y</sub>，x<sub>c</sub><x<sub>b</sub>；超筋截面：ε<sub>s</sub>>ε<sub>y</sub>，x<sub>c</sub>>x<sub>b</sub>
+D．箍筋的强度被充分利用
+D．防止发生斜截面抗弯不足
+D．因剪应力引起屈曲，需设横向加劲肋
+D．M<sub>uA</sub>＜M<sub>uB</sub>＜M<sub>uC</sub>＝M<sub>uD</sub>
+D．A<sub>s1</sub>＜A<sub>s2</sub>＝A<sub>s3</sub>＜A<sub>s4</sub>
+D．使x＝0.5h<sub>0</sub>
+D．在截面的四角可以设抗扭纵筋，也可以不设抗扭纵筋
+D．扭矩的存在对构件的抗剪承载力有影响
+D．箍筋必须封闭，且箍筋的端部应做成<img height="17" id="图片 8" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/fbba9416-505e-4121-9bfb-d3a870fc3cb1.png" width="30"/>的弯钩，弯钩端的直线长度不应小于10d
+D．影响规律不确定
+D．A<sub>s</sub>≠A<sub>s</sub><sup>′</sup>，且A<sub>s</sub><sup>′</sup>已知时的小偏压
+D．不能确定
+D．受扭构件承载力计算时，首先满足腹板矩形截面完整性原则进行截面划分，再计算每个矩形截面对抗扭承载力的贡献
+D．箍筋用量（2）＞（3）＞（1）
+D．提高配筋率和配箍率
+D．无法确定
+D．此类柱比普通箍筋柱有更高的抗震能力
+D．相对受压区高度<img height="20" id="图片 2" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/9dd0bb95-f955-48da-8e82-8c1eb4cbeae6.png" width="40"/>时为大偏心受压．反之为小偏心受压
+D．M小，N小
+D．便于运输、安装和减少结点类型
+D．柱截面中的纵向钢筋受压而混凝土受拉
+D．对轴心受压和轴心受拉承载力没有实质性影响
+D．不变
+D．与局部承压面积相等
+D．受弯构件正截面疲劳验算时，受压区混凝土应力图形可简化为矩形应力图

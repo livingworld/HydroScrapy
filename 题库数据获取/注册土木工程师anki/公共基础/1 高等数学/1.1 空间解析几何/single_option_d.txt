@@ -1,0 +1,34 @@
+D．14i+16j-10k
+D．过点（1，-2，3），方向向量为-i-2j+3k
+D．<img src="http://admintk.100xuexi.com/UpLoadImage/2017-06-17/8b9ccf49-745b-416a-8159-dfbeca8e41c9.jpg" title="2.jpg"/>
+D．L与π斜交
+D．相交不垂直
+D．旋转抛物面
+D．锥面
+D．双曲线
+D．<img height="36" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/e4aa37c4-5a99-4215-b8e2-ace2957402ff.png" width="23"/>
+D．<img height="31" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/4c1a5597-b081-4a0f-921b-dc4ea4144008.png" width="175"/>
+D．α⊥（β-γ）
+D．<img height="47" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/3eecc8cd-b4bd-4ea3-afc8-09466b0f540a.png" width="112"/>
+D．a×b=0
+D．a与（b-c）均不为0时必有a⊥（b-c）
+D．a+（a×b）×a
+D．<img height="39" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/b9d0c3e8-ff2a-4979-bb87-accedfbcfd6d.png" width="33"/>
+D．1
+D．（0，3，-3）
+D．L1，L2是异面直线
+D．与x轴重合
+D．x2-y2=4z
+D．（0，1，1）
+D．16x-8y+8z-1=0
+D．a2+b2+c2+2abc=1
+D．x+y+z=1
+D．L与π斜交
+D．<img height="37" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/88e65a27-90cf-4242-9713-273cb4fe99c7.png" width="141"/>
+D．<img height="34" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/dc7f05d1-46ed-40af-b892-874df9095237.png" width="43"/>
+D．（1，1，2）
+D．（-1，-1，2）
+D．3y2-z=16
+D．<img height="47" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/94018d97-dde0-42aa-a97c-1fee5ccc17a3.jpg" width="163"/>
+D．直线x=y=z
+D．与zOx平面成定角

@@ -1,0 +1,34 @@
+B．6
+B．过点（-1，2，-3），方向向量为-i-2j+3k
+B．<img src="http://admintk.100xuexi.com/UpLoadImage/2017-06-17/8b9ccf49-745b-416a-8159-dfbeca8e41c9.jpg" title="2.jpg"/>
+B．L在π上
+B．平行不重合
+B．圆柱面
+B．双叶双曲面
+B．母线平行y轴的双曲柱面
+B．<img height="33" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/befc393a-0fcf-42c0-acba-78b049630312.png" width="24"/>
+B．<img height="53" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/a813eb2f-7830-44c9-9cee-de3787cd9d35.png" width="193"/>
+B．α∥β且α∥γ
+B．<img height="49" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/7cd9028c-b801-4ee5-b7a0-581bebc85d6e.png" width="110"/>
+B．a+b=0
+B．必有a=b-c=0
+B．<img height="41" id="图片 28" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/cfc8a142-2e26-461f-bd08-52aef349891e.jpg" width="94"/>
+B．<img height="35" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/ed62e2d9-052a-4e9d-b19d-3581142730b4.png" width="23"/>
+B．<img height="22" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/396828f2-603b-4b78-9dfa-334b10e7fe77.png" width="35"/>
+B．（-3，1，1）
+B．L1，L2相交但不垂直
+B．与x轴相交
+B．x2-y2=2z
+B．（0，0，-1）
+B．4x-2y+z+3=0
+B．a+b+c+2abc=1
+B．x+z=0
+B．L在π上
+B．<img height="43" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/4f2b8335-f873-4e40-a6d0-fbf15cb12a4b.png" width="142"/>
+B．<img height="33" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/0f88cb8d-afe8-45f9-93b0-db74c80ed996.png" width="43"/>
+B．（-1，1，-2）
+B．（-1，1，2）
+B．x2+2y2=16
+B．<img height="23" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/193b1059-d323-4d1a-b6e4-23c814bb3e48.jpg" width="157"/>
+B．y轴
+B．与x轴成定角

@@ -1,0 +1,7 @@
+D．标准立方体抗压强度不低于60MPa
+D．<img height="25" id="图片 10" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/604cd639-b8cd-446a-9a92-dcfe01301fdd.png" width="19"/>普通钢筋抗拉强度设计值，<img height="25" id="图片 9" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/0b97937d-d17a-4167-a22b-9f7cec4f0d02.png" width="23"/>普通钢筋强度标准值，<img height="25" id="图片 8" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/4490f01d-1471-46cb-bbc5-f128ea8c4865.png" width="27"/>预应力钢筋极限强度，<img height="25" id="图片 7" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/b0fab656-21be-4e24-bc7f-83c30b72db96.png" width="24"/>预应力钢筋抗拉强度设计值，<img height="25" id="图片 6" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/22bdeb5e-6b1e-411a-bc78-0f7b9a3a864e.png" width="24"/>预应力钢筋抗压强度设计值
+D．热处理
+D．混凝土的立方体受压强度标准值不小于30MPa，但未达35MPa
+D．抗拉强度标准值
+D．200mm×200mm×200mm
+D．配置横向钢筋

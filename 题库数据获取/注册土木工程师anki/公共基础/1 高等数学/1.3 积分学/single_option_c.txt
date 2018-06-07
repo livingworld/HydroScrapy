@@ -1,0 +1,43 @@
+C．-2e-4x2
+C．2f（2x+1）+C
+C．-2e-2x+C
+C．<img height="38" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/ab5864e4-05bd-4a69-bc99-5fbf281651b2.png" width="82"/>
+C．2x
+C．<img height="44" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/858207d3-9f87-45d9-a620-a472e6d67ce5.png" width="95"/>
+C．<img height="46" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/88271dd3-f33d-4dbc-83d7-a9969b74dd3b.png" width="150"/>
+C．<img height="49" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/ec0b770c-b721-4d44-825d-dbf87e667ce1.png" width="112"/>
+C．3
+C．<img height="19" id="图片 187" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/30b25eb5-16d0-4f21-9e34-a0b7b0a58e83.jpg" width="19"/>
+C．<img height="37" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/3d75a9c6-c42c-4de9-be63-0f412e021290.png" width="34"/>
+C．<img height="38" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/95dda5a6-4d7e-469a-877b-6c855033a5bd.png" width="70"/>
+C．<img height="33" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/b95fa3a9-b672-4b0e-b831-2fe1d8740536.png" width="29"/>
+C．3πa2/8
+C．<img height="32" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/c108710e-1ed0-4e17-9b56-545e130c14ca.png" width="72"/>
+C．<img height="46" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/bfeaaceb-baa9-4778-9933-eefa2dc21c5b.png" width="170"/>
+C．<img height="38" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/fcbbc4fd-0099-48c0-a981-ef2f260db6b0.png" width="118"/>
+C．<img height="18" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/473714a6-a768-443b-907f-cb4f3e995050.png" width="75"/>
+C．<img height="35" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/af062aab-221a-4397-bc8b-ac468c24bc72.png" width="141"/>
+C．1+cosx
+C．<img height="32" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/5a086b8e-0933-40b4-b779-2088461774f7.png" width="39"/>
+C．ex-1
+C．<img height="57" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/3aaffdff-08ab-4f16-8cda-14cbe09e6e80.png" width="102"/>
+C．<img height="26" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/bfc20857-4709-46ac-879e-cdf83e985e10.png" width="109"/>
+C．<img height="35" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/21d345a4-211e-4b67-a8b6-4cf91ea2ec85.png" width="34"/>
+C．N＜M＜P
+C．恒为零
+C．<img height="48" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/f2a46ccb-0976-4239-968b-3876beaf3554.png" width="113"/>
+C．<img height="45" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/1c27c738-58fb-4520-b1a4-2704cb37998a.png" width="166"/>
+C．<img height="44" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/a9da9dbb-edff-48c4-82de-be7087e541d5.png" width="209"/>
+C．1
+C．<img height="32" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/cc5b3e67-d988-454c-b3de-ec5298ffecce.png" width="71"/>
+C．<img height="42" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/2955a450-26ac-4441-a17a-f1d87dae07fc.png" width="153"/>
+C．I（R）是R的三阶无穷小
+C．<img height="40" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/a39afac8-4bf6-4540-8f6d-738b5da76f33.png" width="305"/>
+C．<img height="43" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/462218c3-946f-4125-9266-879ae8049fc2.png" width="91"/>
+C．IR是R的三阶无穷小
+C．<img height="49" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/06babb78-e83c-4842-9376-a7b2479c36dc.png" width="264"/>
+C．<img height="38" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/9c63e500-bd32-4525-b171-8bf9cb16d87f.png" width="198"/>
+C．<img height="44" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/52e526b6-8bd7-45ff-b7db-f0f9650f5456.png" width="119"/>
+C．p+q
+C．2
+C．F（0）不是极值，但（0，F（0））是曲线F（x）的拐点坐标

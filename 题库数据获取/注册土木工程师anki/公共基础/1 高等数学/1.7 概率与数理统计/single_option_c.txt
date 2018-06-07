@@ -1,0 +1,34 @@
+C．<img height="20" id="图片 1" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/1a3d48ed-5150-4b85-8178-84c5b6b1bfd7.png" width="79"/>
+C．0.7
+C．1-（p+q）
+C．<img height="36" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/14c94904-efff-4a08-b885-e87c0f835c00.png" width="21"/>
+C．<img height="34" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/1d07b8ea-0905-439b-a72f-ac7cce7fa12c.png" width="21"/>
+C．<img height="37" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/2d747998-3949-4a8b-8f09-851285ed2934.png" width="22"/>
+C．<img height="35" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/09e97eda-c638-4fd3-88d8-791161f9395d.png" width="20"/>
+C．χ2（n-1）
+C．<img height="43" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/e71aa93d-0abf-4b44-a41c-fbbe814a04f3.png" width="148"/>
+C．<img height="36" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/844672f5-fe05-4845-b63c-88e4a163ada4.png" width="20"/>
+C．X2和Y2都～χ2分布
+C．<img height="42" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/46f8fffb-34d1-4c6e-9f1b-7116ad36286c.png" width="62"/>
+C．<img src="http://admintk.100xuexi.com/UpLoadImage/2017-02-16/c486b798-9c64-4aa2-bffb-7ac2a3fb8ce5.jpg" title="3.jpg"/>
+C．0.3
+C．P（AB）=P（A）P（B）
+C．<img height="33" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/d7a31382-0071-4319-a472-de67b81fee94.png" width="22"/>
+C．c=1-λ
+C．n=8；p=0.3
+C．<img height="31" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/0795188a-431b-41ac-b595-10e492d329c7.jpg" width="17"/>
+C．<img height="35" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/51972a0d-00a9-4bf3-a30f-caa357ef283e.jpg" width="23"/>
+C．<img border="0" height="30" hspace="0" src="http://admintk.100xuexi.com/UpLoadImage/2017-11-22/c0540ba5-0d8e-43de-94ab-7c3e24b330ca.jpg" style="float:none;width:149px;height:30px;" title="3.jpg" vspace="0" width="149"/>
+C．28
+C．E（X2）<（EX）2
+C．<img height="51" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/9cb1e4bd-768f-440e-9a23-5b0ebb7aaba5.png" width="47"/>
+C．<img height="40" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/0daa3c7c-3634-4ee2-9372-e6c6de6b15bf.jpg" width="132"/>
+C．2
+C．<img height="18" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/fe037af9-0e54-471d-8435-4788240a914e.png" width="22"/>
+C．<img height="41" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/10e37b0a-47c9-4a2a-80fc-f7634469d482.jpg" width="25"/>
+C．<img height="37" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/81439efc-e8d8-4693-8efb-38c982c1c939.png" width="54"/>
+C．保持不变
+C．用F检验法，临界值F0.95（11，9）=0.35，F0.05（11，9）=3.10，接受H0
+C．<img height="30" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/55c66aca-f239-4f26-b2bb-470edcf8e4c3.png" width="59"/>
+C．<img height="23" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/cc5bfe2f-ce56-49f0-9b3b-8fc67a8c7878.jpg" width="98"/>
+C．0.5

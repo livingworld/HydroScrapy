@@ -1,8 +1,8 @@
-B．<img height="41" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/aa757ed9-32c9-478f-912c-7afd5a7cbd03.png" width="21"/>
-B．<img height="41" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/f8e83d28-2f66-45fe-9051-f2034d6cce61.png" width="21"/>
+B．<img height="41" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/aa757ed9-32c9-478f-912c-7afd5a7cbd03.png" width="21"/>＜1.15
+B．<img height="41" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/f8e83d28-2f66-45fe-9051-f2034d6cce61.png" width="21"/>＜1.0
 B．无压流—半有压流—有压流
-B．<img height="41" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/f8e83d28-2f66-45fe-9051-f2034d6cce61.png" width="21"/>
-B．hp=D
+B．<img height="41" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/f8e83d28-2f66-45fe-9051-f2034d6cce61.png" width="21"/>＞1.25
+B．h<sub>p</sub>=D
 B．进口上游水面至出口洞口中心点处的高差值
 B．洞长超过100m，洞长不大于100m
 B．宽顶堰流，明渠均匀流，宽顶堰流

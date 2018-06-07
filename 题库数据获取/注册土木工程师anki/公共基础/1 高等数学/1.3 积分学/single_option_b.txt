@@ -1,0 +1,43 @@
+B．2e-4x2
+B．<img height="33" id="图片 167" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/5fe78f5c-e0c5-48c6-bdb9-ac04435dcb7a.jpg" width="109"/>
+B．-2e-2x
+B．<img height="37" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/31a8dde3-f8e8-433f-ac80-2a53ae95a001.png" width="57"/>
+B．x2-2
+B．<img height="44" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/85c05dd1-8bcc-4d1f-bc53-4ca9049cd67d.png" width="108"/>
+B．<img height="42" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/1a7e0c90-e4ab-4df2-9c78-2f8d1b980397.png" width="155"/>
+B．<img height="48" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/d16905da-2c1f-4821-9d4d-97463684a4e0.png" width="249"/>
+B．-1
+B．1
+B．2
+B．<img height="38" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/856e1e4f-9f21-491e-8bf7-cf453ddab098.png" width="95"/>
+B．<img height="32" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/fe7a2155-4045-4fc0-bc28-daa67b4b77de.png" width="30"/>
+B．πa2/4
+B．<img height="33" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/069f23f6-2e8c-4952-bdfa-c553f1753c68.png" width="80"/>
+B．<img height="45" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/1d6533fa-9009-4e71-8073-18378fcf9a48.png" width="180"/>
+B．<img height="32" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/9816fb5f-5f2e-4e4a-b5bb-468d3ad56115.png" width="103"/>
+B．<img height="22" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/e70b5aec-3dfc-4f40-bc2d-4e9f9af5af13.png" width="104"/>
+B．<img height="36" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/9f990a5a-006e-4315-87a4-e5b67042da12.png" width="127"/>
+B．1-sinx
+B．<img height="35" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/3f13a1a8-cbed-4936-a8a4-c118f63e2161.png" width="68"/>
+B．xe-x-ex-1
+B．<img height="57" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/25cb4b2d-ec34-472e-8f77-68e771645ad0.png" width="139"/>
+B．<img height="29" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/77e0611c-2eec-45a6-87ee-f3a27a23a004.png" width="109"/>
+B．<img height="35" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/6621071f-ee58-41fe-bf81-153a57a1ad2d.png" width="26"/>
+B．M＜P＜N
+B．为负常数
+B．<img height="41" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/adde83de-e069-4129-8913-37fa099245b1.png" width="101"/>
+B．<img height="47" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/ca3c6f7e-c985-4597-bb5c-5fc6d6a23338.png" width="72"/>
+B．<img height="47" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/db2447a5-fb00-41d1-88fc-3f2a937d3b3c.png" width="172"/>
+B．<img height="33" id="图片 277" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/6157c05c-4202-4748-9bb7-451238c8992f.jpg" width="28"/>
+B．<img height="30" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/f6886edd-1eac-44f9-ad61-e2f9d51487bd.png" width="74"/>
+B．<img height="51" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/d87e03ee-e179-4cd4-a4ae-1e3254e89b47.png" width="153"/>
+B．I（R）是R的二阶无穷小
+B．<img height="42" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/5c35f7b8-ca1a-46a4-956c-f89a034e50f7.png" width="316"/>
+B．<img height="43" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/d21049db-80ef-4f1f-91c0-3f1c0684fcc6.png" width="67"/>
+B．IR是R的二阶无穷小
+B．<img height="38" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/722cc73d-9f52-4cc4-8e3d-84476ba016db.png" width="222"/>
+B．<img height="41" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/a17a7a87-c4e0-431d-8f1d-de0d43e6172b.png" width="198"/>
+B．<img height="41" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/d65957cc-003c-4d62-b399-e8e2f4bfb960.png" width="96"/>
+B．q-p
+B．1
+B．F（0）是极小值

@@ -1,0 +1,29 @@
+A．2P
+A．<img height="24" id="Picture 16" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/c4a424d5-10c1-4841-a0d9-846c21d787dd.png" width="145"/>
+A．完全相同
+A．6kN
+A．qa<sup>2</sup>（逆时针方向）
+A．M／3
+A．F<sub>p</sub>l/8，左边受拉
+A．2kN·m（右拉）
+A．<img height="20" id="Picture 43" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/c5beacd3-c07b-4bcf-92c2-082c2f62cd9a.png" width="44"/>，<img height="20" id="Picture 44" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/9ca7d3d8-7a38-4dc0-a135-0234550e42a9.png" width="65"/>
+A．<img height="20" id="Picture 55" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/05a08450-80d8-4648-9ea2-9080a1b649b0.png" width="97"/>（左边受拉）
+A．3
+A．2P
+A．0
+A．M／a
+A．0.8M（左边受拉）
+A．M／4
+A．0
+A．50kN
+A．M<sub>BA</sub>=0kN·m；V<sub>C</sub>=5kN（↑）
+A．10（左侧受拉）
+A．ql<sup>2</sup>/8
+A．图（b）
+A．<img height="34" id="图片 9" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/74876fbe-e234-4801-9e3b-cb080a8e439e.jpg" width="32"/>
+A．Q、N图相同，M图不同
+A．<img height="39" id="图片 3" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/bef73e0e-df97-489b-af73-2f5dd0848e46.jpg" width="86"/>
+A．8
+A．在简支梁的两端增加伸臂段，使之成为伸臂梁
+A．基本部分和附属部分均有内力
+A．既产生内力，又产生位移

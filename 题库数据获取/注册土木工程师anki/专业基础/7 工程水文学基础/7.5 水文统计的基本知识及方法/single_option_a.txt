@@ -1,0 +1,52 @@
+A．已从理论上证明它符合水文统计规律
+A．检查两个径流系列的一致性
+A．必然变化特性
+A．F（x）=f（x）
+A．F（x）=P（X＜x）
+A．统计参数
+A．离散
+A．起点
+A．离散
+A．大于
+A．C<sub>s</sub>=0
+A．大
+A．X＞0
+A．<img height="23" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/7180ca72-8229-44df-8865-6b6477e71a18.png" width="13"/>＜0
+A．0.25
+A．甲河水资源丰富，径流量年际变化大
+A．正偏
+A．负偏
+A．C<sub>s1</sub>＞0；C<sub>s2</sub>＜0；C<sub>s3</sub>＝0
+A．<img height="35" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/bbe165ed-519b-4089-b7c5-db65c1d377f5.png" width="69"/>=0.683
+A．1
+A．算术平均数
+A．算术平均数
+A．由样本计算的统计参数正好等于总体的同名参数值
+A．计算出的统计参数就是相应总体的统计参数
+A．无偏估计值
+A．正偏
+A．<img height="21" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/a1160766-c220-4c81-8de2-eb5847fa7a72.png" width="19"/>
+A．增大样本容
+A．P=<img height="41" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/28477548-ac38-4eaf-8737-287738f548f5.png" width="19"/>×100%
+A．重现期
+A．0.01
+A．大于多年平均年径流量
+A．不大于Q<sub>10%</sub>的年径流量每隔10年必然发生一次
+A．Q<sub>1</sub>
+A．经验方式法
+A．升高
+A．变缓，变陡
+A．完全相关
+A．完全相关
+A．插补延长资料
+A．经验公式法
+A．完全相关
+A．完全相关
+A．越差
+A．10以下
+A．≥0.5
+A．10%
+A．同期观测资料不能太少，n＞12
+A．与设计变量在成因上有密切联系
+A．<img height="30" id="图片 14" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/4bb7abe9-a1e4-4c90-95ec-a2ad19d1539e.jpg" width="148"/>
+A．在概率格纸上绘制经验频率点据

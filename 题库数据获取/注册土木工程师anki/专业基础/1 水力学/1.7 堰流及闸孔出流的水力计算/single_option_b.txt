@@ -5,9 +5,9 @@ B．δ＜0.67H，δ＜2.5H，δ＜10H
 B．21％
 B．实用堰
 B．淹没出流
-B．hs＜0
-B．hc"＜ht
-B．Qa＜Qb＜Qc
+B．h<sub>s</sub>＜0
+B．h<sub>c</sub>"＜h<sub>t</sub>
+B．Q<sub>a</sub>＜Q<sub>b</sub>＜Q<sub>c</sub>
 B．70.46
 B．10.56
 B．18105

@@ -1,0 +1,42 @@
+B．<img height="38" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/8e2acc5d-ed83-4119-b879-4653855c4934.png" width="74"/>
+B．3/5
+B．温度相同，氦分子和氮分子的平均动能不同
+B．<img height="36" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/d4c234a2-1e89-4b8e-8990-74c6114ebb25.png" width="35"/>
+B．vp是大多数分子的速率
+B．W/R
+B．温度升高，气体对外做负功
+B．167J
+B．W＜0，VE＜0
+B．气体做负功，向外界吸收热量
+B．<img border="0" height="50" hspace="0" src="http://admintk.100xuexi.com/UpLoadImage/2016-07-21/9b1e2bc2-288c-435d-947b-b073e5b1764e.jpg" style="width:119px;height:50px;float:none;" title="2.jpg" vspace="0" width="119"/>
+B．ΔE2=ΔE1，Q2＜Q1
+B．循环体系
+B．净功增大，效率降低
+B．不违反热力学第二定律，但违反热力学第一定律
+B．pV/（kT）
+B．0.32
+B．分子平均平动动能相同，氧气的内能大于氢气的内能
+B．单位体积内气体的质量相同
+B．（EK/V）不同，n不同，ρ相同
+B．<img height="29" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/6899b681-4bb7-4f46-bcc4-1a3c9e299d52.jpg" width="29"/>
+B．<img height="35" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/c09ebe47-ee41-4846-b49b-4cf850955bc1.png" width="38"/>
+B．（E/V）A＞（E/V）B
+B．25%
+B．气体内能的变化
+B．<img height="20" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/c52ce1ce-972e-43ee-89a3-e271fb8a5a1c.jpg" width="13"/>
+B．<img height="46" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/c38b85fb-b820-4b89-b58c-56c47a4c2e5a.png" width="95"/>
+B．速率大小在v附近的单位速率区间内的分子数
+B．3∶2∶1
+B．5p1
+B．<img height="29" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/2d1169e1-d627-4baa-abe1-f95f11087f14.png" width="211"/>
+B．温度为原来的4倍，压强为原来的1/4
+B．内能增量为负，对外做功为正，系统吸热为正
+B．气体对外做正功，从外界吸热
+B．<img height="37" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/46feb3c4-be99-4bdf-923e-a30eeeccce0d.png" width="37"/>
+B．25%
+B．两个热机向低温热源所放出的热量一定相等
+B．<img height="45" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/226238fb-b3fe-4b8e-8727-ed704e2b8577.png" width="268"/>
+B．Q＞0，W＜0
+B．准静态过程一定是可逆过程
+B．内能不变，熵增加
+B．14.5

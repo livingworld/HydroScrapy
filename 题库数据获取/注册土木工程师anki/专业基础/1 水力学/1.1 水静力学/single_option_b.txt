@@ -7,14 +7,14 @@ B．14.7，0，-19.6
 B．68.2kPa
 B．0
 B．-3
-B．hp=0.50m
+B．h<sub>p</sub>=0.50m
 B．68.9
 B．A管高于B管
-B．Pa＜Pb
-B．Z2+P2/γ2=Z3+P3/γ2
-B．<img height="24" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/bdb4f948-c5eb-494d-a77a-c84c97a191e8.png" width="20"/>
+B．P<sub>a</sub>＜P<sub>b</sub>
+B．Z<sub>2</sub>+P<sub>2</sub>/γ<sub>2</sub>=Z<sub>3</sub>+P<sub>3</sub>/γ<sub>2</sub>
+B．<img height="24" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/bdb4f948-c5eb-494d-a77a-c84c97a191e8.png" width="20"/>＞<img height="24" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/41fc6efd-1b15-444b-a5cb-616e0f9fa9d0.png" width="19"/>＞<img height="24" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/e51637e3-1523-4258-9f45-312812152d25.png" width="19"/>
 B．图（b）
-B．PA＞PB
+B．P<sub>A</sub>＞P<sub>B</sub>
 B．B-B
 B．与受力面斜交
 B．大小不等，方向相同
@@ -30,5 +30,5 @@ B．变小
 B．57.5γ
 B．超过四分之三板高
 B．增大
-B．1.58×103
+B．1.58×10<sup>3</sup>
 B．328.6kN向下

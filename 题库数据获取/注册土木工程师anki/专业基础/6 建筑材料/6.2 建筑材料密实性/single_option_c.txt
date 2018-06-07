@@ -1,0 +1,6 @@
+C．表观密度
+C．堆积密度>近似密度
+C．互相连通的毛细孔多的材料，吸水率较大
+C．ρ与ρ<sub>0</sub>相差较大
+C．<img height="40" id="Picture 17" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/63d009a4-1305-4c03-9924-cf73f2d08bf3.png" width="120"/>
+C．堆积密度

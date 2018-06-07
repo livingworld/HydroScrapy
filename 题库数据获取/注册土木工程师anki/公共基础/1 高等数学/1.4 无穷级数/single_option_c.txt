@@ -1,0 +1,24 @@
+C．单调减而无下界
+C．必要条件而非充分条件
+C．当p<1时条件收敛
+C．<img height="44" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/fc88c47c-1251-4551-9f26-f6bac1c3a5e2.png" width="106"/>
+C．<img height="52" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/412b9309-1ab8-4d67-b761-d28fd3fe7b08.png" width="122"/>
+C．等比级数收敛
+C．[-1，0）
+C．<img height="55" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/d6350c56-6ea0-41a4-be15-79a4b919b744.png" width="66"/>
+C．（0，4）
+C．（-1，1）
+C．<img border="0" height="70" hspace="0" src="http://admintk.100xuexi.com/UpLoadImage/2017-12-19/026ae77b-3c64-4caa-898c-f1078b6e7539.jpg" style="width:156px;height:70px;float:none;" title="c.jpg" vspace="0" width="156"/>
+C．<img height="40" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/1e30f72b-6768-4610-9ca1-0b73e3afcd41.png" width="58"/>
+C．8
+C．绝对收敛
+C．<img height="44" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/f6705c51-860d-484d-9512-52f8b246f42c.png" width="70"/>
+C．p>0
+C．<img height="39" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/1179f667-c815-4206-857e-6f1cf9c168cf.png" width="85"/>
+C．<img height="43" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/1a4a5f9a-fa7c-4ad9-b491-211d30e29ea4.png" width="91"/>
+C．不定，（-2，2］
+C．（-1，1］
+C．2
+C．1/56
+C．发散
+C．<img height="32" id="图片 522" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/d0b24291-78b0-454c-8afe-db56c911ea06.jpg" width="24"/>

@@ -1,4 +1,4 @@
-A．
+A．<img height="21" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/4d72f688-76fa-4b08-8247-084c594481a9.png" width="69"/>
 A．等于原值的一半
 A．断面流速分布不均匀的液流
 A．恒定均匀流
@@ -7,10 +7,10 @@ A．1：4
 A．A＞B
 A．急流和缓流
 A．惯性力与粘滞力
-A．Recr1＜Recr2
+A．Re<sub>cr1</sub>＜Re<sub>cr2</sub>
 A．随管径变化
 A．液体质点作有秩序的运动
-A．
+A．<img height="45" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/738c4552-a644-4f5f-b855-ee215f282f45.png" width="96"/>
 A．层流区
 A．水力光滑面
 A．水力光滑面
@@ -22,12 +22,12 @@ A．加大
 A．光滑区→粗糙区→过渡粗糙区
 A．对数分布
 A．只适用于明渠流
-A．与成正比
+A．<img height="25" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/295ce791-7122-4d52-9743-dc33e5c98ca3.png" width="20"/>与<img height="24" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/eb65224e-7cd3-4492-95d3-8207551298c8.png" width="25"/>成正比
 A．增大
 A．C与λ成正比
 A．管壁
 A．均匀流
-A．=
+A．<img height="25" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/899d22fd-d711-4e30-ac3e-d1db046831c9.png" width="23"/>=<img height="25" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/6c10f10f-f1e0-425c-83f5-c7717e0a7171.png" width="25"/>
 A．减小
 A．增大
 A．1/2

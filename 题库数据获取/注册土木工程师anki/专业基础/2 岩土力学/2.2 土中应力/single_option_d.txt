@@ -24,4 +24,4 @@ D．室内设计地面
 D．12.2
 D．与组成的土层性质有关
 D．矩形的长边
-D．pmax=280kPa；p0max=152.5kPa；pmin=103.3kPa；p0min=85.5kPa
+D．p<sub>max</sub>=280kPa；p<sub>0max</sub>=152.5kPa；p<sub>min</sub>=103.3kPa；p<sub>0min</sub>=85.5kPa

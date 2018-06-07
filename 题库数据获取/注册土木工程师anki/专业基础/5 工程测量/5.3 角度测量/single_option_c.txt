@@ -1,0 +1,32 @@
+C．一个竖直面
+C．三角架、基座、照准部
+C．水平度盘均为顺时针注记
+C．竖轴误差
+C．CC⊥LL
+C．179°49<sup>′</sup>54<sup>″</sup>
+C．<img height="17" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/1135ae5f-81a1-46d0-a673-477ce87819d8.png" width="57"/>
+C．<img border="0" height="23" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/9bcdff5c-091b-41a2-bf4d-b6343b96a6f7.png" width="63"/>，<img border="0" height="23" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/b4a1e58d-c72a-41ff-a032-73abd2f6babf.png" width="63"/>
+C．水平角测量一测回角度
+C．光学度盘，自动显示
+C．横轴垂直于竖轴
+C．测回法和导线法
+C．夹角投影在水准面上的角值
+C．一测回一方向观测中误差
+C．竖盘读数指标线处于正确位置
+C．减小照准部偏心差
+C．测回法
+C．使水平角度盘处于水平位置
+C．100°00′00″
+C．读数误差
+C．横轴垂直于纵轴
+C．度盘偏心
+C．纵轴铅直和水平度盘水平
+C．全部
+C．I、Ⅲ、V、Ⅵ
+C．方位角测量
+C．±12″
+C．156°06′04″
+C．85°35′06″
+C．88°22′12″
+C．瞄准误差
+C．54°40<sup>′</sup>00<sup>″</sup>

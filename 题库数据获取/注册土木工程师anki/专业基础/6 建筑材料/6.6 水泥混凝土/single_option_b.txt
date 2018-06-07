@@ -1,0 +1,76 @@
+B．缓凝剂
+B．20%
+B．抗冻标号，耐久性指标，耐久性系数
+B．砂率、单位用水量
+B．完全塑性材料
+B．②③④⑤
+B．改善拌合物的和易性
+B．保持水灰比不变，增减水泥用量
+B．骨料最大粒径
+B．立方体抗压强度的标准值
+B．砂率
+B．轴心抗压强度小于立方体抗压强度
+B．在震动荷载作用下产生的塑性变形
+B．抗压强度下降不超过l0％，质量损失不超过20％
+B．掺加矿渣、粉煤灰等矿物掺合料也可抑制碱集料反应
+B．基本不变
+B．实验地点的选择
+B．强度
+B．一定较高
+B．会加重
+B．缓凝剂
+B．筛分曲线
+B．具有与施工条件相适应的和易性
+B．空隙率大，堆积密度较小
+B．空隙率和总表面积均较小
+B．砂的平均粒径过大
+B．M<sub>x</sub>相同，则级配一定不同
+B．砂愈粗
+B．该混凝土中细骨料的颗粒级配愈差
+B．防止碱骨料反应引起的破坏
+B．经受硫酸盐腐蚀的混凝土工程
+B．塑性混凝土
+B．坍落度法
+B．愈大
+B．水泥用量
+B．设计要求
+B．最大砂率
+B．提高砂率
+B．较小砂率
+B．普通减水剂
+B．软水
+B．抗剪强度
+B．70.7mmx70.7mm×70.7mm
+B．1.05
+B．f<sub>cp</sub><f<sub>cu</sub>
+B．f<sub>cp</sub>
+B．85％
+B．15±3℃，RH=80％，28d
+B．时间
+B．f<sub>ce</sub>
+B．无论在何条件下，<img border="0" height="37" id="Picture 75" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/60cf5d95-eb3e-4a88-83bf-ec7f53350d85.png" width="19"/>愈小，则f<sub>ce</sub>愈高
+B．t愈高，后期强度高
+B．<img border="0" height="37" id="Picture 79" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/1c8edfed-2950-4bb1-b0ee-74fce715645f.png" width="89"/>
+B．P·O混凝土所需时间要长些
+B．<img border="0" height="40" id="Picture 87" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/c31bf5c3-f34f-42b1-85e1-780948555518.png" width="77"/>
+B．0.4f<sub>cp</sub>应力水平下的E
+B．一条曲线，σ增大则E<sub>e</sub>逐渐降低
+B．3.60×10<sup>4</sup>MPa
+B．瞬时荷载作用下
+B．增大温度应力
+B．水泥净浆>砂浆>混凝土
+B．提高C，降低<img border="0" height="37" id="Picture 92" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/60cf5d95-eb3e-4a88-83bf-ec7f53350d85.png" width="19"/>
+B．增加水泥用量
+B．水泥用量、水泥强度
+B．<img border="0" height="37" id="Picture 95" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/60cf5d95-eb3e-4a88-83bf-ec7f53350d85.png" width="19"/>
+B．降低
+B．速凝剂
+B．低碱水泥（含碱量<0.6％）
+B．用水量不变条件下，可提高流动性
+B．混凝土不硬化
+B．早强剂
+B．<img border="0" height="37" id="Picture 97" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/60cf5d95-eb3e-4a88-83bf-ec7f53350d85.png" width="19"/>、S<sub>p</sub>、W
+B．和易性要求
+B．f<sub>cu</sub><sub>，</sub><sub>o</sub>=f<sub>cu</sub><sub>，</sub><sub>k</sub>
+B．提高S<sub>p</sub>
+B．施工管理水平高低

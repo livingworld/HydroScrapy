@@ -1,0 +1,7 @@
+1. 预应力梁正截面、斜截面承载力计算公式（　　）。[2010年真题]
+2. 在计算由温差引起的预应力混凝土构件预应力损失σ<sub>13</sub>时，温差Δt指的是（　　）。
+3. 下列关于预应力混凝土的论述，正确的是（　　）。
+4. 预应力钢筋的张拉控制应力<img height="20" id="图片 17" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/26431777-aa5a-451e-aec1-3c652d82e7b5.png" width="25"/>，先张法比后张法取值高，其原因是（　　）。
+5. 预应力钢筋的预应力损失，包括锚具变形损失（<img height="20" id="图片 16" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/9d41ff44-149f-42c7-a422-ce2894274e0b.png" width="20"/>）、摩擦损失（<img height="20" id="图片 15" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/c43272f1-3c89-4726-939f-f92f8255aeae.png" width="21"/>）、湿差损（<img height="20" id="图片 14" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/c0c82074-f003-4740-b49f-c39ccb591c60.png" width="20"/>）、钢筋松弛损失（<img height="20" id="图片 13" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/43423f32-6bde-4875-bd2b-f88cc809c4f4.png" width="21"/>）、混凝土收缩和徐变损失（<img height="20" id="图片 12" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/2e60f372-5eab-4fb1-83c7-81168b0d3362.png" width="20"/>）、局部挤压损失（<img height="20" id="图片 11" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/09308d5f-0ce5-45b7-ba82-6fdbd8e1d44a.png" width="21"/>）。设计计算时，预应力损失的组合，在混凝土预压前为第一批，预压后为第二批。对于先张法构件，预应力损失的组合为（　　）。
+6. 条件相同的钢筋混凝土轴心受拉构件和预应力混凝土轴心受拉构件相比较（　　）。
+7. 采用预应力混凝土梁的效果有（　　）。<br/>（1）可采用高强材料；<br/>（2）可提高梁的抗裂度和刚度；<br/>（3）可提高梁的正截面受弯承载力；<br/>（4）可提高简支梁的斜截面受剪承载力。

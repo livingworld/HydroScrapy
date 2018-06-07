@@ -1,0 +1,40 @@
+B．ln2
+B．a=1，b=-2
+B．α（x）是β（x）的高阶无穷小
+B．跳跃间断点
+B．可去间断点
+B．2个
+B．若f（x0）是f（x）的极值，则f（x）在点x0处可导，且f′（x0）=0
+B．连续但左、右导数不存在
+B．<img height="29" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/fd32b26e-882f-43c9-af54-db19c59e3004.png" width="166"/>
+B．不可导
+B．<img height="41" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/067a1cee-2fca-48db-ba0f-36b3f642bf8c.png" width="24"/>
+B．tant
+B．（∫f（x）dx）′=f（x）
+B．<img height="19" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/068cda70-ab90-431c-8642-d9d521b207d8.png" width="49"/>
+B．-2xe-x2
+B．<img height="36" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/9a8c94fc-3550-4a3f-9942-2f8c090279a3.png" width="116"/>
+B．<img border="0" height="22" hspace="0" src="http://admintk.100xuexi.com/UpLoadImage/2016-07-14/38444116-0ae9-42ad-91f0-cb096d4443d0.jpg" style="width:118px;height:22px;float:none;" title="1.jpg" vspace="0" width="118"/>
+B．<img border="0" height="60" hspace="0" src="http://admintk.100xuexi.com/UpLoadImage/2017-11-21/81dbb157-7356-43ee-b693-44e80e833ea1.jpg" style="width:77px;height:60px;float:none;" title="B.jpg" vspace="0" width="77"/>
+B．<img border="0" height="50" hspace="0" src="http://admintk.100xuexi.com/UpLoadImage/2017-11-21/f0dc23f3-e21a-4306-b5a8-d0b8e7ad714a.jpg" style="width:96px;height:50px;float:none;" title="B.jpg" vspace="0" width="96"/>
+B．都是奇函数
+B．f′（x）＜0，f″（x）＞0
+B．1
+B．单调减且凹的
+B．ln（1+x）＞x
+B．f（x）为奇函数，值域为（-∞，0）
+B．（3，1）
+B．<img height="39" id="图片 136" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/8f2da737-637e-4f29-9241-629159460109.jpg" width="63"/>
+B．2
+B．单调有界函数无第二类间断点
+B．<img height="24" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/b2b28e7b-c103-466b-83ca-3aa0df6125d5.png" width="147"/>
+B．g′（x）是单调增加的
+B．<img height="34" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/bb17486f-21fc-4642-9ac0-e5b36d464090.jpg" width="34"/>
+B．<img border="0" height="40" hspace="0" src="http://admintk.100xuexi.com/UpLoadImage/2017-11-23/85a81221-947d-4a3d-97fe-99d0c832658a.jpg" style="width:132px;height:40px;float:none;" title="b.jpg" vspace="0" width="132"/>
+B．-1≤α<0
+B．-1
+B．连续，偏导数不存在
+B．0
+B．x0的某个邻域内单调减少
+B．有且仅有一个实根
+B．点（0，0）是f（x，y）的极大值点

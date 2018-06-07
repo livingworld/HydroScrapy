@@ -22,33 +22,13 @@ A、B两测压管液面及容器液面均接触大气，以容器底为基准面
 采用解析法计算水中板所受静水总压力为：P=γh<sub>c</sub>A。式中，h<sub>c</sub>为受压面形心在水面下的深度。根据静水总压力计算公式可以看出，静水总压力等于容器底面AB垂直所对应的水的重量，即容器中一部分水重。而支撑面所受的力F为容器中全部的水重，故P＜F。
 作用在铅垂平板上的静水总压力的大小为：<img alt="说明:HWOCRTEMP_ROC730" height="43" id="图片 55" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/a1fd91e2-eb85-45e5-92bf-d2d34b253bab.jpg" width="172"/>。式中，A<sub>p</sub>为压强分布图的面积。故可得该混凝土坝每米宽坝面所受的静水总压力P=1/2×9.8×24×1×24=2822.4kN；作用点位置在水深2/3处，即距底边线8m处。
 根据解析法可得静水总压力大小为：P=P<sub>c</sub>A；式中：P<sub>cw</sub>为形心点处的压强，A为受压面面积。上下两半面积均为<img height="41" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/f66a245d-fed2-4dc4-b4cb-14abccc5fd94.png" width="16"/>S，上半部分的压力为：<img height="41" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/abf7a6c0-77e4-414a-8881-2a9b1c39ce98.png" width="161"/>；下半部分形心压强为<img height="41" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/367d84d1-6218-4125-a38f-2625b94e7076.png" width="184"/>，压力为<img height="41" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/6c437724-39ab-46cb-9788-9a58a92374dc.png" width="164"/>。故可得侧面受到的静水总压力为<img height="24" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/f3c2bf7f-b0e8-4b23-94a7-b00b1031756a.png" width="72"/>。
-
-                                     
-                                
-
-                                     
-                                
-
-                                     
-                                
-
-                                     
-                                
-
-                                     
-                                
-
-                                     
-                                
-
-                                     
-                                
-
-                                     
-                                
-
-                                     
-                                
-
-                                     
-                                
+根据解析法可得静水总压力大小为：P=P<sub>c</sub>A，带入数据可得作用在闸门上的上游静水压力为：2×1/2×（3×9.8+6×9.8）×3=264.6（kN）；下游静水压力为：2×1/2×（1.5×9.8+4.5×9.8）×3=176.4（kN）；作用在闸门上的静水总压力为：2×1/2×（3×9.8+6×9.8）×3-2×1/2×（1.5×9.8+4.5×9.8）×3=88.2（kN）。上游作用点位置计算公式为：<img alt="说明:HWOCRTEMP_ROC870" height="46" id="图片 52" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/8e515723-6f3f-44d9-b6b3-f07da155d927.jpg" width="124"/>。该闸门上游水压力作用点为：<img height="44" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/76c513d7-07c3-4179-a1f5-7724d5ced07f.png" width="220"/>。下游水压力作用点位置为：<img height="44" id="图片 51" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/54982d5d-a8c4-43fd-b448-b630e523aae5.png" width="205"/>。静水总压力压力中心位置距离闸门上缘：<img height="25" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/eeb8b90b-70a2-4898-a7ba-d603c9aacbd0.png" width="21"/>（2.25×264.6-0.75×176.4）/88.2=1.51，则距离底部1.5m。
+静水总压力计算公式为：<img alt="说明:HWOCRTEMP_ROC810" height="25" id="图片 49" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/51f4548b-1949-4220-b637-4d521a657ac0.jpg" width="187"/>，式中<img height="24" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/cf383f67-2e53-42f4-a5bc-ddee7a5b79e7.png" width="20"/>为受压面形心在水面下的深度；<img height="24" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/72026ad7-9b97-42e8-aa81-bc73284c5602.png" width="20"/>为受压面形心处的相对压强。闸门斜放α=60°时所受的静水压力为：<img height="41" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/e1359edc-fdf9-4660-9c85-ba8c3161747e.png" width="389"/>，闸门铅直时所受的静水压力为：<img height="41" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/3a12ef62-7a3b-4117-9719-2e6710e148b5.png" width="323"/>。
+根据解析法可得静水总压力大小为：P=P<sub>c</sub>A。式中，P<sub>cw</sub>为形心点处的压强，A为受压面面积。对于矩形平面，形心一直处在淹没水深的1／2处，所以形心压强不变，但随夹角α的减小受压面积加大，导致总压力的加大。
+采用解析法计算水中板所受静水总压力为：P=γh<sub>c</sub>A。式中，h<sub>c</sub>为受压面形心在水面下的深度。方向与板面形心点的内法线一致，即为垂直于板面。故形心位置不变则大小不变，倾角α改变则水压力方向改变。
+设上下游水面原始高度分别为h<sub>1</sub>、h<sub>2</sub>，则单位宽度闸门的原始静水总压力为：<img height="41" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/54f88098-494c-4579-bb64-c48e066bc5f6.png" width="209"/>；则上下游水位都上升1m时，单位宽度闸门的原始静水总压力为：<img height="41" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/72646725-1b1b-494e-b911-e20f0b5f1b4d.png" width="276"/>；那么，<img height="48" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/3a3710cc-7c4c-4490-8102-0e0913764b6f.png" width="492"/>，即<img height="24" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/f5adc583-ff1b-4321-bc32-404b0ac43954.png" width="43"/>。
+由题知，闸门底部的水压力为4γ，则闸门所受到的总静水压力为1/2×4γ×4×4=32γ，总压力P作用点D为<img alt="说明:HWOCRTEMP_ROC870" height="50" id="图片 46" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/d7c253f4-a1b5-4411-b2ae-dd3ed050c83d.jpg" width="132"/>。式中，I<sub>c</sub>为绕形心轴的惯性矩；<img height="24" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/5aa55916-b5f3-49d9-bcc7-35165eb31b25.png" width="21"/>为作用点距水面的竖直距离；<img height="24" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/5aa55916-b5f3-49d9-bcc7-35165eb31b25.png" width="21"/>为形心点距水面的竖直距离。该矩形闸门作用点距水面的竖直距离为：<img height="44" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/01e91642-a015-4d33-87bd-bc17703b7103.png" width="137"/>（m），则水压力对底面的力臂为4/3m，水压力对底面的力矩=32γ×4/3m=42.7γ。
+以转轴为力矩中心，若要打开闸板，需使合力作用点在转轴之上，而合力作用点距离底部的高度应为水深的1／3。故可知，水位符合条件超过四分之三板高时，闸板会自动打开。
+根据静水压力的垂向性，弧形闸门所受合力方向指向闸门转轴，开启力只需克服闸门重量和闸门所受合力在转轴处带来的很小的摩擦力矩，而开启平板闸门除克服闸门自身重量外，还要克服闸门所受压力所产生的逆时针方向力矩。
+由题意可知，在水中的闸门长度为：<img height="41" id="图片 42" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/b720439f-5508-4433-aa3e-f71072c0ef36.png" width="200"/>，作用在闸门上的静水压力为：<img height="41" id="图片 41" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/12644e79-7926-4388-8e1a-6a364cfd183f.png" width="297"/>，作用点沿闸门距底面的距离为：<img height="41" id="图片 40" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/dc6f71c2-96e7-4ec8-9145-704c8144ff77.png" width="184"/>，根据<img height="43" id="图片 39" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/08b1bf8d-0cd4-46c3-a588-81ca0cc7ca51.png" width="317"/>，可求得开启闸门所需垂直向上的提升力为：<img height="43" id="图片 38" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/6972395e-1bc3-4390-9b45-0092f7836f69.png" width="537"/>。
+采用解析法计算水中板所受静水总压力为：P=γh<sub>c</sub>A。铅垂方向总压力大小等于压力体的重力。先绘制作用于半球顶的水压力体如图1-1-27所示，剖面线部分可看做是从圆柱体中扣除半球体，体积为<img height="41" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/6e438eca-a0ab-48a0-9ff3-123442989ac8.png" width="201"/>，压力为<img height="21" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/4bb0bc02-655a-4226-854b-5eaa5d7425d0.png" width="119"/>，向上。<br/><span style="display:block;text-align:center;"><img alt="说明:HWOCRTEMP_ROC160" height="206" id="图片 36" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/2baad1c4-71e9-42fc-a12b-3cf9773a9060.jpg" width="171"/></span><span style="display:block;text-align:center;">图1-1-27</span>

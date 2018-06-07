@@ -1,0 +1,34 @@
+A．0
+A．过点（-1，2，-3），方向向量为i+2j-3k
+A．<img src="http://admintk.100xuexi.com/UpLoadImage/2017-06-17/8b9ccf49-745b-416a-8159-dfbeca8e41c9.jpg" title="2.jpg"/>
+A．L平行于π
+A．重合
+A．圆锥面
+A．旋转双曲面
+A．母线平行x轴的双曲柱面
+A．<img height="33" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/88512ec9-50ae-4f1f-a9d3-f0205fe57a32.png" width="24"/>
+A．<img height="51" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/fef9b7a3-71fa-4f66-86b5-8dcfd510fc66.png" width="186"/>
+A．β=γ
+A．<img height="23" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/647e6dea-ea1e-4827-bf2c-b0f92b1dc501.png" width="91"/>
+A．a-b=0
+A．必有a=0或b=c
+A．（a·c）b-（a·b）c
+A．0
+A．2
+A．（-3，3，3）
+A．L1∥L2
+A．平行于x轴
+A．x2+y2=4z
+A．（2，0，0）
+A．4x+2y-z=0
+A．a+b+c+2abc=0
+A．x-z-2=0
+A．L平行于π
+A．<img height="41" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/76491360-4ffd-4a84-8e7c-173caec029a0.png" width="147"/>
+A．<img height="19" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/26c443a0-c8cd-48bb-b557-cbc2cea9bdeb.png" width="35"/>
+A．（-1，1，2）
+A．（1，-1，2）
+A．3x2+2z2=16
+A．<img height="25" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/ac923d62-7662-4288-9505-6b5d3beb20e0.jpg" width="172"/>
+A．x轴
+A．与z轴成定角

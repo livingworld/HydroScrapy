@@ -10,16 +10,16 @@ B．3.48
 B．流量大则临界水深大
 B．底坡小则临界水深大
 B．2.01m，临界流
-B．B=8m，Q=2.5m3/s，H=0.35m
-B．C=72.04m1/2/s，Q=113.04m3/s，缓流
-B．i=0.000443，Q=27.47m3/s，急流
+B．B=8m，Q=2.5m<sup>3</sup>/s，H=0.35m
+B．C=72.04m<sup>1/2</sup>/s，Q=113.04m<sup>3</sup>/s，缓流
+B．i=0.000443，Q=27.47m<sup>3</sup>/s，急流
 B．缓坡，急流
 B．缓坡渠道，缓流
 B．均匀急流
 B．均匀流急流
 B．均匀流急流
 B．急流，紊流
-B．h"=1.581m，lj=8.867m，△Ej=1.126m
+B．h"=1.581m，l<sub>j</sub>=8.867m，△E<sub>j</sub>=1.126m
 B．缓流，小于1.0
 B．缓流
 B．缓坡，缓流，增大
@@ -30,6 +30,6 @@ B．渠道断面形状及尺寸
 B．Fr=0.92，1.26m
 B．图（b）和图（c）
 B．是单位质力液体相对于沿程某一基准面的机械能
-B．<img height="41" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/cb5321ac-74f5-4b36-a768-961ae336fe81.png" width="32"/>
+B．<img height="41" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/cb5321ac-74f5-4b36-a768-961ae336fe81.png" width="32"/>＜0
 B．均匀流，临界流，急流，紊流
-B．h″=3.05m，Lj=7.01m
+B．h″=3.05m，L<sub>j</sub>=7.01m

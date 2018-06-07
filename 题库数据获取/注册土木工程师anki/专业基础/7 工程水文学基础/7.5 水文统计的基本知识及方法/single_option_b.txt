@@ -1,0 +1,52 @@
+B．已制成该线型的φ值表供查用，使用方便
+B．检查两个径流系列的可靠性
+B．自然变化特性
+B．<img height="32" id="图片 40" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/1198008b-929a-4cb3-8d5d-9c8bdb5ff7aa.png" width="118"/>
+B．F（x）=P（X=x）
+B．特征值
+B．对称
+B．终点
+B．对称
+B．小于
+B．C<sub>v</sub>＞0
+B．小
+B．C<sub>v</sub>＞0
+B．C<sub>v</sub>＜0
+B．0.22
+B．甲河水资源丰富，径流量年际变化小
+B．C<sub>s</sub>=0
+B．对称
+B．C<sub>s1</sub>＜0；C<sub>s2</sub>＞0；C<sub>s3</sub>＝0
+B．<img height="36" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/84915de7-18bb-471f-8164-55f4ef699d27.png" width="79"/>=0.683
+B．2
+B．均方差
+B．均方差
+B．无穷多个同容量样本参数的数学期望值等于总体的同名参数值
+B．计算出的统计参数近似等于相应总体的统计参数
+B．正偏估计值
+B．负偏
+B．C<sub>v</sub>
+B．提高观测精度
+B．P=<img height="41" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/bf384d49-0c52-4b2c-afe5-3b75076463c7.png" width="35"/>×100%
+B．周期
+B．10
+B．大于等于多年平均年径流量
+B．不小于Q<sub>10%</sub>的年径流量每隔10年必然发生一次
+B．Q<sub>2</sub>
+B．期望公式
+B．降低
+B．变陡，趋平
+B．零相关
+B．零相关
+B．增加系统可靠性
+B．适线法
+B．零相关
+B．零相关
+B．越密切
+B．10以上
+B．≥0.6
+B．15%
+B．<img src="http://admintk.100xuexi.com/UpLoadImage/2016-07-19/d6fbe939-c6d0-466a-b0d2-1070207661ab.jpg" title="1.jpg"/>
+B．与设计变量有较长的平行观测资料
+B．<img height="31" id="图片 13" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/8993be9f-97eb-4f7e-9270-1af9bd07eae4.jpg" width="148"/>
+B．确定采用皮-1型分布

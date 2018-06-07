@@ -7,14 +7,14 @@ C．24.7，1.5，-39.6
 C．78.2kPa
 C．0.5
 C．3
-C．hp=0.60m
+C．h<sub>p</sub>=0.60m
 C．78.6
 C．A、B两管同高
-C．Pa=Pb
-C．Z1+P1/γ1=Z3+P3/γ2
-C．<img height="24" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/bdb4f948-c5eb-494d-a77a-c84c97a191e8.png" width="20"/>
+C．P<sub>a</sub>=P<sub>b</sub>
+C．Z<sub>1</sub>+P<sub>1</sub>/γ<sub>1</sub>=Z<sub>3</sub>+P<sub>3</sub>/γ<sub>2</sub>
+C．<img height="24" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/bdb4f948-c5eb-494d-a77a-c84c97a191e8.png" width="20"/>＜<img height="24" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/41fc6efd-1b15-444b-a5cb-616e0f9fa9d0.png" width="19"/>＜<img height="24" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/e51637e3-1523-4258-9f45-312812152d25.png" width="19"/>
 C．图（c）
-C．PA=PB
+C．P<sub>A</sub>=P<sub>B</sub>
 C．C-C
 C．与受力面外法线方向一致
 C．大小相等，方向相同
@@ -30,5 +30,5 @@ C．不变
 C．64.0γ
 C．超过二分之一板高
 C．减小
-C．1.58×104
+C．1.58×10<sup>4</sup>
 C．164.3kN向上

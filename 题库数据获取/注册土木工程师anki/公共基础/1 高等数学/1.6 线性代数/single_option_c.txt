@@ -1,0 +1,32 @@
+C．<img height="22" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/73788c0a-6d33-475b-b548-505ceab6bc4e.png" width="95"/>
+C．2
+C．<img height="68" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/b5aa97f3-0954-47f8-b684-49f31ee613b2.png" width="96"/>
+C．1
+C．α1，α2，α3必线性无关
+C．α1，α2
+C．x=k1（α2-α1）+k2（α2-α3）+α1
+C．Ax=0一定无解
+C．α1=（1，1，1，0）T，α2=（-1，0，0，1）T
+C．4
+C．<img height="37" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/a9cf0bd5-1519-467a-8ede-a56e5c57b855.png" width="31"/>
+C．<img height="67" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/afd9585a-7bbb-4b82-9e64-2263b72004a7.png" width="81"/>
+C．t>0
+C．0
+C．3次
+C．B的第2行的-2倍加到第1行得A
+C．<img height="47" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/c7ee4912-bd7a-4bcf-9785-5e805185bb49.png" width="127"/>
+C．α1+2α2，2α2+3α3，3α3+α1
+C．α1，α2，α5
+C．E
+C．<img height="40" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/b66a8442-ba90-4d01-9c6f-ac94aca2763f.png" width="207"/>
+C．若Ax=b有无穷多个解，则Ax=0仅有零解
+C．<img border="0" height="40" hspace="0" src="http://admintk.100xuexi.com/UpLoadImage/2017-11-22/5a7d91c3-f604-402c-b8f0-ce5f219d504c.jpg" style="width:170px;height:40px;float:none;" title="c.jpg" vspace="0" width="170"/>
+C．对任意的k1≠0和k2≠0，k1ξ+k2η都不是A的特征向量
+C．<img height="67" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/3e535265-7d6e-4abb-a67d-d47f99f6bb69.png" width="109"/>
+C．A的特征值全为0
+C．<img height="49" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/edce1563-ae4a-4d11-9866-839231b8b08d.png" width="219"/>
+C．<img height="24" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/8f56d02b-a386-4819-9dee-f6374b253775.png" width="84"/>
+C．f的正惯性指数p=n
+C．<img height="20" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/dbbbde74-a65b-4b63-b651-b4fcddfed41a.png" width="51"/>
+C．2
+C．<img height="63" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/42be9b3e-74e0-4906-b4f4-d2f36eb3dd2f.png" width="72"/>

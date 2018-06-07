@@ -1,0 +1,50 @@
+C．DE杆
+C．<img height="24" id="Picture 227" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/e90f6d3e-892e-4d85-8f02-5a8599c7f699.png" width="128"/>
+C．10<em>i</em>
+C．35
+C．5
+C．4
+C．图乘
+C．<img height="44" id="图片 142" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/1a9c18d2-6360-4823-8817-66501ec5d09f.png" width="37"/>
+C．<img height="41" id="Picture 257" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/d96937a2-4de1-4854-a341-f1c4d14f81a3.png" width="29"/>
+C．δ<sub>22</sub>＜δ<sub>11</sub>，δ<sub>12</sub>＜0
+C．<img height="41" id="图片 127" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/208035ca-7b20-4c5c-93da-99947236949f.png" width="40"/>
+C．<img height="46" id="图片 106" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/1b92a3bd-9d9c-470a-a7aa-dc892ef2cbce.png" width="121"/>
+C．Pl/4左侧受拉
+C．Δ<sub>2P</sub>＝0
+C．9l/（16EI）
+C．都是位移
+C．确定的位移与确定的内力之间的对应关系
+C．小于零
+C．9（EI/L）
+C．<img height="23" id="Picture 323" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/aef99c1d-fe30-4dab-8b76-5694c9eb9461.png" width="65"/>
+C．3
+C．<img height="23" id="Picture 334" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/fa64df68-08b7-459a-b67c-d1d26290369c.png" width="28"/>，顺时针
+C．8EI/l
+C．3，3
+C．3
+C．Δ＝F/（12i<sub>1</sub>/h<sup>2</sup>）
+C．四个角位移
+C．<img height="39" id="图片 74" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/3257a37a-fb6c-4f98-9041-448cc3c5cb2c.png" width="96"/>
+C．4
+C．<img height="37" id="图片 66" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/405cb228-683f-4098-a9b1-79112807a08e.png" width="65"/>
+C．<img height="41" id="图片 53" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/564efb08-1d80-43c6-a2be-91af9a94170e.png" width="43"/>
+C．11EI/4；22kN·m
+C．Fl/8
+C．Fa（左侧受拉）
+C．0.571，0.5
+C．ql<sup>2</sup>/23
+C．0.3
+C．混合法
+C．-5kN·m
+C．铰支端
+C．8kN·m
+C．5
+C．0.625；+10.0kN·m
+C．0.294；－48
+C．M<sub>BC</sub>=4iφ<sub>B</sub>+Fl/8
+C．4/11
+C．0.571；0.5
+C．<img height="40" id="图片 13" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/43b76a5b-625c-44a6-905c-2547e333e36b.png" width="68"/>
+C．<img height="39" id="图片 5" src="http://admintk.100xuexi.com/UpLoadImage/2013-05-07/d111c740-62c2-4ab3-857d-36825ddf9c4b.png" width="29"/>
+C．M<sub>BC</sub>＝M<sub>CB</sub>＝－M<sub>CD</sub>＝M<sub>DC</sub>＝Fl/4
